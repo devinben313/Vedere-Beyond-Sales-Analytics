@@ -1,0 +1,11 @@
+campaign_id,campaign_name,strategy,spend,attributed_revenue,roas,cost_per_new_customer,profit_after_ad_spend,action
+C05,VB | Retargeting | Site Visitors + ATC,Retargeting,866.23,4270.7,4.93,54.14,1783.88,Scale
+C03,VB | BFCM 2024 | 25% Off,Seasonal Promotion,381.37,1576.9,4.13,18.16,525.13,Scale
+C06,VB | Lookalike 1% | Purchasers,Lookalike Prospecting,461.76,1574.4,3.41,17.1,546.09,Scale
+C04,VB | Holiday Gifting 2024,Seasonal Promotion,262.43,771.6,2.94,21.87,215.45,Optimize & maintain
+C08,VB | Summer Collection | Reels UGC,UGC / Reels,377.08,1061.2,2.81,25.14,273.35,Optimize & maintain
+C10,VB | Fall Drop 2025 | Carousel,Product Drop,467.36,1192.0,2.55,35.95,260.39,Optimize & maintain
+C02,VB | Interest | Streetwear Enthusiasts,Interest Prospecting,819.47,1876.8,2.29,35.63,327.26,Optimize & maintain
+C07,VB | Spring Drop 2025 | Video,Product Drop,265.37,509.2,1.92,26.54,36.78,Cut / restructure
+C01,VB | Launch | Broad Prospecting,Broad Prospecting,732.43,1217.0,1.66,45.78,45.23,Cut / restructure
+C09,VB | Brand Awareness | Reach,Brand Awareness,639.99,294.0,0.46,213.33,-464.92,Cut / restructure

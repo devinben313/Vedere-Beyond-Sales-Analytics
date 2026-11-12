@@ -1,0 +1,45 @@
+month,campaign_id,campaign_name,strategy,spend,purchases,attributed_revenue,roas
+2024-09,C01,VB | Launch | Broad Prospecting,Broad Prospecting,431.43,11,958.4,2.22
+2024-09,C05,VB | Retargeting | Site Visitors + ATC,Retargeting,38.22,1,28.0,0.73
+2024-10,C01,VB | Launch | Broad Prospecting,Broad Prospecting,301.0,5,258.6,0.86
+2024-10,C02,VB | Interest | Streetwear Enthusiasts,Interest Prospecting,154.25,2,126.0,0.82
+2024-10,C05,VB | Retargeting | Site Visitors + ATC,Retargeting,56.54,3,226.0,4.0
+2024-11,C02,VB | Interest | Streetwear Enthusiasts,Interest Prospecting,137.48,5,325.8,2.37
+2024-11,C03,VB | BFCM 2024 | 25% Off,Seasonal Promotion,306.19,19,1359.4,4.44
+2024-11,C05,VB | Retargeting | Site Visitors + ATC,Retargeting,100.65,4,276.2,2.74
+2024-12,C02,VB | Interest | Streetwear Enthusiasts,Interest Prospecting,139.89,9,869.0,6.21
+2024-12,C03,VB | BFCM 2024 | 25% Off,Seasonal Promotion,75.18,4,217.5,2.89
+2024-12,C04,VB | Holiday Gifting 2024,Seasonal Promotion,262.43,12,771.6,2.94
+2024-12,C05,VB | Retargeting | Site Visitors + ATC,Retargeting,123.02,3,428.0,3.48
+2025-01,C02,VB | Interest | Streetwear Enthusiasts,Interest Prospecting,131.07,4,334.0,2.55
+2025-01,C05,VB | Retargeting | Site Visitors + ATC,Retargeting,41.32,8,738.5,17.87
+2025-02,C02,VB | Interest | Streetwear Enthusiasts,Interest Prospecting,121.44,1,24.0,0.2
+2025-02,C05,VB | Retargeting | Site Visitors + ATC,Retargeting,40.96,5,388.0,9.47
+2025-02,C06,VB | Lookalike 1% | Purchasers,Lookalike Prospecting,45.18,0,0.0,0.0
+2025-03,C02,VB | Interest | Streetwear Enthusiasts,Interest Prospecting,135.34,2,198.0,1.46
+2025-03,C05,VB | Retargeting | Site Visitors + ATC,Retargeting,50.42,4,538.0,10.67
+2025-03,C06,VB | Lookalike 1% | Purchasers,Lookalike Prospecting,48.91,3,96.8,1.98
+2025-03,C07,VB | Spring Drop 2025 | Video,Product Drop,120.43,4,162.2,1.35
+2025-04,C05,VB | Retargeting | Site Visitors + ATC,Retargeting,53.91,1,113.9,2.11
+2025-04,C06,VB | Lookalike 1% | Purchasers,Lookalike Prospecting,50.14,3,319.8,6.38
+2025-04,C07,VB | Spring Drop 2025 | Video,Product Drop,144.94,6,347.0,2.39
+2025-04,C09,VB | Brand Awareness | Reach,Brand Awareness,144.62,2,172.0,1.19
+2025-05,C05,VB | Retargeting | Site Visitors + ATC,Retargeting,53.41,3,236.0,4.42
+2025-05,C06,VB | Lookalike 1% | Purchasers,Lookalike Prospecting,58.15,3,202.0,3.47
+2025-05,C09,VB | Brand Awareness | Reach,Brand Awareness,283.93,1,122.0,0.43
+2025-06,C05,VB | Retargeting | Site Visitors + ATC,Retargeting,58.55,4,229.2,3.91
+2025-06,C06,VB | Lookalike 1% | Purchasers,Lookalike Prospecting,54.05,2,72.0,1.33
+2025-06,C08,VB | Summer Collection | Reels UGC,UGC / Reels,116.32,2,170.8,1.47
+2025-06,C09,VB | Brand Awareness | Reach,Brand Awareness,211.44,0,0.0,0.0
+2025-07,C05,VB | Retargeting | Site Visitors + ATC,Retargeting,62.4,4,294.8,4.72
+2025-07,C06,VB | Lookalike 1% | Purchasers,Lookalike Prospecting,51.57,5,210.0,4.07
+2025-07,C08,VB | Summer Collection | Reels UGC,UGC / Reels,144.45,5,394.0,2.73
+2025-08,C05,VB | Retargeting | Site Visitors + ATC,Retargeting,59.73,2,248.0,4.15
+2025-08,C06,VB | Lookalike 1% | Purchasers,Lookalike Prospecting,52.94,4,250.2,4.73
+2025-08,C08,VB | Summer Collection | Reels UGC,UGC / Reels,116.31,8,496.4,4.27
+2025-09,C05,VB | Retargeting | Site Visitors + ATC,Retargeting,64.02,2,130.0,2.03
+2025-09,C06,VB | Lookalike 1% | Purchasers,Lookalike Prospecting,45.82,5,288.0,6.29
+2025-09,C10,VB | Fall Drop 2025 | Carousel,Product Drop,196.19,4,414.0,2.11
+2025-10,C05,VB | Retargeting | Site Visitors + ATC,Retargeting,63.08,5,396.1,6.28
+2025-10,C06,VB | Lookalike 1% | Purchasers,Lookalike Prospecting,55.0,2,135.6,2.47
+2025-10,C10,VB | Fall Drop 2025 | Carousel,Product Drop,271.17,9,778.0,2.87

@@ -1,0 +1,9 @@
+products: 15 SKUs, prices parsed from currency strings
+meta ads: 1,232 campaign-day rows, 3,983 blank metric cells filled with 0
+customers: removed 5 exact duplicate rows
+orders: removed 6 duplicate rows
+orders: removed 3 test / voided orders
+orders: parsed 25 US-format (MM/DD/YYYY) timestamps
+order_items: removed 4 zero-quantity lines
+customers: 21 skipped the survey -> channel inferred from first-order UTM
+reconciliation: Meta purchase value matches Shopify net sales for every campaign

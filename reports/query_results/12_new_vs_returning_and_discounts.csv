@@ -1,0 +1,9 @@
+order_type,discount_code,orders,net_revenue,aov,discount_given,contribution_margin_pct
+First order,(none),180,12722.0,70.68,0.0,62.9
+First order,WELCOME10,40,3078.0,76.95,342.0,60.8
+First order,BFCM25,24,1522.5,63.44,507.5,54.7
+First order,SUMMER20,2,51.2,25.6,12.8,63.7
+Repeat order,(none),70,5710.0,81.57,0.0,62.6
+Repeat order,VIP15,22,1672.8,76.04,295.2,58.1
+Repeat order,SUMMER20,2,105.6,52.8,26.4,54.6
+Repeat order,BFCM25,1,28.5,28.5,9.5,61.8

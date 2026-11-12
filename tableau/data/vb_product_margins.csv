@@ -1,0 +1,16 @@
+product_id,product_name,category,collection,retail_price,unit_cost,list_margin_pct,units_sold,orders,net_revenue,cogs,gross_profit,realized_margin_pct,pct_of_revenue,gross_profit_per_30_days_live,profit_rank
+P04,Signature Heavyweight Hoodie - Black,Hoodies,Core,78.0,24.0,69.2,77,72,5647.2,1848.0,3799.2,67.3,22.7,267.55,1
+P07,Signature Sweatpants,Bottoms,Core,62.0,19.0,69.3,46,43,2746.6,874.0,1872.6,68.2,11.0,131.87,2
+P05,Signature Heavyweight Hoodie - Cream,Hoodies,Core,78.0,24.0,69.2,35,35,2640.3,840.0,1800.3,68.2,10.6,136.39,3
+P03,Visionary Graphic Tee,Tees,Core,38.0,11.0,71.0,62,60,2261.0,682.0,1579.0,69.8,9.1,111.2,4
+P06,Beyond Crewneck,Crewnecks,Fall/Winter 2024,64.0,19.5,69.5,38,36,2233.6,741.0,1492.6,66.8,9.0,117.22,5
+P01,Essential Logo Tee - Black,Tees,Core,32.0,9.5,70.3,64,61,1944.0,608.0,1336.0,68.7,7.8,94.08,6
+P02,Essential Logo Tee - White,Tees,Core,32.0,9.5,70.3,62,57,1843.2,589.0,1254.2,68.0,7.4,88.32,7
+P08,Embroidered Dad Hat,Accessories,Core,28.0,7.0,75.0,38,38,1033.2,266.0,767.2,74.3,4.2,54.03,8
+P15,Fall '25 Zip Hoodie,Hoodies,Fall 2025,84.0,27.0,67.9,11,11,911.4,297.0,614.4,67.4,3.7,323.37,9
+P09,Knit Beanie,Accessories,Fall/Winter 2024,24.0,6.5,72.9,32,30,751.2,208.0,543.2,72.3,3.0,44.65,10
+P12,Mesh Shorts,Bottoms,Summer 2025,40.0,12.5,68.8,18,17,700.0,225.0,475.0,67.9,2.8,93.14,11
+P13,Summer Boxy Tee,Tees,Summer 2025,34.0,10.0,70.6,20,18,673.2,200.0,473.2,70.3,2.7,92.78,12
+P10,Spring Bloom Graphic Tee,Tees,Spring 2025,36.0,11.5,68.1,19,19,684.0,218.5,465.5,68.1,2.7,59.17,13
+P11,Lightweight Windbreaker,Outerwear,Spring 2025,88.0,43.0,51.1,8,7,695.2,344.0,351.2,50.5,2.8,44.64,14
+P14,Canvas Tote Bag,Accessories,Core,22.0,9.0,59.1,6,6,126.5,54.0,72.5,57.3,0.5,10.16,15

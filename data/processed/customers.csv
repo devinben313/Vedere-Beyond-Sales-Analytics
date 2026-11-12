@@ -1,0 +1,256 @@
+customer_id,first_name,last_name,email,city,state,accepts_marketing,acquisition_channel,acquisition_campaign_id,first_order_date,cohort_month,total_orders,is_repeat_customer,lifetime_revenue,lifetime_contribution,last_order_ts
+VB-C1000,Gregory,Richardson,gregory.richardson@gmail.com,Philadelphia,PA,True,Meta Ads,C01,2024-09-02,2024-09,3,True,348.0,221.25,2025-03-12 18:16:00
+VB-C1001,Diane,Lopez,dlopez@outlook.com,Brooklyn,NY,False,Meta Ads,C01,2024-09-03,2024-09,1,False,78.0,45.94,2024-09-03 22:28:00
+VB-C1002,James,Ross,jamesross25@hotmail.com,Atlanta,GA,True,Instagram Organic,,2024-09-06,2024-09,2,True,172.0,102.41,2024-09-23 21:33:00
+VB-C1003,Joseph,Lopez,joseph.lopez@gmail.com,Columbus,OH,True,Instagram Organic,,2024-09-09,2024-09,1,False,140.4,82.03,2024-09-09 16:42:00
+VB-C1004,Emma,Ruiz,eruiz@gmail.com,Baltimore,MD,True,Meta Ads,C01,2024-09-10,2024-09,2,True,108.0,76.27000000000001,2024-11-09 12:00:00
+VB-C1005,Jennifer,Diaz,jennifer_d9@outlook.com,Houston,TX,True,Meta Ads,C01,2024-09-14,2024-09,1,False,124.2,73.3,2024-09-14 16:31:00
+VB-C1006,Sharon,Campbell,sharon_c71@gmail.com,Brooklyn,NY,True,Meta Ads,C05,2024-09-15,2024-09,3,True,175.9,106.4,2025-01-08 09:31:00
+VB-C1007,Edward,Harris,edward.harris@icloud.com,Atlanta,GA,False,Meta Ads,C01,2024-09-16,2024-09,1,False,70.0,47.92,2024-09-16 15:54:00
+VB-C1008,Jessica,Ward,jessica_w19@hotmail.com,Brooklyn,NY,False,Meta Ads,C01,2024-09-18,2024-09,1,False,78.0,45.94,2024-09-18 07:30:00
+VB-C1009,Kyle,Patel,kyle_p93@yahoo.com,Raleigh,NC,True,Referral,,2024-09-19,2024-09,2,True,158.7,94.25,2024-11-20 18:13:00
+VB-C1010,Sofia,Mendoza,sofiamendoza98@outlook.com,Baltimore,MD,True,Referral,,2024-09-20,2024-09,1,False,63.0,41.12,2024-09-20 19:33:00
+VB-C1011,Mateo,Ruiz,mateo_r5@gmail.com,Austin,TX,True,Meta Ads,C01,2024-09-21,2024-09,2,True,174.0,110.6,2024-10-24 09:05:00
+VB-C1012,Ava,Gutierrez,avagutierrez57@hotmail.com,Chicago,IL,True,Meta Ads,C01,2024-09-22,2024-09,1,False,90.0,55.09,2024-09-22 21:36:00
+VB-C1013,Mary,Flores,mflores@gmail.com,Raleigh,NC,True,Meta Ads,C01,2024-09-25,2024-09,4,True,380.5,225.77,2025-05-04 07:18:00
+VB-C1014,Nicole,Turner,nicole.turner@yahoo.com,Orlando,FL,False,Instagram Organic,,2024-09-28,2024-09,2,True,270.2,161.76,2024-10-24 13:10:00
+VB-C1015,Valeria,Harris,valeriaharris32@gmail.com,Houston,TX,True,Meta Ads,C01,2024-09-29,2024-09,1,False,34.2,23.16,2024-09-29 19:42:00
+VB-C1016,John,Bennett,john_b23@outlook.com,Boston,MA,False,Meta Ads,C01,2024-09-30,2024-09,1,False,60.0,42.21,2024-09-30 20:39:00
+VB-C1017,Andre,Hill,andrehill12@gmail.com,Atlanta,GA,False,Referral,,2024-10-01,2024-10,1,False,94.0,56.47,2024-10-01 15:41:00
+VB-C1018,Isabella,Gutierrez,igutierrez@gmail.com,Houston,TX,False,Meta Ads,C02,2024-10-01,2024-10,1,False,55.8,36.13,2024-10-01 09:48:00
+VB-C1019,Ashley,Phillips,ashley.phillips@outlook.com,Orlando,FL,True,Meta Ads,C01,2024-10-01,2024-10,4,True,300.0,197.83999999999997,2025-02-19 19:51:00
+VB-C1020,Alexander,Rivera,alexanderrivera61@hotmail.com,Washington,DC,False,Meta Ads,C02,2024-10-04,2024-10,3,True,274.2,175.34,2025-03-29 22:45:00
+VB-C1021,Joshua,Young,joshua_y42@gmail.com,Austin,TX,True,Meta Ads,C05,2024-10-05,2024-10,3,True,328.2,197.78,2025-03-06 11:16:00
+VB-C1022,Steven,Ortiz,stevenortiz64@yahoo.com,Los Angeles,CA,True,Meta Ads,C05,2024-10-07,2024-10,1,False,110.0,67.01,2024-10-07 23:45:00
+VB-C1023,Victoria,Evans,victoriaevans8@icloud.com,Houston,TX,True,Meta Ads,C01,2024-10-09,2024-10,2,True,113.2,71.57,2024-11-21 09:17:00
+VB-C1024,Jalen,Gray,jalen.gray@gmail.com,Washington,DC,True,Referral,,2024-10-09,2024-10,1,False,78.0,45.94,2024-10-09 12:30:00
+VB-C1025,Kimberly,James,kimberly.james@gmail.com,Phoenix,AZ,False,Meta Ads,C05,2024-10-10,2024-10,5,True,268.3,183.77,2025-06-01 15:44:00
+VB-C1026,Samuel,Wood,samuel_w12@outlook.com,Orlando,FL,True,Instagram Organic,,2024-10-11,2024-10,1,False,116.0,71.34,2024-10-11 20:52:00
+VB-C1027,Ava,Campbell,acampbell@gmail.com,Los Angeles,CA,False,Meta Ads,C01,2024-10-11,2024-10,1,False,106.0,65.63,2024-10-11 13:12:00
+VB-C1028,Ashley,Jackson,ajackson@gmail.com,Philadelphia,PA,True,TikTok Organic,,2024-10-14,2024-10,1,False,32.0,22.52,2024-10-14 08:00:00
+VB-C1029,Anthony,Cruz,acruz@yahoo.com,Orlando,FL,False,Meta Ads,C01,2024-10-15,2024-10,1,False,70.2,45.11,2024-10-15 23:54:00
+VB-C1030,Christine,Price,cprice@gmail.com,Charlotte,NC,False,Meta Ads,C01,2024-10-17,2024-10,1,False,25.2,18.42,2024-10-17 08:22:00
+VB-C1031,Richard,Harris,richard.harris@outlook.com,Nashville,TN,False,Instagram Organic,,2024-10-17,2024-10,1,False,198.0,117.96,2024-10-17 14:26:00
+VB-C1032,Amanda,Howard,ahoward@hotmail.com,Unknown,CO,True,Instagram Organic,,2024-10-22,2024-10,1,False,78.0,45.94,2024-10-22 16:01:00
+VB-C1033,Shirley,Edwards,sedwards@hotmail.com,Boston,MA,True,Meta Ads,C05,2024-10-22,2024-10,1,False,38.0,26.85,2024-10-22 21:35:00
+VB-C1034,Christine,Ward,christineward85@gmail.com,Houston,TX,True,Instagram Organic,,2024-10-29,2024-10,1,False,110.0,67.01,2024-10-29 22:49:00
+VB-C1035,Justin,Hill,justin_h34@gmail.com,Dallas,TX,True,Instagram Organic,,2024-11-02,2024-11,2,True,206.0,124.92999999999999,2024-12-26 18:45:00
+VB-C1036,Darius,Garcia,dariusgarcia89@gmail.com,Brooklyn,NY,True,Instagram Organic,,2024-11-05,2024-11,1,False,64.0,43.59,2024-11-05 20:25:00
+VB-C1037,Christina,Moore,christina_m31@outlook.com,Washington,DC,False,TikTok Organic,,2024-11-06,2024-11,3,True,435.6,266.56,2025-02-21 23:00:00
+VB-C1038,Kiara,Brooks,kiarabrooks89@gmail.com,Brooklyn,NY,True,Meta Ads,C02,2024-11-10,2024-11,1,False,62.0,42.15,2024-11-10 22:24:00
+VB-C1039,Anna,Edwards,annaedwards84@gmail.com,Dallas,TX,True,TikTok Organic,,2024-11-10,2024-11,1,False,32.0,22.52,2024-11-10 16:08:00
+VB-C1040,Zachary,Cooper,zacharycooper7@gmail.com,Atlanta,GA,True,Instagram Organic,,2024-11-10,2024-11,3,True,122.3,83.61,2025-01-05 14:23:00
+VB-C1041,Patricia,Rogers,patricia.rogers@hotmail.com,Austin,TX,True,Meta Ads,C02,2024-11-13,2024-11,2,True,102.0,63.69,2024-12-12 07:09:00
+VB-C1042,Jasmine,Ramirez,jasmineramirez96@yahoo.com,Orlando,FL,False,TikTok Organic,,2024-11-16,2024-11,1,False,78.0,45.94,2024-11-16 23:13:00
+VB-C1043,Thomas,Lopez,thomas_l73@hotmail.com,Miami,FL,True,Meta Ads,C02,2024-11-16,2024-11,1,False,91.8,52.34,2024-11-16 12:27:00
+VB-C1044,Sharon,Wilson,sharon.wilson@icloud.com,Charlotte,NC,True,Instagram Organic,,2024-11-16,2024-11,3,True,204.0,131.68,2025-02-19 16:54:00
+VB-C1045,Brandon,Ramirez,brandon_r95@yahoo.com,Detroit,MI,False,Meta Ads,C05,2024-11-16,2024-11,1,False,78.0,45.94,2024-11-16 18:51:00
+VB-C1046,Jalen,Foster,jalen.foster@gmail.com,Phoenix,AZ,False,Referral,,2024-11-18,2024-11,2,True,79.6,53.19,2025-01-29 22:05:00
+VB-C1047,Jacob,Phillips,jacobphillips82@gmail.com,Unknown,MD,True,Meta Ads,C03,2024-11-20,2024-11,1,False,38.0,26.85,2024-11-20 10:00:00
+VB-C1048,Julie,Gutierrez,jgutierrez@hotmail.com,Philadelphia,PA,False,Instagram Organic,,2024-11-20,2024-11,2,True,148.0,93.86000000000001,2025-01-06 21:49:00
+VB-C1049,Tyler,Ortiz,tyler.ortiz@hotmail.com,Atlanta,GA,True,Meta Ads,C03,2024-11-20,2024-11,1,False,32.0,22.52,2024-11-20 22:18:00
+VB-C1050,Nancy,Ramos,nancy_r95@gmail.com,Unknown,TX,True,Meta Ads,C03,2024-11-21,2024-11,2,True,94.0,64.67,2025-03-31 14:29:00
+VB-C1051,Daniel,Coleman,dcoleman@outlook.com,Boston,MA,True,Meta Ads,C02,2024-11-21,2024-11,1,False,100.0,61.8,2024-11-21 18:50:00
+VB-C1052,Aaron,Martinez,aaron_m9@yahoo.com,Miami,FL,True,Meta Ads,C03,2024-11-21,2024-11,1,False,156.0,97.18,2024-11-21 12:27:00
+VB-C1053,John,Lewis,john.lewis@gmail.com,Charlotte,NC,True,Referral,,2024-11-22,2024-11,3,True,264.0,159.19,2025-06-22 17:54:00
+VB-C1054,Dennis,Cox,denniscox55@icloud.com,Los Angeles,CA,False,Meta Ads,C03,2024-11-23,2024-11,2,True,73.7,44.96,2025-03-26 08:13:00
+VB-C1055,Angela,Hill,ahill@outlook.com,Denver,CO,False,Meta Ads,C03,2024-11-24,2024-11,1,False,124.0,76.1,2025-01-13 10:13:00
+VB-C1056,Karen,Jones,karen_j69@gmail.com,Chicago,IL,False,Meta Ads,C03,2024-11-24,2024-11,1,False,126.0,77.55,2024-11-24 18:59:00
+VB-C1057,Justin,Cox,justin_c11@icloud.com,Atlanta,GA,True,Meta Ads,C03,2024-11-24,2024-11,1,False,48.0,28.06,2024-11-24 12:31:00
+VB-C1058,Megan,Roberts,mroberts@outlook.com,Chicago,IL,True,Meta Ads,C03,2024-11-24,2024-11,1,False,24.0,14.75,2024-11-24 13:25:00
+VB-C1059,Jasmine,Howard,jhoward@icloud.com,Nashville,TN,True,Meta Ads,C03,2024-11-24,2024-11,1,False,48.0,28.06,2024-11-24 18:13:00
+VB-C1060,Julie,Cox,julie_c37@hotmail.com,Brooklyn,NY,False,Meta Ads,C05,2024-11-25,2024-11,1,False,72.0,41.36,2024-11-25 16:12:00
+VB-C1061,Jacob,Mitchell,jacobmitchell8@hotmail.com,Philadelphia,PA,True,TikTok Organic,,2024-11-25,2024-11,1,False,24.0,14.75,2024-11-25 15:45:00
+VB-C1062,Aaliyah,Jimenez,aaliyahjimenez81@hotmail.com,Los Angeles,CA,True,Meta Ads,C03,2024-11-25,2024-11,1,False,106.5,53.61,2024-11-25 20:46:00
+VB-C1063,Diane,Parker,diane.parker@yahoo.com,Miami,FL,True,Instagram Organic,,2024-11-27,2024-11,1,False,24.0,14.75,2024-11-27 22:44:00
+VB-C1064,Patrick,King,patrick_k59@gmail.com,New York,NY,False,Meta Ads,C03,2024-11-27,2024-11,1,False,135.0,69.78,2024-11-27 14:11:00
+VB-C1065,Deborah,Scott,deborah_s26@outlook.com,Philadelphia,PA,False,Meta Ads,C03,2024-11-28,2024-11,1,False,21.0,14.34,2024-11-28 10:18:00
+VB-C1066,Nicholas,Flores,nicholas_f82@outlook.com,Philadelphia,PA,True,Meta Ads,C02,2024-11-28,2024-11,1,False,48.0,28.06,2024-11-28 23:38:00
+VB-C1067,Amanda,Smith,amandasmith48@gmail.com,Brooklyn,NY,False,Meta Ads,C03,2024-11-28,2024-11,4,True,389.5,223.75,2025-04-30 17:09:00
+VB-C1068,Tyler,Campbell,tcampbell@hotmail.com,Unknown,PA,False,Instagram Organic,,2024-11-29,2024-11,1,False,58.5,33.75,2024-11-29 12:17:00
+VB-C1069,Jalen,Morgan,jmorgan@yahoo.com,Columbus,OH,True,Meta Ads,C03,2024-11-29,2024-11,3,True,187.2,116.12,2025-06-18 17:02:00
+VB-C1070,Mateo,Hill,mateohill2@gmail.com,Dallas,TX,True,Meta Ads,C03,2024-11-29,2024-11,1,False,129.0,65.96,2024-11-29 11:35:00
+VB-C1071,James,King,jking@hotmail.com,Miami,FL,True,Meta Ads,C03,2024-11-30,2024-11,1,False,58.5,33.75,2024-11-30 20:03:00
+VB-C1072,Aaron,Clark,aclark@gmail.com,Brooklyn,NY,True,Referral,,2024-11-30,2024-11,1,False,52.5,30.93,2024-11-30 23:30:00
+VB-C1073,Layla,Reyes,layla_r59@yahoo.com,Denver,CO,True,Meta Ads,C03,2024-11-30,2024-11,1,False,96.0,47.92,2024-11-30 11:42:00
+VB-C1074,Kelly,Campbell,kelly.campbell@gmail.com,New York,NY,True,Meta Ads,C02,2024-12-01,2024-12,2,True,290.3,157.79000000000002,2025-01-24 09:23:00
+VB-C1075,Carol,Davis,carol.davis@outlook.com,Austin,TX,False,Referral,,2024-12-01,2024-12,1,False,70.0,47.92,2024-12-01 14:44:00
+VB-C1076,Thomas,Garcia,thomas_g66@icloud.com,Columbus,OH,True,Meta Ads,C02,2024-12-02,2024-12,1,False,76.5,37.48,2024-12-02 09:36:00
+VB-C1077,Jonathan,Patel,jonathan.patel@gmail.com,New York,NY,True,Meta Ads,C03,2024-12-02,2024-12,1,False,58.5,33.75,2024-12-02 10:44:00
+VB-C1078,Kenneth,Mendoza,kenneth_m37@icloud.com,Raleigh,NC,True,Meta Ads,C03,2024-12-02,2024-12,1,False,111.0,56.48,2024-12-02 17:49:00
+VB-C1079,Sofia,Ortiz,sofia.ortiz@outlook.com,Brooklyn,NY,False,Meta Ads,C03,2024-12-02,2024-12,1,False,24.0,14.75,2024-12-02 15:57:00
+VB-C1080,Sharon,Turner,sharonturner92@icloud.com,Atlanta,GA,True,Meta Ads,C03,2024-12-02,2024-12,1,False,24.0,14.75,2024-12-02 23:00:00
+VB-C1081,Nia,Brown,niabrown63@hotmail.com,Los Angeles,CA,False,Meta Ads,C02,2024-12-05,2024-12,1,False,38.0,26.85,2024-12-05 12:29:00
+VB-C1082,Victoria,Anderson,victoria.anderson@hotmail.com,Seattle,WA,True,Referral,,2024-12-05,2024-12,1,False,181.8,108.73,2024-12-05 13:16:00
+VB-C1083,Rebecca,Harris,rharris@yahoo.com,Boston,MA,True,Instagram Organic,,2024-12-06,2024-12,2,True,70.0,49.370000000000005,2025-01-12 13:20:00
+VB-C1084,Darius,Young,dyoung@icloud.com,Boston,MA,False,Referral,,2024-12-06,2024-12,1,False,70.2,45.11,2024-12-06 13:39:00
+VB-C1085,Katherine,Chavez,katherine.chavez@gmail.com,San Diego,CA,False,Instagram Organic,,2024-12-07,2024-12,1,False,140.0,86.64,2024-12-07 16:00:00
+VB-C1086,Nathan,Diaz,nathandiaz43@yahoo.com,Dallas,TX,True,TikTok Organic,,2024-12-09,2024-12,1,False,54.0,36.38,2024-12-09 10:06:00
+VB-C1087,Patrick,Flores,pflores@yahoo.com,Nashville,TN,True,Meta Ads,C04,2024-12-09,2024-12,1,False,38.0,26.85,2024-12-09 10:21:00
+VB-C1088,Jasmine,Scott,jasmine_s70@icloud.com,Columbus,OH,True,Meta Ads,C02,2024-12-10,2024-12,1,False,120.0,74.22,2024-12-10 13:03:00
+VB-C1089,Aaron,Sanders,aaron_s6@gmail.com,Houston,TX,False,Meta Ads,C04,2024-12-11,2024-12,1,False,28.0,21.14,2024-12-11 18:03:00
+VB-C1090,James,Lewis,jameslewis19@gmail.com,Atlanta,GA,True,Meta Ads,C04,2024-12-11,2024-12,1,False,32.0,22.52,2024-12-11 19:15:00
+VB-C1091,Xavier,Russell,xrussell@icloud.com,Houston,TX,True,Meta Ads,C02,2024-12-12,2024-12,1,False,78.0,45.94,2024-12-12 08:42:00
+VB-C1092,Isaiah,Anderson,isaiah_a42@icloud.com,New York,NY,False,Meta Ads,C02,2024-12-12,2024-12,1,False,102.0,62.24,2024-12-12 12:11:00
+VB-C1093,Marcus,Gray,marcusgray81@hotmail.com,Houston,TX,True,Meta Ads,C04,2024-12-12,2024-12,1,False,24.0,17.75,2024-12-12 20:10:00
+VB-C1094,Matthew,Russell,matthewrussell14@hotmail.com,Nashville,TN,False,Meta Ads,C04,2024-12-13,2024-12,3,True,172.0,110.61,2025-03-22 19:51:00
+VB-C1095,Robert,Butler,robertbutler87@gmail.com,Houston,TX,True,Referral,,2024-12-13,2024-12,2,True,88.0,63.35,2025-01-20 10:24:00
+VB-C1096,Donna,Washington,donna_w28@icloud.com,Unknown,MA,True,Referral,,2024-12-13,2024-12,1,False,169.2,99.99,2024-12-13 19:56:00
+VB-C1097,Camila,Turner,camila.turner@outlook.com,Chicago,IL,True,Meta Ads,C04,2024-12-13,2024-12,1,False,78.0,45.94,2024-12-13 08:59:00
+VB-C1098,Eric,Powell,ericpowell95@gmail.com,Nashville,TN,True,Meta Ads,C04,2024-12-13,2024-12,1,False,102.0,62.24,2024-12-13 12:40:00
+VB-C1099,Jacob,Thompson,jacob.thompson@icloud.com,Houston,TX,True,Meta Ads,C04,2024-12-14,2024-12,1,False,78.0,45.94,2024-12-14 19:20:00
+VB-C1100,Andrew,Walker,awalker@outlook.com,Atlanta,GA,False,Pop-up Event,,2024-12-14,2024-12,1,False,38.0,25.91,2024-12-14 13:12:00
+VB-C1101,Mark,Wright,mark.wright@yahoo.com,Dallas,TX,True,Pop-up Event,,2024-12-14,2024-12,4,True,155.0,99.86,2025-05-27 15:14:00
+VB-C1102,Jacob,Ramirez,jramirez@gmail.com,Atlanta,GA,False,Pop-up Event,,2024-12-14,2024-12,0,False,0.0,0.0,
+VB-C1103,Ronald,Butler,rbutler@icloud.com,Dallas,TX,True,Pop-up Event,,2024-12-14,2024-12,1,False,78.0,51.87,2024-12-14 22:29:00
+VB-C1104,Elizabeth,Sullivan,elizabethsullivan68@gmail.com,Charlotte,NC,False,TikTok Organic,,2024-12-14,2024-12,1,False,94.0,56.47,2024-12-14 14:59:00
+VB-C1105,Mark,Mitchell,mark_m60@gmail.com,Raleigh,NC,True,Pop-up Event,,2024-12-14,2024-12,2,True,52.4,35.83,2025-02-19 23:03:00
+VB-C1106,Samuel,Coleman,scoleman@gmail.com,Austin,TX,True,Pop-up Event,,2024-12-14,2024-12,1,False,28.0,20.17,2024-12-14 11:17:00
+VB-C1107,Sharon,Ward,sharonward86@hotmail.com,Columbus,OH,True,Meta Ads,C05,2024-12-15,2024-12,0,False,0.0,0.0,
+VB-C1108,Michelle,King,michelle.king@hotmail.com,New York,NY,True,Meta Ads,C04,2024-12-15,2024-12,1,False,104.4,60.07,2024-12-15 15:08:00
+VB-C1109,Deborah,Reed,dreed@hotmail.com,Atlanta,GA,True,Meta Ads,C02,2024-12-16,2024-12,1,False,64.0,43.59,2025-01-29 17:10:00
+VB-C1110,Mateo,Johnson,mateojohnson58@yahoo.com,Detroit,MI,True,Meta Ads,C04,2024-12-19,2024-12,1,False,25.2,18.42,2024-12-19 14:48:00
+VB-C1111,Donna,Rivera,drivera@yahoo.com,San Diego,CA,True,Meta Ads,C05,2024-12-19,2024-12,2,True,224.4,142.04,2025-01-27 15:56:00
+VB-C1112,George,Ramirez,george_r28@yahoo.com,Nashville,TN,True,Meta Ads,C04,2024-12-20,2024-12,1,False,88.0,53.15,2024-12-20 15:36:00
+VB-C1113,Ronald,Brooks,ronald_b19@gmail.com,Los Angeles,CA,True,Meta Ads,C04,2024-12-20,2024-12,1,False,96.0,57.92,2024-12-20 13:57:00
+VB-C1114,Karen,Campbell,kcampbell@hotmail.com,Boston,MA,False,Meta Ads,C02,2024-12-21,2024-12,1,False,106.0,65.63,2024-12-21 12:06:00
+VB-C1115,Diego,Moore,diego_m43@gmail.com,Philadelphia,PA,True,Meta Ads,C02,2024-12-28,2024-12,1,False,78.0,45.94,2024-12-28 21:17:00
+VB-C1116,Darius,Cruz,dcruz@gmail.com,Chicago,IL,True,Meta Ads,C02,2024-12-31,2024-12,2,True,218.0,133.57999999999998,2025-03-04 17:58:00
+VB-C1117,Melissa,Ortiz,melissaortiz50@gmail.com,Houston,TX,True,Instagram Organic,,2025-01-03,2025-01,1,False,183.6,108.98,2025-01-03 19:22:00
+VB-C1118,Diane,Gutierrez,dgutierrez@gmail.com,Dallas,TX,True,Meta Ads,C02,2025-01-03,2025-01,2,True,262.2,154.0,2025-02-14 12:38:00
+VB-C1119,Jacob,Young,jacobyoung10@gmail.com,Los Angeles,CA,True,Referral,,2025-01-12,2025-01,0,False,0.0,0.0,
+VB-C1120,Nicholas,Campbell,ncampbell@outlook.com,Unknown,NC,True,Meta Ads,C02,2025-01-15,2025-01,1,False,78.0,45.94,2025-01-15 20:40:00
+VB-C1121,Jose,Kelly,jkelly@icloud.com,Dallas,TX,True,Referral,,2025-01-22,2025-01,1,False,32.0,22.52,2025-01-22 08:15:00
+VB-C1122,Layla,Morales,layla.morales@yahoo.com,Denver,CO,False,Meta Ads,C02,2025-01-25,2025-01,1,False,78.0,45.94,2025-01-25 17:59:00
+VB-C1123,Jennifer,Jimenez,jennifer_j35@yahoo.com,Philadelphia,PA,True,Meta Ads,C02,2025-01-30,2025-01,2,True,114.7,75.27,2025-04-21 22:38:00
+VB-C1124,Dennis,Foster,dennisfoster3@outlook.com,Los Angeles,CA,False,Meta Ads,C05,2025-02-04,2025-02,2,True,240.0,122.19,2025-08-29 22:22:00
+VB-C1125,Valeria,Morales,valeria_m5@icloud.com,Baltimore,MD,True,Meta Ads,C05,2025-02-16,2025-02,1,False,32.0,22.52,2025-02-16 20:01:00
+VB-C1126,Luis,Taylor,ltaylor@hotmail.com,Seattle,WA,True,Meta Ads,C02,2025-02-17,2025-02,1,False,24.0,17.75,2025-02-17 23:08:00
+VB-C1127,Ryan,Rivera,ryan.rivera@icloud.com,New York,NY,False,Instagram Organic,,2025-02-17,2025-02,3,True,263.9,158.1,2025-07-05 18:45:00
+VB-C1128,Stephanie,Bailey,sbailey@gmail.com,San Diego,CA,True,Meta Ads,C07,2025-03-09,2025-03,1,False,32.0,22.52,2025-03-09 20:59:00
+VB-C1129,Amy,Foster,amy_f59@icloud.com,Detroit,MI,False,Referral,,2025-03-09,2025-03,3,True,237.2,152.42000000000002,2025-07-14 18:55:00
+VB-C1130,Zachary,Turner,zacharyturner38@icloud.com,Orlando,FL,False,Instagram Organic,,2025-03-11,2025-03,1,False,38.0,26.85,2025-03-11 12:00:00
+VB-C1131,William,Nelson,william_n30@outlook.com,Miami,FL,True,Meta Ads,C06,2025-03-17,2025-03,1,False,36.0,24.4,2025-03-17 12:11:00
+VB-C1132,Jack,Thomas,jack_t66@gmail.com,Raleigh,NC,True,Instagram Organic,,2025-03-18,2025-03,1,False,57.6,37.38,2025-03-18 13:38:00
+VB-C1133,Kiara,Walker,kiara.walker@yahoo.com,San Diego,CA,True,Referral,,2025-03-18,2025-03,2,True,152.8,97.00999999999999,2025-04-02 20:42:00
+VB-C1134,Samantha,Howard,samantha_h12@outlook.com,Baltimore,MD,False,Meta Ads,C06,2025-03-21,2025-03,1,False,28.8,19.41,2025-03-21 16:32:00
+VB-C1135,Carol,Kelly,carolkelly77@outlook.com,Philadelphia,PA,True,Instagram Organic,,2025-03-21,2025-03,2,True,110.0,68.46,2025-05-03 22:30:00
+VB-C1136,Layla,Rodriguez,layla.rodriguez@hotmail.com,Orlando,FL,True,Meta Ads,C07,2025-03-23,2025-03,1,False,24.0,17.75,2025-03-23 20:12:00
+VB-C1137,Richard,Baker,rbaker@hotmail.com,Detroit,MI,True,Meta Ads,C02,2025-03-24,2025-03,1,False,60.0,40.71,2025-03-24 11:11:00
+VB-C1138,Samantha,White,samantha_w11@icloud.com,Boston,MA,False,Meta Ads,C02,2025-03-26,2025-03,4,True,244.0,161.47,2025-10-02 18:32:00
+VB-C1139,Jason,Robinson,jason.robinson@gmail.com,Philadelphia,PA,True,Meta Ads,C06,2025-03-28,2025-03,1,False,32.0,22.52,2025-03-28 15:38:00
+VB-C1140,Mary,Wilson,mwilson@gmail.com,Houston,TX,True,Instagram Organic,,2025-03-30,2025-03,2,True,62.0,45.1,2025-06-08 23:36:00
+VB-C1141,Luis,Ramirez,lramirez@gmail.com,Orlando,FL,True,Meta Ads,C07,2025-03-30,2025-03,1,False,70.2,45.11,2025-03-30 07:22:00
+VB-C1142,Timothy,Martin,timothy_m52@hotmail.com,New Orleans,LA,True,Referral,,2025-03-31,2025-03,1,False,36.0,24.4,2025-03-31 19:42:00
+VB-C1143,Jalen,Reyes,jalen_r18@yahoo.com,Philadelphia,PA,False,Meta Ads,C05,2025-03-31,2025-03,1,False,148.0,92.41,2025-03-31 22:19:00
+VB-C1144,Benjamin,Martin,benjaminmartin69@gmail.com,Los Angeles,CA,False,Meta Ads,C07,2025-03-31,2025-03,1,False,36.0,24.4,2025-03-31 10:05:00
+VB-C1145,Mia,Cooper,mcooper@gmail.com,New York,NY,True,Meta Ads,C07,2025-04-04,2025-04,1,False,79.2,28.1,2025-04-04 20:55:00
+VB-C1146,Trey,Coleman,trey.coleman@yahoo.com,Austin,TX,True,TikTok Organic,,2025-04-05,2025-04,1,False,96.0,57.92,2025-04-05 17:44:00
+VB-C1147,Jack,Wright,jack_w82@outlook.com,Dallas,TX,False,Meta Ads,C07,2025-04-06,2025-04,4,True,348.0,197.95,2025-09-17 12:45:00
+VB-C1148,Adam,Reyes,adam_r75@outlook.com,New York,NY,False,Meta Ads,C07,2025-04-11,2025-04,1,False,78.0,45.94,2025-04-11 15:16:00
+VB-C1149,Ronald,Jones,ronald.jones@gmail.com,Nashville,TN,False,Meta Ads,C06,2025-04-11,2025-04,1,False,114.0,68.89,2025-04-11 08:38:00
+VB-C1150,Jeffrey,Kelly,jeffrey.kelly@outlook.com,Charlotte,NC,True,Instagram Organic,,2025-04-12,2025-04,1,False,38.0,26.85,2025-04-12 19:42:00
+VB-C1151,Noah,Edwards,noah_e51@gmail.com,Denver,CO,False,Meta Ads,C07,2025-04-14,2025-04,1,False,19.8,11.17,2025-04-14 15:37:00
+VB-C1152,Mateo,Kim,mateokim83@outlook.com,Raleigh,NC,True,Meta Ads,C07,2025-04-18,2025-04,3,True,310.0,193.36,2025-07-24 20:39:00
+VB-C1153,Imani,Cruz,imani.cruz@gmail.com,New York,NY,True,Meta Ads,C06,2025-04-20,2025-04,1,False,127.8,74.29,2025-04-20 12:34:00
+VB-C1154,Amanda,Thompson,athompson@gmail.com,Seattle,WA,True,Meta Ads,C07,2025-04-22,2025-04,1,False,36.0,24.4,2025-04-22 11:19:00
+VB-C1155,Michael,Gutierrez,michael.gutierrez@gmail.com,Miami,FL,True,Meta Ads,C09,2025-04-25,2025-04,1,False,94.0,56.47,2025-04-25 08:51:00
+VB-C1156,Devin,Parker,devin.parker@gmail.com,Los Angeles,CA,True,Referral,,2025-04-27,2025-04,2,True,62.2,44.3,2025-06-14 09:09:00
+VB-C1157,Jonathan,Wood,jwood@hotmail.com,Houston,TX,True,Meta Ads,C06,2025-04-28,2025-04,1,False,78.0,45.94,2025-04-28 19:47:00
+VB-C1158,Patricia,Cruz,patriciacruz77@yahoo.com,Seattle,WA,True,Meta Ads,C09,2025-04-30,2025-04,1,False,78.0,45.94,2025-04-30 12:29:00
+VB-C1159,Rachel,Coleman,rachelcoleman73@hotmail.com,Brooklyn,NY,True,Meta Ads,C09,2025-05-04,2025-05,1,False,122.0,72.66,2025-05-04 07:04:00
+VB-C1160,Steven,Lee,slee@hotmail.com,Nashville,TN,True,Instagram Organic,,2025-05-06,2025-05,1,False,36.0,24.4,2025-05-06 07:12:00
+VB-C1161,Destiny,Anderson,destinyanderson2@gmail.com,Dallas,TX,False,Referral,,2025-05-09,2025-05,2,True,64.3,43.83,2025-06-18 21:54:00
+VB-C1162,Justin,Taylor,justin.taylor@icloud.com,Houston,TX,False,Meta Ads,C06,2025-05-10,2025-05,1,False,116.0,71.34,2025-05-10 10:35:00
+VB-C1163,Kenneth,Jackson,kjackson@hotmail.com,New Orleans,LA,True,TikTok Organic,,2025-05-12,2025-05,1,False,62.0,43.15,2025-05-12 19:58:00
+VB-C1164,Kathleen,Davis,kdavis@gmail.com,Columbus,OH,True,Referral,,2025-05-19,2025-05,3,True,186.2,118.9,2025-10-23 07:04:00
+VB-C1165,Jeffrey,Gray,jgray@gmail.com,New York,NY,True,Meta Ads,C06,2025-05-20,2025-05,1,False,32.0,22.52,2025-05-20 17:35:00
+VB-C1166,George,Baker,georgebaker42@gmail.com,Los Angeles,CA,True,Meta Ads,C06,2025-05-26,2025-05,2,True,168.0,103.27000000000001,2025-09-22 18:30:00
+VB-C1167,Jennifer,Stewart,jenniferstewart40@outlook.com,Houston,TX,False,Meta Ads,C08,2025-06-03,2025-06,1,False,136.8,79.53,2025-06-03 20:00:00
+VB-C1168,Michelle,Smith,michelle.smith@outlook.com,Atlanta,GA,True,Meta Ads,C08,2025-06-11,2025-06,1,False,34.0,23.96,2025-06-11 22:43:00
+VB-C1169,Megan,Stewart,mstewart@hotmail.com,Houston,TX,True,Instagram Organic,,2025-06-17,2025-06,2,True,186.1,110.35,2025-10-27 14:09:00
+VB-C1170,Donna,Mendoza,donnamendoza10@yahoo.com,Unknown,PA,True,Meta Ads,C06,2025-06-20,2025-06,1,False,32.0,22.52,2025-06-20 07:11:00
+VB-C1171,Jason,Thomas,jasonthomas84@outlook.com,New York,NY,False,Referral,,2025-06-23,2025-06,1,False,36.0,23.4,2025-06-23 10:50:00
+VB-C1172,Rebecca,Thompson,rebecca.thompson@hotmail.com,New York,NY,True,Meta Ads,C06,2025-06-25,2025-06,1,False,40.0,27.29,2025-06-25 11:05:00
+VB-C1173,Marcus,Cook,marcus_c21@hotmail.com,Austin,TX,True,Instagram Organic,,2025-06-26,2025-06,1,False,36.0,23.4,2025-06-26 07:26:00
+VB-C1174,Cynthia,King,cynthia.king@icloud.com,Washington,DC,True,Instagram Organic,,2025-06-27,2025-06,1,False,40.0,27.29,2025-06-27 21:39:00
+VB-C1175,Zoe,Roberts,zoeroberts48@gmail.com,Washington,DC,True,Instagram Organic,,2025-06-27,2025-06,1,False,38.0,26.85,2025-06-27 14:45:00
+VB-C1176,Isabella,Lopez,ilopez@gmail.com,Philadelphia,PA,True,Meta Ads,C06,2025-07-03,2025-07,3,True,218.0,133.03,2025-09-17 19:50:00
+VB-C1177,Matthew,Wilson,matthew.wilson@yahoo.com,Atlanta,GA,True,Meta Ads,C05,2025-07-04,2025-07,1,False,72.0,49.36,2025-07-04 12:12:00
+VB-C1178,Jeffrey,Green,jeffrey.green@yahoo.com,Baltimore,MD,True,Meta Ads,C08,2025-07-04,2025-07,1,False,78.0,45.94,2025-07-04 16:45:00
+VB-C1179,Amanda,Scott,amanda_s75@icloud.com,Los Angeles,CA,True,TikTok Organic,,2025-07-04,2025-07,1,False,36.0,23.4,2025-07-04 13:48:00
+VB-C1180,Joshua,Perez,joshua_p19@gmail.com,Austin,TX,False,Meta Ads,C05,2025-07-05,2025-07,2,True,150.8,92.07,2025-10-31 08:41:00
+VB-C1181,Jason,Taylor,jtaylor@yahoo.com,Houston,TX,True,Instagram Organic,,2025-07-06,2025-07,1,False,96.0,57.92,2025-07-06 10:48:00
+VB-C1182,Deborah,Ramirez,deborahramirez40@hotmail.com,Seattle,WA,False,Meta Ads,C06,2025-07-06,2025-07,1,False,78.0,45.94,2025-07-06 22:27:00
+VB-C1183,Mary,Nelson,mnelson@hotmail.com,Philadelphia,PA,True,Instagram Organic,,2025-07-08,2025-07,1,False,34.0,23.96,2025-07-08 12:19:00
+VB-C1184,Melissa,Jones,melissa.jones@gmail.com,Houston,TX,True,Meta Ads,C08,2025-07-11,2025-07,1,False,52.0,37.44,2025-07-11 15:30:00
+VB-C1185,Christopher,Harris,christopher_h20@icloud.com,Los Angeles,CA,False,Meta Ads,C05,2025-07-14,2025-07,2,True,70.0,49.370000000000005,2025-08-14 09:22:00
+VB-C1186,Patrick,Green,pgreen@icloud.com,New York,NY,True,Instagram Organic,,2025-07-14,2025-07,1,False,140.4,82.03,2025-07-14 16:55:00
+VB-C1187,Nathan,Foster,nfoster@gmail.com,Washington,DC,False,Pop-up Event,,2025-07-19,2025-07,1,False,24.0,16.78,2025-07-19 15:12:00
+VB-C1188,Rebecca,Jimenez,rebeccajimenez63@gmail.com,Dallas,TX,True,Pop-up Event,,2025-07-19,2025-07,1,False,25.6,16.31,2025-08-23 20:52:00
+VB-C1189,Samuel,Jenkins,samuel_j5@gmail.com,Atlanta,GA,True,Pop-up Event,,2025-07-19,2025-07,2,True,108.8,59.83,2025-08-19 12:39:00
+VB-C1190,Lisa,Thompson,lisa.thompson@gmail.com,Phoenix,AZ,True,Pop-up Event,,2025-07-19,2025-07,1,False,64.0,42.74,2025-07-19 21:12:00
+VB-C1191,Donna,Cox,donna_c22@gmail.com,Columbus,OH,True,Pop-up Event,,2025-07-19,2025-07,1,False,78.0,51.87,2025-07-19 13:43:00
+VB-C1192,Dennis,Rivera,dennis_r79@yahoo.com,Los Angeles,CA,False,Meta Ads,C08,2025-07-19,2025-07,1,False,86.0,51.71,2025-07-19 08:01:00
+VB-C1193,Thomas,Diaz,thomas.diaz@outlook.com,Charlotte,NC,True,Meta Ads,C06,2025-07-20,2025-07,0,False,0.0,0.0,
+VB-C1194,Lisa,Sanders,lisa_s19@yahoo.com,Charlotte,NC,True,Meta Ads,C06,2025-07-21,2025-07,1,False,36.0,24.4,2025-07-21 09:47:00
+VB-C1195,Karen,Moore,karen.moore@icloud.com,Atlanta,GA,False,Meta Ads,C08,2025-07-21,2025-07,1,False,100.0,59.8,2025-07-21 15:08:00
+VB-C1196,Dennis,Ortiz,dennisortiz27@gmail.com,Miami,FL,True,Meta Ads,C06,2025-07-22,2025-07,1,False,40.0,27.29,2025-07-22 07:35:00
+VB-C1197,Ryan,Morris,ryan_m40@icloud.com,San Diego,CA,True,Instagram Organic,,2025-07-22,2025-07,1,False,32.0,22.52,2025-07-22 19:06:00
+VB-C1198,Jessica,Myers,jessica_m83@gmail.com,Philadelphia,PA,True,Instagram Organic,,2025-07-26,2025-07,1,False,110.0,66.01,2025-07-26 16:44:00
+VB-C1199,James,Chavez,jameschavez31@outlook.com,Houston,TX,True,Referral,,2025-07-27,2025-07,1,False,78.0,45.94,2025-07-27 16:13:00
+VB-C1200,James,Sanders,jsanders@icloud.com,Dallas,TX,True,Meta Ads,C08,2025-07-28,2025-07,1,False,78.0,45.94,2025-07-28 14:13:00
+VB-C1201,Mark,Evans,mevans@gmail.com,Philadelphia,PA,True,Meta Ads,C06,2025-07-31,2025-07,1,False,24.0,17.75,2025-07-31 17:31:00
+VB-C1202,Sharon,Richardson,sharon.richardson@yahoo.com,New Orleans,LA,True,Referral,,2025-07-31,2025-07,1,False,34.0,23.96,2025-07-31 08:06:00
+VB-C1203,Eric,Carter,ericcarter73@gmail.com,New York,NY,True,Meta Ads,C08,2025-08-03,2025-08,1,False,122.0,76.16,2025-08-25 15:00:00
+VB-C1204,Timothy,Mitchell,timothy.mitchell@gmail.com,Chicago,IL,False,TikTok Organic,,2025-08-05,2025-08,1,False,124.0,59.6,2025-08-05 23:19:00
+VB-C1205,Aaron,Russell,aaron.russell@hotmail.com,Charlotte,NC,True,Meta Ads,C06,2025-08-07,2025-08,1,False,64.0,43.59,2025-08-07 19:11:00
+VB-C1206,Heather,Sanders,heather_s92@yahoo.com,Los Angeles,CA,True,Meta Ads,C08,2025-08-07,2025-08,1,False,68.0,46.48,2025-08-07 16:13:00
+VB-C1207,Jack,Collins,jackcollins5@outlook.com,Houston,TX,True,Meta Ads,C08,2025-08-09,2025-08,1,False,66.0,45.03,2025-08-09 16:35:00
+VB-C1208,Jasmine,Perez,jasmine_p52@hotmail.com,Philadelphia,PA,True,Meta Ads,C08,2025-08-09,2025-08,1,False,30.6,20.66,2025-08-09 14:27:00
+VB-C1209,Steven,Flores,steven_f75@yahoo.com,Brooklyn,NY,False,Instagram Organic,,2025-08-10,2025-08,2,True,112.0,76.65,2025-09-02 12:46:00
+VB-C1210,Isabella,Gray,isabella.gray@outlook.com,Houston,TX,False,Referral,,2025-08-11,2025-08,2,True,146.0,87.92,2025-09-20 16:48:00
+VB-C1211,Donald,Cruz,donald_c84@gmail.com,Atlanta,GA,True,Meta Ads,C08,2025-08-15,2025-08,2,True,224.0,136.91,2025-10-12 20:09:00
+VB-C1212,Jack,Anderson,jack_a8@gmail.com,Dallas,TX,True,Meta Ads,C05,2025-08-16,2025-08,1,False,126.0,77.55,2025-08-16 19:40:00
+VB-C1213,Betty,Jenkins,bettyjenkins39@hotmail.com,Brooklyn,NY,True,Meta Ads,C08,2025-08-19,2025-08,1,False,38.0,26.85,2025-08-19 21:03:00
+VB-C1214,John,Kim,jkim@gmail.com,Nashville,TN,True,Meta Ads,C06,2025-08-20,2025-08,1,False,38.0,26.85,2025-08-20 12:17:00
+VB-C1215,Devin,Wood,devinwood17@outlook.com,Austin,TX,True,Meta Ads,C06,2025-08-21,2025-08,1,False,70.2,45.11,2025-08-21 17:57:00
+VB-C1216,Benjamin,Baker,bbaker@icloud.com,Atlanta,GA,True,Meta Ads,C08,2025-08-22,2025-08,2,True,150.0,78.8,2025-10-29 22:56:00
+VB-C1217,Andrea,Baker,abaker@gmail.com,Houston,TX,True,Referral,,2025-08-24,2025-08,1,False,25.6,16.31,2025-08-24 21:55:00
+VB-C1218,Emily,Turner,eturner@outlook.com,Houston,TX,True,Meta Ads,C08,2025-08-25,2025-08,1,False,25.6,16.31,2025-08-25 15:00:00
+VB-C1219,Steven,Barnes,steven_b94@outlook.com,Houston,TX,True,Meta Ads,C06,2025-08-26,2025-08,1,False,78.0,45.94,2025-08-26 12:35:00
+VB-C1220,Barbara,Watson,bwatson@yahoo.com,Brooklyn,NY,True,Meta Ads,C08,2025-08-28,2025-08,2,True,70.2,47.56,2025-10-02 18:42:00
+VB-C1221,Ava,Rogers,arogers@outlook.com,Austin,TX,False,Instagram Organic,,2025-09-01,2025-09,1,False,70.0,47.92,2025-09-01 14:29:00
+VB-C1222,Mary,Perry,mary_p30@gmail.com,Orlando,FL,True,Meta Ads,C06,2025-09-03,2025-09,1,False,62.0,42.15,2025-09-03 21:40:00
+VB-C1223,Matthew,Parker,matthew.parker@gmail.com,Los Angeles,CA,True,Meta Ads,C06,2025-09-03,2025-09,1,False,132.0,81.87,2025-09-03 18:59:00
+VB-C1224,Darius,Reyes,dreyes@icloud.com,Seattle,WA,False,Instagram Organic,,2025-09-04,2025-09,2,True,148.0,93.85,2025-10-27 20:30:00
+VB-C1225,Camila,Lopez,camilalopez33@outlook.com,Miami,FL,True,Meta Ads,C05,2025-09-05,2025-09,1,False,92.0,56.53,2025-09-05 15:15:00
+VB-C1226,Kimberly,Perry,kimberly_p23@outlook.com,Seattle,WA,True,Meta Ads,C06,2025-09-10,2025-09,1,False,28.0,21.14,2025-09-10 15:52:00
+VB-C1227,Zachary,Mendoza,zachary.mendoza@yahoo.com,Miami,FL,True,Meta Ads,C06,2025-09-16,2025-09,2,True,62.0,45.1,2025-10-30 11:40:00
+VB-C1228,Emily,Mendoza,emilymendoza47@gmail.com,Seattle,WA,True,Meta Ads,C05,2025-09-17,2025-09,1,False,38.0,26.85,2025-09-17 13:48:00
+VB-C1229,Jacob,Lewis,jacob_l88@yahoo.com,Miami,FL,True,Meta Ads,C10,2025-09-20,2025-09,1,False,84.0,48.76,2025-09-20 10:46:00
+VB-C1230,Brian,Carter,bcarter@outlook.com,New York,NY,False,Meta Ads,C10,2025-09-21,2025-09,1,False,84.0,48.76,2025-09-21 15:04:00
+VB-C1231,Destiny,Johnson,destiny.johnson@gmail.com,New Orleans,LA,True,Meta Ads,C10,2025-09-21,2025-09,1,False,84.0,48.76,2025-09-21 22:14:00
+VB-C1232,Susan,King,susan_k85@icloud.com,Philadelphia,PA,True,TikTok Organic,,2025-09-22,2025-09,1,False,120.0,74.22,2025-09-22 12:20:00
+VB-C1233,Lauren,Mitchell,lauren.mitchell@gmail.com,Atlanta,GA,True,Meta Ads,C06,2025-09-23,2025-09,1,False,32.0,22.52,2025-09-23 08:48:00
+VB-C1234,Jennifer,Lewis,jenniferlewis73@gmail.com,Columbus,OH,True,Referral,,2025-09-26,2025-09,1,False,32.0,22.52,2025-09-26 15:48:00
+VB-C1235,Nancy,Lewis,nancy.lewis@gmail.com,Washington,DC,False,Meta Ads,C10,2025-09-29,2025-09,1,False,162.0,100.0,2025-09-29 22:49:00
+VB-C1236,Tyler,Clark,tclark@hotmail.com,Atlanta,GA,True,Instagram Organic,,2025-09-29,2025-09,1,False,176.0,110.6,2025-09-29 14:47:00
+VB-C1237,Anna,Murphy,anna.murphy@yahoo.com,Baltimore,MD,True,Referral,,2025-09-30,2025-09,1,False,32.0,22.52,2025-09-30 13:44:00
+VB-C1238,Megan,Watson,megan.watson@outlook.com,Nashville,TN,True,Referral,,2025-10-04,2025-10,1,False,78.0,45.94,2025-10-04 11:59:00
+VB-C1239,Kimberly,Nguyen,kimberly_n53@gmail.com,Philadelphia,PA,True,Meta Ads,C10,2025-10-04,2025-10,1,False,78.0,45.94,2025-10-04 20:51:00
+VB-C1240,Jacob,Cruz,jacob_c34@yahoo.com,Atlanta,GA,True,Meta Ads,C06,2025-10-05,2025-10,1,False,78.0,45.94,2025-10-05 16:28:00
+VB-C1241,Stephanie,Alvarez,salvarez@gmail.com,Philadelphia,PA,True,Meta Ads,C10,2025-10-05,2025-10,1,False,84.0,48.76,2025-10-05 12:10:00
+VB-C1242,Elijah,Cox,elijah_c91@yahoo.com,Nashville,TN,False,Instagram Organic,,2025-10-07,2025-10,1,False,162.0,100.0,2025-10-07 07:03:00
+VB-C1243,Emily,Martinez,emily_m94@gmail.com,Baltimore,MD,True,Meta Ads,C10,2025-10-08,2025-10,1,False,122.0,74.16,2025-10-08 09:45:00
+VB-C1244,Elizabeth,Ward,elizabeth_w65@yahoo.com,San Diego,CA,True,Meta Ads,C10,2025-10-09,2025-10,1,False,32.0,22.52,2025-10-09 15:25:00
+VB-C1245,Donald,Sullivan,donaldsullivan51@icloud.com,Miami,FL,True,Instagram Organic,,2025-10-18,2025-10,1,False,32.0,22.52,2025-10-18 22:22:00
+VB-C1246,Andre,Phillips,andrephillips32@hotmail.com,Boston,MA,True,Referral,,2025-10-19,2025-10,1,False,78.0,45.94,2025-10-19 16:45:00
+VB-C1247,Diane,Morales,dianemorales94@gmail.com,Chicago,IL,False,Meta Ads,C10,2025-10-22,2025-10,1,False,24.0,17.75,2025-10-22 17:09:00
+VB-C1248,Jason,Anderson,jasonanderson75@icloud.com,Unknown,IL,False,Meta Ads,C10,2025-10-22,2025-10,1,False,24.0,17.75,2025-10-22 16:53:00
+VB-C1249,Melissa,Thomas,melissathomas5@gmail.com,Houston,TX,False,Meta Ads,C10,2025-10-23,2025-10,1,False,194.0,121.07,2025-10-23 13:08:00
+VB-C1250,Christopher,Reed,christopherreed28@yahoo.com,Washington,DC,True,Instagram Organic,,2025-10-25,2025-10,1,False,22.0,13.31,2025-10-25 11:35:00
+VB-C1251,Linda,Diaz,linda_d45@outlook.com,Boston,MA,True,Meta Ads,C10,2025-10-27,2025-10,1,False,136.0,84.76,2025-10-27 16:44:00
+VB-C1252,Stephanie,Murphy,stephanie_m1@gmail.com,Charlotte,NC,True,Meta Ads,C06,2025-10-28,2025-10,1,False,57.6,37.38,2025-10-28 08:07:00
+VB-C1253,Aaron,Henderson,aaron.henderson@gmail.com,Denver,CO,False,Referral,,2025-10-28,2025-10,1,False,88.0,36.65,2025-10-28 07:28:00
+VB-C1254,George,Richardson,george.richardson@outlook.com,Dallas,TX,False,Meta Ads,C10,2025-10-30,2025-10,1,False,84.0,48.76,2025-10-30 10:19:00
