@@ -1,0 +1,11 @@
+campaign_id,campaign_name,strategy,creative_type,start_date,end_date,spend,impressions,cpm,link_ctr_pct,cpc,lpv_to_purchase_pct,purchases,new_customers,attributed_revenue,roas,cost_per_purchase,cost_per_new_customer,profit_after_ad_spend,pct_of_spend,pct_of_attributed_revenue,roas_rank,action
+C05,VB | Retargeting | Site Visitors + ATC,Retargeting,Dynamic Product Ads,2024-09-15,2025-10-31,866.23,48619,17.82,1.55,1.15,7.66,49,16,4270.7,4.93,17.68,54.14,1783.88,16.4,29.8,1,Scale
+C03,VB | BFCM 2024 | 25% Off,Seasonal Promotion,Static Image,2024-11-20,2024-12-02,381.37,22924,16.64,1.14,1.46,11.11,23,21,1576.9,4.13,16.58,18.16,525.13,7.2,11.0,2,Scale
+C06,VB | Lookalike 1% | Purchasers,Lookalike Prospecting,UGC Video,2025-02-01,2025-10-31,461.76,38364,12.04,1.12,1.07,7.18,27,27,1574.4,3.41,17.1,17.1,546.09,8.8,11.0,3,Scale
+C04,VB | Holiday Gifting 2024,Seasonal Promotion,Carousel,2024-12-03,2024-12-20,262.43,18981,13.83,0.89,1.56,8.89,12,12,771.6,2.94,21.87,21.87,215.45,5.0,5.4,4,Optimize & maintain
+C08,VB | Summer Collection | Reels UGC,UGC / Reels,UGC Reels,2025-06-01,2025-08-31,377.08,44557,8.46,1.04,0.81,3.99,15,15,1061.2,2.81,25.14,25.14,273.35,7.2,7.4,5,Optimize & maintain
+C10,VB | Fall Drop 2025 | Carousel,Product Drop,Carousel,2025-09-01,2025-10-31,467.36,37792,12.37,0.84,1.47,5.14,13,13,1192.0,2.55,35.95,35.95,260.39,8.9,8.3,6,Optimize & maintain
+C02,VB | Interest | Streetwear Enthusiasts,Interest Prospecting,Carousel,2024-10-01,2025-03-31,819.47,74730,10.97,0.74,1.48,5.15,23,23,1876.8,2.29,35.63,35.63,327.26,15.5,13.1,7,Optimize & maintain
+C07,VB | Spring Drop 2025 | Video,Product Drop,Studio Video,2025-03-08,2025-04-30,265.37,23238,11.42,0.58,1.97,9.01,10,10,509.2,1.92,26.54,26.54,36.78,5.0,3.5,8,Cut / restructure
+C01,VB | Launch | Broad Prospecting,Broad Prospecting,Static Image,2024-09-01,2024-10-20,732.43,79136,9.26,0.58,1.6,4.3,16,16,1217.0,1.66,45.78,45.78,45.23,13.9,8.5,9,Cut / restructure
+C09,VB | Brand Awareness | Reach,Brand Awareness,Studio Video,2025-04-15,2025-06-30,639.99,129566,4.94,0.3,1.63,0.94,3,3,294.0,0.46,213.33,213.33,-464.92,12.1,2.0,10,Cut / restructure

@@ -1,0 +1,7 @@
+category,skus,units_sold,net_revenue,gross_profit,margin_pct,avg_net_price,pct_of_revenue
+Hoodies,3,123,9198.9,6213.9,67.6,74.79,37.0
+Tees,5,227,7405.4,5107.9,69.0,32.62,29.8
+Bottoms,2,64,3446.6,2347.6,68.1,53.85,13.8
+Crewnecks,1,38,2233.6,1492.6,66.8,58.78,9.0
+Accessories,3,76,1910.9,1382.9,72.4,25.14,7.7
+Outerwear,1,8,695.2,351.2,50.5,86.9,2.8

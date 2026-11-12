@@ -1,0 +1,530 @@
+order_id,sku,product_name,size,quantity,unit_price
+#1001,VB-TEE-VIS,Visionary Graphic Tee,S,1,38.0
+#1001,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,M,2,78.0
+#1002,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,S,1,78.0
+#1003,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,M,1,78.0
+#1004,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,XXL,2,78.0
+#1005,VB-HAT-DAD,Embroidered Dad Hat,OS,1,28.0
+#1005,VB-TEE-ESS-WHT,Essential Logo Tee - White,XL,1,32.0
+#1006,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,S,1,78.0
+#1006,VB-TEE-ESS-WHT,Essential Logo Tee - White,L,1,32.0
+#1006,VB-HAT-DAD,Embroidered Dad Hat,OS,1,28.0
+#1007,VB-HAT-DAD,Embroidered Dad Hat,OS,1,28.0
+#1008,VB-TEE-ESS-WHT,Essential Logo Tee - White,XXL,1,32.0
+#1008,VB-TEE-VIS,Visionary Graphic Tee,L,1,38.0
+#1009,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,XXL,1,78.0
+#1010,VB-TEE-VIS,Visionary Graphic Tee,XL,1,38.0
+#1011,VB-TEE-ESS-WHT,Essential Logo Tee - White,M,1,32.0
+#1011,VB-TEE-VIS,Visionary Graphic Tee,M,1,38.0
+#1012,VB-TEE-ESS-BLK,Essential Logo Tee - Black,XXL,1,32.0
+#1013,VB-SWP-SIG,Signature Sweatpants,XL,1,62.0
+#1013,VB-HAT-DAD,Embroidered Dad Hat,OS,1,28.0
+#1014,VB-TEE-ESS-BLK,Essential Logo Tee - Black,M,1,32.0
+#1014,VB-SWP-SIG,Signature Sweatpants,M,1,62.0
+#1015,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,L,1,78.0
+#1015,VB-TEE-ESS-WHT,Essential Logo Tee - White,L,1,32.0
+#1015,VB-HAT-DAD,Embroidered Dad Hat,OS,1,28.0
+#1016,VB-TEE-VIS,Visionary Graphic Tee,M,1,38.0
+#1016,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,L,1,78.0
+#1016,VB-SWP-SIG,Signature Sweatpants,L,1,62.0
+#1017,VB-TEE-VIS,Visionary Graphic Tee,M,1,38.0
+#1018,VB-TEE-ESS-BLK,Essential Logo Tee - Black,XL,1,32.0
+#1018,VB-HAT-DAD,Embroidered Dad Hat,OS,1,28.0
+#1019,VB-SWP-SIG,Signature Sweatpants,S,1,62.0
+#1019,VB-TEE-ESS-BLK,Essential Logo Tee - Black,L,1,32.0
+#1020,VB-SWP-SIG,Signature Sweatpants,XL,1,62.0
+#1021,VB-TEE-ESS-BLK,Essential Logo Tee - Black,L,1,32.0
+#1022,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,XL,1,78.0
+#1023,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,XXL,1,78.0
+#1024,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,L,1,78.0
+#1024,VB-TEE-ESS-BLK,Essential Logo Tee - Black,S,1,32.0
+#1025,VB-HAT-DAD,Embroidered Dad Hat,OS,1,28.0
+#1026,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,M,1,78.0
+#1027,VB-TEE-ESS-BLK,Essential Logo Tee - Black,M,1,32.0
+#1028,VB-TEE-VIS,Visionary Graphic Tee,XL,1,38.0
+#1028,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,L,1,78.0
+#1029,VB-HAT-DAD,Embroidered Dad Hat,OS,1,28.0
+#1029,VB-HOD-SIG-CRM,Signature Heavyweight Hoodie - Cream,S,1,78.0
+#1030,VB-TEE-ESS-BLK,Essential Logo Tee - Black,XL,1,32.0
+#1031,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,XXL,1,78.0
+#1032,VB-HAT-DAD,Embroidered Dad Hat,OS,1,28.0
+#1033,VB-CRW-BYD,Beyond Crewneck,S,1,64.0
+#1033,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,S,2,78.0
+#1034,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,XL,1,78.0
+#1035,VB-TEE-VIS,Visionary Graphic Tee,S,1,38.0
+#1036,VB-SWP-SIG,Signature Sweatpants,L,1,62.0
+#1037,VB-TEE-ESS-BLK,Essential Logo Tee - Black,M,2,32.0
+#1037,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,XL,1,78.0
+#1038,VB-HOD-SIG-CRM,Signature Heavyweight Hoodie - Cream,XL,1,78.0
+#1038,VB-TEE-ESS-BLK,Essential Logo Tee - Black,M,1,32.0
+#1039,VB-TEE-ESS-BLK,Essential Logo Tee - Black,XL,1,32.0
+#1039,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,XL,1,78.0
+#1040,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,L,1,78.0
+#1041,VB-CRW-BYD,Beyond Crewneck,XXL,1,64.0
+#1042,VB-CRW-BYD,Beyond Crewneck,S,1,64.0
+#1042,VB-TEE-ESS-BLK,Essential Logo Tee - Black,L,1,32.0
+#1042,VB-HOD-SIG-CRM,Signature Heavyweight Hoodie - Cream,L,1,78.0
+#1043,VB-BEN-KNT,Knit Beanie,OS,2,24.0
+#1044,VB-SWP-SIG,Signature Sweatpants,M,1,62.0
+#1045,VB-TEE-ESS-BLK,Essential Logo Tee - Black,L,1,32.0
+#1046,VB-HAT-DAD,Embroidered Dad Hat,OS,1,28.0
+#1047,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,XL,1,78.0
+#1048,VB-BEN-KNT,Knit Beanie,OS,1,24.0
+#1049,VB-TEE-ESS-BLK,Essential Logo Tee - Black,XL,1,32.0
+#1050,VB-HOD-SIG-CRM,Signature Heavyweight Hoodie - Cream,S,1,78.0
+#1051,VB-TEE-VIS,Visionary Graphic Tee,L,1,38.0
+#1051,VB-CRW-BYD,Beyond Crewneck,L,1,64.0
+#1052,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,L,1,78.0
+#1053,VB-HOD-SIG-CRM,Signature Heavyweight Hoodie - Cream,L,1,78.0
+#1054,VB-HAT-DAD,Embroidered Dad Hat,OS,1,28.0
+#1054,VB-CRW-BYD,Beyond Crewneck,S,1,64.0
+#1055,VB-TEE-ESS-BLK,Essential Logo Tee - Black,L,1,32.0
+#1056,VB-CRW-BYD,Beyond Crewneck,L,1,64.0
+#1056,VB-HOD-SIG-CRM,Signature Heavyweight Hoodie - Cream,M,1,78.0
+#1057,VB-TEE-VIS,Visionary Graphic Tee,L,1,38.0
+#1058,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,M,1,78.0
+#1058,VB-TEE-ESS-WHT,Essential Logo Tee - White,L,1,32.0
+#1059,VB-TEE-ESS-BLK,Essential Logo Tee - Black,XL,1,32.0
+#1060,VB-BEN-KNT,Knit Beanie,OS,1,24.0
+#1060,VB-CRW-BYD,Beyond Crewneck,XXL,1,64.0
+#1061,VB-SWP-SIG,Signature Sweatpants,M,1,62.0
+#1062,VB-BEN-KNT,Knit Beanie,OS,1,24.0
+#1062,VB-TEE-VIS,Visionary Graphic Tee,S,2,38.0
+#1063,VB-HOD-SIG-CRM,Signature Heavyweight Hoodie - Cream,L,1,78.0
+#1063,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,XXL,1,78.0
+#1064,VB-CRW-BYD,Beyond Crewneck,XXL,1,64.0
+#1065,VB-SWP-SIG,Signature Sweatpants,S,1,62.0
+#1066,VB-SWP-SIG,Signature Sweatpants,S,2,62.0
+#1066,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,M,1,78.0
+#1067,VB-SWP-SIG,Signature Sweatpants,S,1,62.0
+#1067,VB-CRW-BYD,Beyond Crewneck,M,1,64.0
+#1068,VB-TEE-ESS-BLK,Essential Logo Tee - Black,L,1,32.0
+#1068,VB-TEE-ESS-WHT,Essential Logo Tee - White,L,1,32.0
+#1069,VB-TEE-ESS-WHT,Essential Logo Tee - White,L,1,32.0
+#1070,VB-CRW-BYD,Beyond Crewneck,M,1,64.0
+#1071,VB-CRW-BYD,Beyond Crewneck,L,1,64.0
+#1071,VB-TEE-ESS-WHT,Essential Logo Tee - White,XL,1,32.0
+#1072,VB-TEE-ESS-BLK,Essential Logo Tee - Black,M,1,32.0
+#1073,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,M,1,78.0
+#1073,VB-CRW-BYD,Beyond Crewneck,S,1,64.0
+#1074,VB-TEE-ESS-WHT,Essential Logo Tee - White,XL,1,32.0
+#1075,VB-TEE-ESS-WHT,Essential Logo Tee - White,L,2,32.0
+#1075,VB-TEE-VIS,Visionary Graphic Tee,M,1,38.0
+#1075,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,M,1,78.0
+#1076,VB-HAT-DAD,Embroidered Dad Hat,OS,1,28.0
+#1077,VB-TEE-ESS-BLK,Essential Logo Tee - Black,XL,2,32.0
+#1078,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,L,1,78.0
+#1079,VB-HOD-SIG-CRM,Signature Heavyweight Hoodie - Cream,L,1,78.0
+#1080,VB-HAT-DAD,Embroidered Dad Hat,OS,1,28.0
+#1081,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,L,1,78.0
+#1081,VB-TEE-ESS-WHT,Essential Logo Tee - White,M,1,32.0
+#1081,VB-SWP-SIG,Signature Sweatpants,M,1,62.0
+#1082,VB-TEE-VIS,Visionary Graphic Tee,M,1,38.0
+#1083,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,XL,1,78.0
+#1084,VB-TEE-VIS,Visionary Graphic Tee,XL,1,38.0
+#1084,VB-TEE-ESS-BLK,Essential Logo Tee - Black,L,1,32.0
+#1085,VB-CRW-BYD,Beyond Crewneck,M,2,64.0
+#1086,VB-CRW-BYD,Beyond Crewneck,XXL,1,64.0
+#1086,VB-TEE-ESS-BLK,Essential Logo Tee - Black,S,1,32.0
+#1086,VB-HOD-SIG-CRM,Signature Heavyweight Hoodie - Cream,M,1,78.0
+#1087,VB-TEE-VIS,Visionary Graphic Tee,L,1,38.0
+#1087,VB-TEE-ESS-BLK,Essential Logo Tee - Black,L,1,32.0
+#1088,VB-BEN-KNT,Knit Beanie,OS,1,24.0
+#1088,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,XXL,1,78.0
+#1089,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,XL,1,78.0
+#1090,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,S,1,78.0
+#1090,VB-TEE-VIS,Visionary Graphic Tee,M,1,38.0
+#1090,VB-TEE-ESS-BLK,Essential Logo Tee - Black,L,1,32.0
+#1091,VB-TEE-ESS-WHT,Essential Logo Tee - White,L,1,32.0
+#1092,VB-TEE-ESS-WHT,Essential Logo Tee - White,L,1,32.0
+#1093,VB-TEE-VIS,Visionary Graphic Tee,S,1,38.0
+#1094,VB-SWP-SIG,Signature Sweatpants,M,1,62.0
+#1094,VB-TEE-VIS,Visionary Graphic Tee,S,2,38.0
+#1094,VB-CRW-BYD,Beyond Crewneck,M,1,64.0
+#1095,VB-HOD-SIG-CRM,Signature Heavyweight Hoodie - Cream,S,1,78.0
+#1095,VB-BEN-KNT,Knit Beanie,OS,1,24.0
+#1095,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,M,1,78.0
+#1096,VB-TEE-VIS,Visionary Graphic Tee,M,1,38.0
+#1097,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,M,1,78.0
+#1098,VB-SWP-SIG,Signature Sweatpants,M,1,62.0
+#1098,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,XL,1,78.0
+#1099,VB-TEE-ESS-WHT,Essential Logo Tee - White,XXL,1,32.0
+#1099,VB-HAT-DAD,Embroidered Dad Hat,OS,1,28.0
+#1100,VB-TEE-VIS,Visionary Graphic Tee,S,1,38.0
+#1101,VB-BEN-KNT,Knit Beanie,OS,1,24.0
+#1101,VB-TEE-ESS-BLK,Essential Logo Tee - Black,L,1,32.0
+#1101,VB-CRW-BYD,Beyond Crewneck,XL,1,64.0
+#1102,VB-HAT-DAD,Embroidered Dad Hat,OS,1,28.0
+#1103,VB-TEE-ESS-BLK,Essential Logo Tee - Black,XL,1,32.0
+#1104,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,L,1,78.0
+#1105,VB-HOD-SIG-CRM,Signature Heavyweight Hoodie - Cream,L,1,78.0
+#1106,VB-TEE-VIS,Visionary Graphic Tee,L,1,38.0
+#1106,VB-CRW-BYD,Beyond Crewneck,L,1,64.0
+#1107,VB-BEN-KNT,Knit Beanie,OS,1,24.0
+#1108,VB-HOD-SIG-CRM,Signature Heavyweight Hoodie - Cream,XXL,1,78.0
+#1109,VB-HAT-DAD,Embroidered Dad Hat,OS,1,28.0
+#1110,VB-TEE-ESS-WHT,Essential Logo Tee - White,M,1,32.0
+#1110,VB-HOD-SIG-CRM,Signature Heavyweight Hoodie - Cream,M,1,78.0
+#1110,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,M,1,78.0
+#1111,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,M,1,78.0
+#1112,VB-TEE-VIS,Visionary Graphic Tee,M,1,38.0
+#1112,VB-CRW-BYD,Beyond Crewneck,XL,1,64.0
+#1113,VB-HOD-SIG-CRM,Signature Heavyweight Hoodie - Cream,L,1,78.0
+#1114,VB-TEE-VIS,Visionary Graphic Tee,S,1,38.0
+#1115,VB-TEE-ESS-BLK,Essential Logo Tee - Black,XL,1,32.0
+#1116,VB-TEE-ESS-BLK,Essential Logo Tee - Black,M,1,32.0
+#1117,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,L,1,78.0
+#1118,VB-SWP-SIG,Signature Sweatpants,XL,1,62.0
+#1118,VB-TEE-ESS-WHT,Essential Logo Tee - White,L,1,32.0
+#1119,VB-TEE-ESS-BLK,Essential Logo Tee - Black,L,1,32.0
+#1120,VB-HAT-DAD,Embroidered Dad Hat,OS,1,28.0
+#1121,VB-TEE-ESS-BLK,Essential Logo Tee - Black,M,1,32.0
+#1121,VB-TEE-ESS-WHT,Essential Logo Tee - White,XXL,1,32.0
+#1122,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,L,1,78.0
+#1122,VB-TEE-VIS,Visionary Graphic Tee,XL,1,38.0
+#1123,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,XXL,1,78.0
+#1124,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,M,1,78.0
+#1125,VB-HAT-DAD,Embroidered Dad Hat,OS,1,28.0
+#1126,VB-CRW-BYD,Beyond Crewneck,XL,1,64.0
+#1126,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,XL,1,78.0
+#1126,VB-HAT-DAD,Embroidered Dad Hat,OS,1,28.0
+#1127,VB-TEE-ESS-WHT,Essential Logo Tee - White,M,1,32.0
+#1127,VB-TEE-ESS-BLK,Essential Logo Tee - Black,XXL,1,32.0
+#1127,VB-BEN-KNT,Knit Beanie,OS,1,24.0
+#1128,VB-TEE-ESS-BLK,Essential Logo Tee - Black,L,1,32.0
+#1128,VB-CRW-BYD,Beyond Crewneck,M,1,64.0
+#1129,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,M,1,78.0
+#1129,VB-HAT-DAD,Embroidered Dad Hat,OS,1,28.0
+#1130,VB-SWP-SIG,Signature Sweatpants,L,1,62.0
+#1130,VB-CRW-BYD,Beyond Crewneck,M,1,64.0
+#1131,VB-HAT-DAD,Embroidered Dad Hat,OS,1,28.0
+#1131,VB-TEE-ESS-WHT,Essential Logo Tee - White,S,1,32.0
+#1131,VB-SWP-SIG,Signature Sweatpants,M,1,62.0
+#1132,VB-CRW-BYD,Beyond Crewneck,L,2,64.0
+#1133,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,M,1,78.0
+#1134,VB-TEE-VIS,Visionary Graphic Tee,M,1,38.0
+#1134,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,M,1,78.0
+#1134,VB-BEN-KNT,Knit Beanie,OS,1,24.0
+#1135,VB-SWP-SIG,Signature Sweatpants,XXL,1,62.0
+#1136,VB-CRW-BYD,Beyond Crewneck,L,1,64.0
+#1136,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,XL,1,78.0
+#1136,VB-SWP-SIG,Signature Sweatpants,XXL,1,62.0
+#1137,VB-TEE-VIS,Visionary Graphic Tee,S,1,38.0
+#1137,VB-HOD-SIG-CRM,Signature Heavyweight Hoodie - Cream,S,1,78.0
+#1138,VB-HAT-DAD,Embroidered Dad Hat,OS,1,28.0
+#1139,VB-TEE-VIS,Visionary Graphic Tee,M,1,38.0
+#1140,VB-TEE-ESS-BLK,Essential Logo Tee - Black,XL,1,32.0
+#1140,VB-HOD-SIG-CRM,Signature Heavyweight Hoodie - Cream,L,1,78.0
+#1140,VB-TEE-ESS-WHT,Essential Logo Tee - White,M,1,32.0
+#1141,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,M,1,78.0
+#1142,VB-TEE-ESS-BLK,Essential Logo Tee - Black,M,1,32.0
+#1143,VB-HAT-DAD,Embroidered Dad Hat,OS,1,28.0
+#1144,VB-SWP-SIG,Signature Sweatpants,L,2,62.0
+#1145,VB-HOD-SIG-CRM,Signature Heavyweight Hoodie - Cream,M,1,78.0
+#1146,VB-SWP-SIG,Signature Sweatpants,M,1,62.0
+#1147,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,M,1,78.0
+#1147,VB-TEE-ESS-WHT,Essential Logo Tee - White,M,2,32.0
+#1148,VB-TEE-ESS-WHT,Essential Logo Tee - White,M,1,32.0
+#1148,VB-HAT-DAD,Embroidered Dad Hat,OS,1,28.0
+#1149,VB-TEE-ESS-BLK,Essential Logo Tee - Black,M,1,32.0
+#1150,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,XL,2,78.0
+#1150,VB-TEE-ESS-WHT,Essential Logo Tee - White,S,1,32.0
+#1151,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,M,1,78.0
+#1152,VB-CRW-BYD,Beyond Crewneck,M,1,64.0
+#1153,VB-TEE-ESS-BLK,Essential Logo Tee - Black,L,1,32.0
+#1153,VB-BEN-KNT,Knit Beanie,OS,1,24.0
+#1154,VB-TEE-ESS-WHT,Essential Logo Tee - White,S,2,32.0
+#1155,VB-SWP-SIG,Signature Sweatpants,M,1,62.0
+#1156,VB-HAT-DAD,Embroidered Dad Hat,OS,1,28.0
+#1157,VB-CRW-BYD,Beyond Crewneck,L,1,64.0
+#1158,VB-HOD-SIG-CRM,Signature Heavyweight Hoodie - Cream,M,1,78.0
+#1158,VB-TEE-ESS-WHT,Essential Logo Tee - White,L,1,32.0
+#1159,VB-SWP-SIG,Signature Sweatpants,L,1,62.0
+#1160,VB-HAT-DAD,Embroidered Dad Hat,OS,1,28.0
+#1160,VB-SWP-SIG,Signature Sweatpants,XXL,1,62.0
+#1160,VB-TEE-ESS-WHT,Essential Logo Tee - White,S,1,32.0
+#1161,VB-HOD-SIG-CRM,Signature Heavyweight Hoodie - Cream,L,1,78.0
+#1161,VB-SWP-SIG,Signature Sweatpants,M,1,62.0
+#1161,VB-TEE-ESS-WHT,Essential Logo Tee - White,L,1,32.0
+#1162,VB-TEE-ESS-BLK,Essential Logo Tee - Black,M,1,32.0
+#1163,VB-BEN-KNT,Knit Beanie,OS,1,24.0
+#1164,VB-HOD-SIG-CRM,Signature Heavyweight Hoodie - Cream,M,1,78.0
+#1165,VB-TEE-VIS,Visionary Graphic Tee,XL,1,38.0
+#1165,VB-HAT-DAD,Embroidered Dad Hat,OS,1,28.0
+#1165,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,M,1,78.0
+#1166,VB-CRW-BYD,Beyond Crewneck,XL,1,64.0
+#1167,VB-BEN-KNT,Knit Beanie,OS,1,24.0
+#1168,VB-TEE-ESS-BLK,Essential Logo Tee - Black,XL,1,32.0
+#1168,VB-CRW-BYD,Beyond Crewneck,L,1,64.0
+#1169,VB-TEE-VIS,Visionary Graphic Tee,L,1,38.0
+#1170,VB-HOD-SIG-CRM,Signature Heavyweight Hoodie - Cream,L,1,78.0
+#1171,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,XL,1,78.0
+#1172,VB-SWP-SIG,Signature Sweatpants,S,2,62.0
+#1172,VB-BEN-KNT,Knit Beanie,OS,2,24.0
+#1173,VB-TEE-ESS-WHT,Essential Logo Tee - White,L,1,32.0
+#1174,VB-TEE-ESS-BLK,Essential Logo Tee - Black,L,1,32.0
+#1175,VB-TEE-VIS,Visionary Graphic Tee,L,1,38.0
+#1176,VB-TEE-ESS-WHT,Essential Logo Tee - White,XXL,1,32.0
+#1177,VB-TEE-SPR,Spring Bloom Graphic Tee,XL,1,36.0
+#1178,VB-TEE-ESS-WHT,Essential Logo Tee - White,S,1,32.0
+#1178,VB-TEE-ESS-BLK,Essential Logo Tee - Black,XL,1,32.0
+#1179,VB-TEE-ESS-WHT,Essential Logo Tee - White,M,1,32.0
+#1180,VB-TEE-ESS-BLK,Essential Logo Tee - Black,M,1,32.0
+#1181,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,M,1,78.0
+#1182,VB-TEE-ESS-BLK,Essential Logo Tee - Black,L,1,32.0
+#1183,VB-BEN-KNT,Knit Beanie,OS,1,24.0
+#1184,VB-BEN-KNT,Knit Beanie,OS,1,24.0
+#1184,VB-TEE-SPR,Spring Bloom Graphic Tee,S,1,36.0
+#1185,VB-SWP-SIG,Signature Sweatpants,M,1,62.0
+#1185,VB-TEE-SPR,Spring Bloom Graphic Tee,L,1,36.0
+#1185,VB-WBR-SPR,Lightweight Windbreaker,XL,1,88.0
+#1186,VB-TEE-ESS-BLK,Essential Logo Tee - Black,L,1,32.0
+#1187,VB-HOD-SIG-CRM,Signature Heavyweight Hoodie - Cream,XL,1,78.0
+#1187,VB-HAT-DAD,Embroidered Dad Hat,OS,1,28.0
+#1187,VB-TEE-ESS-BLK,Essential Logo Tee - Black,M,1,32.0
+#1188,VB-TEE-ESS-WHT,Essential Logo Tee - White,S,1,32.0
+#1189,VB-SWP-SIG,Signature Sweatpants,M,1,62.0
+#1190,VB-HAT-DAD,Embroidered Dad Hat,OS,1,28.0
+#1191,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,XL,1,78.0
+#1192,VB-TEE-ESS-BLK,Essential Logo Tee - Black,M,1,32.0
+#1193,VB-TEE-SPR,Spring Bloom Graphic Tee,L,1,36.0
+#1194,VB-TEE-VIS,Visionary Graphic Tee,XXL,1,38.0
+#1194,VB-TEE-ESS-BLK,Essential Logo Tee - Black,M,1,32.0
+#1194,VB-HOD-SIG-CRM,Signature Heavyweight Hoodie - Cream,M,1,78.0
+#1195,VB-TEE-SPR,Spring Bloom Graphic Tee,M,1,36.0
+#1196,VB-TEE-VIS,Visionary Graphic Tee,M,1,38.0
+#1197,VB-HAT-DAD,Embroidered Dad Hat,OS,1,28.0
+#1197,VB-TEE-ESS-BLK,Essential Logo Tee - Black,L,1,32.0
+#1197,VB-CRW-BYD,Beyond Crewneck,M,1,64.0
+#1198,VB-WBR-SPR,Lightweight Windbreaker,XL,1,88.0
+#1199,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,S,1,78.0
+#1200,VB-TEE-ESS-BLK,Essential Logo Tee - Black,S,1,32.0
+#1200,VB-CRW-BYD,Beyond Crewneck,XL,1,64.0
+#1201,VB-TEE-SPR,Spring Bloom Graphic Tee,M,1,36.0
+#1202,VB-HOD-SIG-CRM,Signature Heavyweight Hoodie - Cream,XXL,1,78.0
+#1203,VB-TEE-SPR,Spring Bloom Graphic Tee,L,1,36.0
+#1203,VB-HOD-SIG-CRM,Signature Heavyweight Hoodie - Cream,XXL,1,78.0
+#1204,VB-TEE-VIS,Visionary Graphic Tee,S,1,38.0
+#1205,VB-TOT-CNV,Canvas Tote Bag,OS,1,22.0
+#1206,VB-SWP-SIG,Signature Sweatpants,L,1,62.0
+#1206,VB-TEE-SPR,Spring Bloom Graphic Tee,L,1,36.0
+#1207,VB-TEE-ESS-WHT,Essential Logo Tee - White,M,1,32.0
+#1207,VB-TEE-ESS-BLK,Essential Logo Tee - Black,L,1,32.0
+#1207,VB-HOD-SIG-CRM,Signature Heavyweight Hoodie - Cream,S,1,78.0
+#1208,VB-SWP-SIG,Signature Sweatpants,XXL,1,62.0
+#1209,VB-TEE-VIS,Visionary Graphic Tee,XL,1,38.0
+#1209,VB-TEE-ESS-WHT,Essential Logo Tee - White,L,1,32.0
+#1210,VB-TEE-SPR,Spring Bloom Graphic Tee,S,1,36.0
+#1211,VB-SWP-SIG,Signature Sweatpants,L,1,62.0
+#1211,VB-TEE-ESS-WHT,Essential Logo Tee - White,S,1,32.0
+#1212,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,L,1,78.0
+#1212,VB-TEE-ESS-WHT,Essential Logo Tee - White,XL,1,32.0
+#1212,VB-BEN-KNT,Knit Beanie,OS,1,24.0
+#1213,VB-TEE-VIS,Visionary Graphic Tee,S,1,38.0
+#1214,VB-HOD-SIG-CRM,Signature Heavyweight Hoodie - Cream,L,1,78.0
+#1215,VB-TEE-VIS,Visionary Graphic Tee,XL,1,38.0
+#1215,VB-TEE-ESS-WHT,Essential Logo Tee - White,M,2,32.0
+#1215,VB-TEE-ESS-BLK,Essential Logo Tee - Black,XXL,1,32.0
+#1216,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,L,1,78.0
+#1217,VB-TEE-ESS-WHT,Essential Logo Tee - White,L,1,32.0
+#1218,VB-HAT-DAD,Embroidered Dad Hat,OS,1,28.0
+#1219,VB-TOT-CNV,Canvas Tote Bag,OS,1,22.0
+#1219,VB-SWP-SIG,Signature Sweatpants,S,1,62.0
+#1219,VB-TEE-VIS,Visionary Graphic Tee,M,1,38.0
+#1220,VB-TEE-ESS-WHT,Essential Logo Tee - White,L,1,32.0
+#1220,VB-SWP-SIG,Signature Sweatpants,L,1,62.0
+#1221,VB-TEE-SPR,Spring Bloom Graphic Tee,M,1,36.0
+#1222,VB-TEE-ESS-WHT,Essential Logo Tee - White,L,1,32.0
+#1223,VB-TEE-VIS,Visionary Graphic Tee,XL,1,38.0
+#1223,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,L,1,78.0
+#1224,VB-BEN-KNT,Knit Beanie,OS,1,24.0
+#1224,VB-TEE-VIS,Visionary Graphic Tee,S,1,38.0
+#1225,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,L,1,78.0
+#1225,VB-TEE-SPR,Spring Bloom Graphic Tee,L,1,36.0
+#1226,VB-SWP-SIG,Signature Sweatpants,M,1,62.0
+#1226,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,XL,1,78.0
+#1227,VB-TEE-VIS,Visionary Graphic Tee,L,1,38.0
+#1228,VB-TEE-ESS-BLK,Essential Logo Tee - Black,S,1,32.0
+#1229,VB-TOT-CNV,Canvas Tote Bag,OS,1,22.0
+#1229,VB-TEE-ESS-WHT,Essential Logo Tee - White,L,1,32.0
+#1230,VB-TOT-CNV,Canvas Tote Bag,OS,1,22.0
+#1231,VB-HAT-DAD,Embroidered Dad Hat,OS,1,28.0
+#1231,VB-TEE-VIS,Visionary Graphic Tee,L,1,38.0
+#1232,VB-SHT-MSH,Mesh Shorts,XXL,1,40.0
+#1232,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,M,1,78.0
+#1232,VB-TEE-BOX,Summer Boxy Tee,S,1,34.0
+#1233,VB-TEE-ESS-WHT,Essential Logo Tee - White,L,1,32.0
+#1234,VB-TEE-BOX,Summer Boxy Tee,M,1,34.0
+#1235,VB-TEE-BOX,Summer Boxy Tee,L,1,34.0
+#1236,VB-HAT-DAD,Embroidered Dad Hat,OS,1,28.0
+#1237,VB-TEE-SPR,Spring Bloom Graphic Tee,M,1,36.0
+#1237,VB-TEE-VIS,Visionary Graphic Tee,M,1,38.0
+#1237,VB-TEE-ESS-WHT,Essential Logo Tee - White,L,1,32.0
+#1238,VB-SWP-SIG,Signature Sweatpants,XL,1,62.0
+#1239,VB-HAT-DAD,Embroidered Dad Hat,OS,1,28.0
+#1239,VB-BEN-KNT,Knit Beanie,OS,1,24.0
+#1239,VB-TEE-ESS-BLK,Essential Logo Tee - Black,XL,1,32.0
+#1240,VB-TEE-VIS,Visionary Graphic Tee,M,1,38.0
+#1241,VB-TEE-ESS-WHT,Essential Logo Tee - White,XL,1,32.0
+#1242,VB-TEE-BOX,Summer Boxy Tee,S,1,34.0
+#1243,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,S,1,78.0
+#1243,VB-BEN-KNT,Knit Beanie,OS,1,24.0
+#1244,VB-SHT-MSH,Mesh Shorts,M,1,40.0
+#1245,VB-SHT-MSH,Mesh Shorts,M,1,40.0
+#1246,VB-TEE-BOX,Summer Boxy Tee,M,1,34.0
+#1247,VB-SHT-MSH,Mesh Shorts,M,1,40.0
+#1248,VB-SHT-MSH,Mesh Shorts,S,1,40.0
+#1249,VB-TEE-VIS,Visionary Graphic Tee,XL,1,38.0
+#1250,VB-TEE-ESS-BLK,Essential Logo Tee - Black,M,1,32.0
+#1251,VB-TEE-BOX,Summer Boxy Tee,M,1,34.0
+#1251,VB-TEE-VIS,Visionary Graphic Tee,L,1,38.0
+#1252,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,XL,1,78.0
+#1253,VB-SHT-MSH,Mesh Shorts,M,1,40.0
+#1254,VB-TEE-ESS-WHT,Essential Logo Tee - White,M,1,32.0
+#1254,VB-SHT-MSH,Mesh Shorts,L,1,40.0
+#1255,VB-HAT-DAD,Embroidered Dad Hat,OS,1,28.0
+#1255,VB-SHT-MSH,Mesh Shorts,L,1,40.0
+#1255,VB-CRW-BYD,Beyond Crewneck,XL,1,64.0
+#1256,VB-CRW-BYD,Beyond Crewneck,L,1,64.0
+#1256,VB-TEE-ESS-BLK,Essential Logo Tee - Black,M,1,32.0
+#1257,VB-HOD-SIG-CRM,Signature Heavyweight Hoodie - Cream,XXL,1,78.0
+#1258,VB-TEE-BOX,Summer Boxy Tee,L,1,34.0
+#1259,VB-HAT-DAD,Embroidered Dad Hat,OS,1,28.0
+#1259,VB-BEN-KNT,Knit Beanie,OS,1,24.0
+#1260,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,S,1,78.0
+#1260,VB-SWP-SIG,Signature Sweatpants,XXL,1,62.0
+#1260,VB-TEE-VIS,Visionary Graphic Tee,XL,1,38.0
+#1261,VB-TEE-ESS-WHT,Essential Logo Tee - White,L,1,32.0
+#1262,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,XL,2,78.0
+#1263,VB-BEN-KNT,Knit Beanie,OS,1,24.0
+#1264,VB-TEE-ESS-WHT,Essential Logo Tee - White,L,1,32.0
+#1265,VB-TEE-ESS-BLK,Essential Logo Tee - Black,L,1,32.0
+#1266,VB-CRW-BYD,Beyond Crewneck,M,1,64.0
+#1267,VB-HOD-SIG-CRM,Signature Heavyweight Hoodie - Cream,S,1,78.0
+#1268,VB-BEN-KNT,Knit Beanie,OS,1,24.0
+#1268,VB-SWP-SIG,Signature Sweatpants,M,1,62.0
+#1269,VB-BEN-KNT,Knit Beanie,OS,1,24.0
+#1270,VB-TEE-SPR,Spring Bloom Graphic Tee,L,1,36.0
+#1271,VB-BEN-KNT,Knit Beanie,OS,1,24.0
+#1271,VB-TEE-SPR,Spring Bloom Graphic Tee,M,1,36.0
+#1271,VB-SHT-MSH,Mesh Shorts,XL,1,40.0
+#1272,VB-SHT-MSH,Mesh Shorts,L,1,40.0
+#1273,VB-TEE-ESS-WHT,Essential Logo Tee - White,M,1,32.0
+#1274,VB-TEE-ESS-BLK,Essential Logo Tee - Black,L,1,32.0
+#1274,VB-SHT-MSH,Mesh Shorts,XL,1,40.0
+#1275,VB-SHT-MSH,Mesh Shorts,M,2,40.0
+#1276,VB-TEE-BOX,Summer Boxy Tee,L,1,34.0
+#1276,VB-TEE-SPR,Spring Bloom Graphic Tee,L,1,36.0
+#1276,VB-SHT-MSH,Mesh Shorts,L,1,40.0
+#1277,VB-SHT-MSH,Mesh Shorts,M,1,40.0
+#1277,VB-TEE-VIS,Visionary Graphic Tee,M,1,38.0
+#1278,VB-HOD-SIG-CRM,Signature Heavyweight Hoodie - Cream,M,1,78.0
+#1279,VB-BEN-KNT,Knit Beanie,OS,1,24.0
+#1280,VB-TEE-BOX,Summer Boxy Tee,M,1,34.0
+#1281,VB-SHT-MSH,Mesh Shorts,S,1,40.0
+#1282,VB-TEE-SPR,Spring Bloom Graphic Tee,XL,1,36.0
+#1282,VB-WBR-SPR,Lightweight Windbreaker,L,1,88.0
+#1283,VB-CRW-BYD,Beyond Crewneck,L,1,64.0
+#1284,VB-TEE-BOX,Summer Boxy Tee,L,2,34.0
+#1285,VB-TEE-ESS-WHT,Essential Logo Tee - White,L,1,32.0
+#1285,VB-TEE-BOX,Summer Boxy Tee,L,1,34.0
+#1286,VB-TEE-BOX,Summer Boxy Tee,M,1,34.0
+#1287,VB-TEE-VIS,Visionary Graphic Tee,XXL,1,38.0
+#1288,VB-SHT-MSH,Mesh Shorts,M,1,40.0
+#1289,VB-TEE-VIS,Visionary Graphic Tee,M,1,38.0
+#1290,VB-TEE-VIS,Visionary Graphic Tee,L,1,38.0
+#1291,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,S,1,78.0
+#1291,VB-TEE-BOX,Summer Boxy Tee,M,2,34.0
+#1292,VB-TEE-ESS-WHT,Essential Logo Tee - White,L,1,32.0
+#1292,VB-SWP-SIG,Signature Sweatpants,M,1,62.0
+#1292,VB-TEE-ESS-BLK,Essential Logo Tee - Black,M,1,32.0
+#1293,VB-TEE-VIS,Visionary Graphic Tee,S,1,38.0
+#1293,VB-SWP-SIG,Signature Sweatpants,L,1,62.0
+#1294,VB-TEE-VIS,Visionary Graphic Tee,S,1,38.0
+#1295,VB-TEE-VIS,Visionary Graphic Tee,XXL,1,38.0
+#1296,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,M,1,78.0
+#1297,VB-WBR-SPR,Lightweight Windbreaker,L,1,88.0
+#1298,VB-TEE-ESS-BLK,Essential Logo Tee - Black,XL,1,32.0
+#1299,VB-TEE-ESS-WHT,Essential Logo Tee - White,XL,1,32.0
+#1300,VB-TEE-ESS-BLK,Essential Logo Tee - Black,M,1,32.0
+#1300,VB-HAT-DAD,Embroidered Dad Hat,OS,1,28.0
+#1300,VB-SWP-SIG,Signature Sweatpants,L,1,62.0
+#1301,VB-TEE-ESS-WHT,Essential Logo Tee - White,XXL,1,32.0
+#1302,VB-HOD-SIG-CRM,Signature Heavyweight Hoodie - Cream,M,1,78.0
+#1303,VB-TEE-VIS,Visionary Graphic Tee,L,1,38.0
+#1304,VB-WBR-SPR,Lightweight Windbreaker,XXL,2,88.0
+#1305,VB-TEE-ESS-BLK,Essential Logo Tee - Black,XL,1,32.0
+#1305,VB-TEE-VIS,Visionary Graphic Tee,M,1,38.0
+#1306,VB-TEE-SPR,Spring Bloom Graphic Tee,M,1,36.0
+#1306,VB-TEE-VIS,Visionary Graphic Tee,XL,1,38.0
+#1307,VB-SWP-SIG,Signature Sweatpants,XL,1,62.0
+#1308,VB-SWP-SIG,Signature Sweatpants,XL,1,62.0
+#1308,VB-TEE-VIS,Visionary Graphic Tee,XL,1,38.0
+#1308,VB-TEE-ESS-BLK,Essential Logo Tee - Black,XL,1,32.0
+#1309,VB-BEN-KNT,Knit Beanie,OS,1,24.0
+#1310,VB-CRW-BYD,Beyond Crewneck,XL,1,64.0
+#1310,VB-HAT-DAD,Embroidered Dad Hat,OS,1,28.0
+#1311,VB-HAT-DAD,Embroidered Dad Hat,OS,1,28.0
+#1312,VB-TEE-BOX,Summer Boxy Tee,L,1,34.0
+#1313,VB-WBR-SPR,Lightweight Windbreaker,XL,1,88.0
+#1313,VB-BEN-KNT,Knit Beanie,OS,1,24.0
+#1314,VB-SHT-MSH,Mesh Shorts,L,1,40.0
+#1314,VB-TEE-BOX,Summer Boxy Tee,XL,1,34.0
+#1314,VB-TEE-ESS-BLK,Essential Logo Tee - Black,M,1,32.0
+#1315,VB-TEE-VIS,Visionary Graphic Tee,S,1,38.0
+#1316,VB-HOD-ZIP,Fall '25 Zip Hoodie,M,1,84.0
+#1316,VB-TOT-CNV,Canvas Tote Bag,OS,1,22.0
+#1317,VB-HOD-ZIP,Fall '25 Zip Hoodie,XXL,1,84.0
+#1318,VB-HOD-ZIP,Fall '25 Zip Hoodie,M,1,84.0
+#1319,VB-HOD-ZIP,Fall '25 Zip Hoodie,M,1,84.0
+#1320,VB-TEE-SPR,Spring Bloom Graphic Tee,S,1,36.0
+#1320,VB-HOD-SIG-CRM,Signature Heavyweight Hoodie - Cream,XXL,1,78.0
+#1321,VB-BEN-KNT,Knit Beanie,OS,1,24.0
+#1321,VB-CRW-BYD,Beyond Crewneck,S,1,64.0
+#1321,VB-TEE-ESS-WHT,Essential Logo Tee - White,L,1,32.0
+#1322,VB-TEE-ESS-WHT,Essential Logo Tee - White,M,1,32.0
+#1323,VB-TEE-ESS-WHT,Essential Logo Tee - White,L,1,32.0
+#1324,VB-HOD-ZIP,Fall '25 Zip Hoodie,XL,1,84.0
+#1324,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,XXL,1,78.0
+#1325,VB-TEE-BOX,Summer Boxy Tee,S,1,34.0
+#1325,VB-HOD-SIG-CRM,Signature Heavyweight Hoodie - Cream,L,1,78.0
+#1325,VB-TEE-ESS-WHT,Essential Logo Tee - White,L,2,32.0
+#1326,VB-TEE-ESS-WHT,Essential Logo Tee - White,S,1,32.0
+#1327,VB-TEE-BOX,Summer Boxy Tee,XL,1,34.0
+#1328,VB-TEE-SPR,Spring Bloom Graphic Tee,M,1,36.0
+#1329,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,L,1,78.0
+#1330,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,S,1,78.0
+#1331,VB-HOD-SIG-CRM,Signature Heavyweight Hoodie - Cream,L,1,78.0
+#1332,VB-HOD-ZIP,Fall '25 Zip Hoodie,XXL,1,84.0
+#1333,VB-HOD-ZIP,Fall '25 Zip Hoodie,L,1,84.0
+#1333,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,M,1,78.0
+#1334,VB-HOD-ZIP,Fall '25 Zip Hoodie,M,1,84.0
+#1334,VB-TEE-VIS,Visionary Graphic Tee,L,1,38.0
+#1335,VB-TEE-ESS-BLK,Essential Logo Tee - Black,XXL,1,32.0
+#1336,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,XL,1,78.0
+#1337,VB-TEE-ESS-BLK,Essential Logo Tee - Black,L,1,32.0
+#1338,VB-HOD-SIG-CRM,Signature Heavyweight Hoodie - Cream,XXL,1,78.0
+#1339,VB-BEN-KNT,Knit Beanie,OS,1,24.0
+#1340,VB-BEN-KNT,Knit Beanie,OS,1,24.0
+#1341,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,S,1,78.0
+#1341,VB-SHT-MSH,Mesh Shorts,S,1,40.0
+#1342,VB-HOD-ZIP,Fall '25 Zip Hoodie,XL,1,84.0
+#1342,VB-TEE-ESS-WHT,Essential Logo Tee - White,XL,1,32.0
+#1342,VB-HOD-SIG-BLK,Signature Heavyweight Hoodie - Black,M,1,78.0
+#1343,VB-TOT-CNV,Canvas Tote Bag,OS,1,22.0
+#1344,VB-SWP-SIG,Signature Sweatpants,M,1,62.0
+#1344,VB-HOD-ZIP,Fall '25 Zip Hoodie,S,1,84.0
+#1345,VB-SWP-SIG,Signature Sweatpants,S,2,62.0
+#1346,VB-TEE-ESS-BLK,Essential Logo Tee - Black,L,2,32.0
+#1346,VB-TEE-BOX,Summer Boxy Tee,XXL,1,34.0
+#1346,VB-TEE-VIS,Visionary Graphic Tee,S,1,38.0
+#1347,VB-CRW-BYD,Beyond Crewneck,M,1,64.0
+#1348,VB-WBR-SPR,Lightweight Windbreaker,L,1,88.0
+#1349,VB-SWP-SIG,Signature Sweatpants,L,1,62.0
+#1350,VB-HAT-DAD,Embroidered Dad Hat,OS,1,28.0
+#1351,VB-HOD-ZIP,Fall '25 Zip Hoodie,M,1,84.0
+#1352,VB-TEE-ESS-WHT,Essential Logo Tee - White,M,1,32.0
+#1030,VB-TEE-ESS-BLK,Essential Logo Tee - Black,XL,0,32.0
+#1137,VB-HOD-SIG-CRM,Signature Heavyweight Hoodie - Cream,S,0,78.0
+#1046,VB-HAT-DAD,Embroidered Dad Hat,OS,0,28.0
+#1050,VB-HOD-SIG-CRM,Signature Heavyweight Hoodie - Cream,S,0,78.0

@@ -1,0 +1,2 @@
+period_start,period_end,net_revenue,gross_sales,discounts,refunds,refunded_orders,orders,units,unique_customers,avg_order_value,orders_per_customer,repeat_purchase_rate_pct,gross_margin_pct,contribution_margin,meta_ad_spend,meta_attributed_revenue,meta_roas,blended_mer,paid_cac,blended_cac,profit_after_ad_spend
+2024-09-02,2025-10-31,24890.6,26084.0,1193.4,663.4,11,341,536,255,72.99,1.34,23.5,67.9,15366.27,5273.49,14343.8,2.72,4.72,32.55,20.68,10092.78

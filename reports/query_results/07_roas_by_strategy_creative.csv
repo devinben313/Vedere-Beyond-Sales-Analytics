@@ -1,0 +1,15 @@
+dimension,value,campaigns,spend,attributed_revenue,roas,cost_per_purchase,profit_after_ad_spend
+strategy,Retargeting,1,866.23,4270.7,4.93,17.68,1783.88
+strategy,Seasonal Promotion,2,643.8,2348.5,3.65,18.39,740.58
+strategy,Lookalike Prospecting,1,461.76,1574.4,3.41,17.1,546.09
+strategy,UGC / Reels,1,377.08,1061.2,2.81,25.14,273.35
+strategy,Product Drop,2,732.73,1701.2,2.32,31.86,297.17
+strategy,Interest Prospecting,1,819.47,1876.8,2.29,35.63,327.26
+strategy,Broad Prospecting,1,732.43,1217.0,1.66,45.78,45.23
+strategy,Brand Awareness,1,639.99,294.0,0.46,213.33,-464.92
+creative_type,Dynamic Product Ads,1,866.23,4270.7,4.93,17.68,1783.88
+creative_type,UGC Video,1,461.76,1574.4,3.41,17.1,546.09
+creative_type,UGC Reels,1,377.08,1061.2,2.81,25.14,273.35
+creative_type,Static Image,2,1113.8,2793.9,2.51,28.56,570.36
+creative_type,Carousel,3,1549.26,3840.4,2.48,32.28,803.1
+creative_type,Studio Video,2,905.36,803.2,0.89,69.64,-428.14

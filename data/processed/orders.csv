@@ -1,0 +1,353 @@
+order_id,customer_id,order_ts,order_date,order_month,order_status,is_refunded,customer_order_number,is_first_order,source_name,utm_source,utm_medium,utm_campaign,attribution_channel,campaign_id,discount_code,units,line_count,gross_sales,discount,refund_amount,net_sales,shipping_charged,cogs,fulfillment_cost,payment_fees,contribution_margin
+1001,VB-C1000,2024-09-02 18:17:00,2024-09-02,2024-09,paid,False,1,True,web,ig,paid_social,launch_broad,Meta Ads,C01,,3,2,194.0,0.0,0.0,194.0,0.0,59.0,6.5,5.93,122.57
+1002,VB-C1001,2024-09-03 22:28:00,2024-09-03,2024-09,paid,False,1,True,web,instagram,paid_social,launch_broad,Meta Ads,C01,,1,1,78.0,0.0,0.0,78.0,0.0,24.0,5.5,2.56,45.94
+1003,VB-C1002,2024-09-06 08:23:00,2024-09-06,2024-09,paid,False,1,True,web,instagram_organic,,,Instagram Organic,,,1,1,78.0,0.0,0.0,78.0,0.0,24.0,5.5,2.56,45.94
+1004,VB-C1003,2024-09-09 16:42:00,2024-09-09,2024-09,paid,False,1,True,web,instagram_organic,,,Instagram Organic,,WELCOME10,2,1,156.0,15.6,0.0,140.4,0.0,48.0,6.0,4.37,82.03
+1005,VB-C1004,2024-09-10 20:38:00,2024-09-10,2024-09,paid,False,1,True,web,ig,paid_social,launch_broad,Meta Ads,C01,,2,2,60.0,0.0,0.0,60.0,6.95,16.5,6.0,2.24,42.21
+1006,VB-C1005,2024-09-14 16:31:00,2024-09-14,2024-09,paid,False,1,True,web,instagram,paid_social,launch_broad,Meta Ads,C01,WELCOME10,3,3,138.0,13.8,0.0,124.2,0.0,40.5,6.5,3.9,73.3
+1007,VB-C1006,2024-09-15 22:30:00,2024-09-15,2024-09,paid,False,1,True,web,instagram,paid_social,retargeting_always_on,Meta Ads,C05,,1,1,28.0,0.0,0.0,28.0,6.95,7.0,5.5,1.31,21.14
+1008,VB-C1007,2024-09-16 15:54:00,2024-09-16,2024-09,paid,False,1,True,web,facebook,paid_social,launch_broad,Meta Ads,C01,,2,2,70.0,0.0,0.0,70.0,6.95,20.5,6.0,2.53,47.92
+1009,VB-C1008,2024-09-18 07:30:00,2024-09-18,2024-09,paid,False,1,True,web,facebook,paid_social,launch_broad,Meta Ads,C01,,1,1,78.0,0.0,0.0,78.0,0.0,24.0,5.5,2.56,45.94
+1010,VB-C1009,2024-09-19 09:44:00,2024-09-19,2024-09,paid,False,1,True,web,referral,,,Referral,,,1,1,38.0,0.0,0.0,38.0,6.95,11.0,5.5,1.6,26.85
+1011,VB-C1010,2024-09-20 19:33:00,2024-09-20,2024-09,paid,False,1,True,web,referral,,,Referral,,WELCOME10,2,2,70.0,7.0,0.0,63.0,6.95,20.5,6.0,2.33,41.12
+1012,VB-C1011,2024-09-21 09:32:00,2024-09-21,2024-09,paid,False,1,True,web,facebook,paid_social,launch_broad,Meta Ads,C01,,1,1,32.0,0.0,0.0,32.0,6.95,9.5,5.5,1.43,22.52
+1013,VB-C1012,2024-09-22 21:36:00,2024-09-22,2024-09,paid,False,1,True,web,instagram,paid_social,launch_broad,Meta Ads,C01,,2,2,90.0,0.0,0.0,90.0,0.0,26.0,6.0,2.91,55.09
+1014,VB-C1002,2024-09-23 21:33:00,2024-09-23,2024-09,paid,False,2,False,web,,,,Direct,,,2,2,94.0,0.0,0.0,94.0,0.0,28.5,6.0,3.03,56.47
+1015,VB-C1013,2024-09-25 16:15:00,2024-09-25,2024-09,paid,False,1,True,web,instagram,paid_social,launch_broad,Meta Ads,C01,,3,3,138.0,0.0,0.0,138.0,0.0,40.5,6.5,4.3,86.7
+1016,VB-C1014,2024-09-28 23:40:00,2024-09-28,2024-09,paid,False,1,True,web,instagram_organic,,,Instagram Organic,,WELCOME10,3,3,178.0,17.8,0.0,160.2,0.0,54.0,6.5,4.95,94.75
+1017,VB-C1015,2024-09-29 19:42:00,2024-09-29,2024-09,paid,False,1,True,web,instagram,paid_social,launch_broad,Meta Ads,C01,WELCOME10,1,1,38.0,3.8,0.0,34.2,6.95,11.0,5.5,1.49,23.16
+1018,VB-C1016,2024-09-30 20:39:00,2024-09-30,2024-09,paid,False,1,True,web,instagram,paid_social,launch_broad,Meta Ads,C01,,2,2,60.0,0.0,0.0,60.0,6.95,16.5,6.0,2.24,42.21
+1019,VB-C1017,2024-10-01 15:41:00,2024-10-01,2024-10,paid,False,1,True,web,referral,,,Referral,,,2,2,94.0,0.0,0.0,94.0,0.0,28.5,6.0,3.03,56.47
+1020,VB-C1018,2024-10-01 09:48:00,2024-10-01,2024-10,paid,False,1,True,web,facebook,paid_social,interest_streetwear,Meta Ads,C02,WELCOME10,1,1,62.0,6.2,0.0,55.8,6.95,19.0,5.5,2.12,36.13
+1021,VB-C1019,2024-10-01 08:04:00,2024-10-01,2024-10,paid,False,1,True,web,instagram,paid_social,launch_broad,Meta Ads,C01,,1,1,32.0,0.0,0.0,32.0,6.95,9.5,5.5,1.43,22.52
+1022,VB-C1020,2024-10-04 22:24:00,2024-10-04,2024-10,paid,False,1,True,web,facebook,paid_social,interest_streetwear,Meta Ads,C02,WELCOME10,1,1,78.0,7.8,0.0,70.2,6.95,24.0,5.5,2.54,45.11
+1023,VB-C1021,2024-10-05 23:39:00,2024-10-05,2024-10,paid,False,1,True,web,instagram,paid_social,retargeting_always_on,Meta Ads,C05,,1,1,78.0,0.0,0.0,78.0,0.0,24.0,5.5,2.56,45.94
+1024,VB-C1022,2024-10-07 23:45:00,2024-10-07,2024-10,paid,False,1,True,web,instagram,paid_social,retargeting_always_on,Meta Ads,C05,,2,2,110.0,0.0,0.0,110.0,0.0,33.5,6.0,3.49,67.01
+1025,VB-C1023,2024-10-09 14:20:00,2024-10-09,2024-10,paid,False,1,True,web,instagram,paid_social,launch_broad,Meta Ads,C01,WELCOME10,1,1,28.0,2.8,0.0,25.2,6.95,7.0,5.5,1.23,18.42
+1026,VB-C1024,2024-10-09 12:30:00,2024-10-09,2024-10,paid,False,1,True,web,referral,,,Referral,,,1,1,78.0,0.0,0.0,78.0,0.0,24.0,5.5,2.56,45.94
+1027,VB-C1025,2024-10-10 12:06:00,2024-10-10,2024-10,refunded,True,1,True,web,facebook,paid_social,retargeting_always_on,Meta Ads,C05,,1,1,32.0,0.0,32.0,0.0,0.0,0.0,5.5,1.43,-6.93
+1028,VB-C1026,2024-10-11 20:52:00,2024-10-11,2024-10,paid,False,1,True,web,instagram_organic,,,Instagram Organic,,,2,2,116.0,0.0,0.0,116.0,0.0,35.0,6.0,3.66,71.34
+1029,VB-C1027,2024-10-11 13:12:00,2024-10-11,2024-10,paid,False,1,True,web,instagram,paid_social,launch_broad,Meta Ads,C01,,2,2,106.0,0.0,0.0,106.0,0.0,31.0,6.0,3.37,65.63
+1030,VB-C1028,2024-10-14 08:00:00,2024-10-14,2024-10,paid,False,1,True,web,tiktok,,,TikTok Organic,,,1,1,32.0,0.0,0.0,32.0,6.95,9.5,5.5,1.43,22.52
+1031,VB-C1029,2024-10-15 23:54:00,2024-10-15,2024-10,paid,False,1,True,web,fb,paid_social,launch_broad,Meta Ads,C01,WELCOME10,1,1,78.0,7.8,0.0,70.2,6.95,24.0,5.5,2.54,45.11
+1032,VB-C1030,2024-10-17 08:22:00,2024-10-17,2024-10,paid,False,1,True,web,facebook,paid_social,launch_broad,Meta Ads,C01,WELCOME10,1,1,28.0,2.8,0.0,25.2,6.95,7.0,5.5,1.23,18.42
+1033,VB-C1031,2024-10-17 14:26:00,2024-10-17,2024-10,paid,False,1,True,web,instagram_organic,,,Instagram Organic,,WELCOME10,3,2,220.0,22.0,0.0,198.0,0.0,67.5,6.5,6.04,117.96
+1034,VB-C1032,2024-10-22 16:01:00,2024-10-22,2024-10,paid,False,1,True,web,instagram_organic,,,Instagram Organic,,,1,1,78.0,0.0,0.0,78.0,0.0,24.0,5.5,2.56,45.94
+1035,VB-C1033,2024-10-22 21:35:00,2024-10-22,2024-10,paid,False,1,True,web,instagram,paid_social,retargeting_always_on,Meta Ads,C05,,1,1,38.0,0.0,0.0,38.0,6.95,11.0,5.5,1.6,26.85
+1036,VB-C1019,2024-10-23 17:53:00,2024-10-23,2024-10,paid,False,2,False,web,,,,Direct,,,1,1,62.0,0.0,0.0,62.0,6.95,19.0,5.5,2.3,42.15
+1037,VB-C1011,2024-10-24 09:05:00,2024-10-24,2024-10,paid,False,2,False,web,,,,Direct,,,3,2,142.0,0.0,0.0,142.0,0.0,43.0,6.5,4.42,88.08
+1038,VB-C1014,2024-10-24 13:10:00,2024-10-24,2024-10,paid,False,2,False,web,,,,Direct,,,2,2,110.0,0.0,0.0,110.0,0.0,33.5,6.0,3.49,67.01
+1039,VB-C1034,2024-10-29 22:49:00,2024-10-29,2024-10,paid,False,1,True,web,instagram_organic,,,Instagram Organic,,,2,2,110.0,0.0,0.0,110.0,0.0,33.5,6.0,3.49,67.01
+1040,VB-C1035,2024-11-02 22:56:00,2024-11-02,2024-11,paid,False,1,True,web,instagram_organic,,,Instagram Organic,,,1,1,78.0,0.0,0.0,78.0,0.0,24.0,5.5,2.56,45.94
+1041,VB-C1036,2024-11-05 20:25:00,2024-11-05,2024-11,paid,False,1,True,web,instagram_organic,,,Instagram Organic,,,1,1,64.0,0.0,0.0,64.0,6.95,19.5,5.5,2.36,43.59
+1042,VB-C1037,2024-11-06 20:25:00,2024-11-06,2024-11,paid,False,1,True,web,tiktok,,,TikTok Organic,,,3,3,174.0,0.0,0.0,174.0,0.0,53.0,6.5,5.35,109.15
+1043,VB-C1004,2024-11-09 12:00:00,2024-11-09,2024-11,paid,False,2,False,web,instagram,paid_social,retargeting_always_on,Meta Ads,C05,,2,1,48.0,0.0,0.0,48.0,6.95,13.0,6.0,1.89,34.06
+1044,VB-C1038,2024-11-10 22:24:00,2024-11-10,2024-11,paid,False,1,True,web,instagram,paid_social,interest_streetwear,Meta Ads,C02,,1,1,62.0,0.0,0.0,62.0,6.95,19.0,5.5,2.3,42.15
+1045,VB-C1039,2024-11-10 16:08:00,2024-11-10,2024-11,paid,False,1,True,web,tiktok,,,TikTok Organic,,,1,1,32.0,0.0,0.0,32.0,6.95,9.5,5.5,1.43,22.52
+1046,VB-C1040,2024-11-10 13:59:00,2024-11-10,2024-11,paid,False,1,True,web,instagram_organic,,,Instagram Organic,,,1,1,28.0,0.0,0.0,28.0,6.95,7.0,5.5,1.31,21.14
+1047,VB-C1025,2024-11-11 13:23:00,2024-11-11,2024-11,paid,False,2,False,web,instagram_organic,,,Instagram Organic,,VIP15,1,1,78.0,11.7,0.0,66.3,6.95,24.0,5.5,2.42,41.33
+1048,VB-C1041,2024-11-13 08:23:00,2024-11-13,2024-11,paid,False,1,True,web,facebook,paid_social,interest_streetwear,Meta Ads,C02,,1,1,24.0,0.0,0.0,24.0,6.95,6.5,5.5,1.2,17.75
+1049,VB-C1006,2024-11-16 08:00:00,2024-11-16,2024-11,paid,False,2,False,web,,,,Direct,,VIP15,1,1,32.0,4.8,0.0,27.2,6.95,9.5,5.5,1.29,17.86
+1050,VB-C1042,2024-11-16 23:13:00,2024-11-16,2024-11,paid,False,1,True,web,tiktok,,,TikTok Organic,,,1,1,78.0,0.0,0.0,78.0,0.0,24.0,5.5,2.56,45.94
+1051,VB-C1043,2024-11-16 12:27:00,2024-11-16,2024-11,paid,False,1,True,web,facebook,paid_social,interest_streetwear,Meta Ads,C02,WELCOME10,2,2,102.0,10.2,0.0,91.8,0.0,30.5,6.0,2.96,52.34
+1052,VB-C1044,2024-11-16 07:52:00,2024-11-16,2024-11,paid,False,1,True,web,instagram_organic,,,Instagram Organic,,,1,1,78.0,0.0,0.0,78.0,0.0,24.0,5.5,2.56,45.94
+1053,VB-C1045,2024-11-16 18:51:00,2024-11-16,2024-11,paid,False,1,True,web,instagram,paid_social,retargeting_always_on,Meta Ads,C05,,1,1,78.0,0.0,0.0,78.0,0.0,24.0,5.5,2.56,45.94
+1054,VB-C1021,2024-11-18 16:56:00,2024-11-18,2024-11,paid,False,2,False,web,instagram,paid_social,retargeting_always_on,Meta Ads,C05,VIP15,2,2,92.0,13.8,0.0,78.2,0.0,26.5,6.0,2.57,43.13
+1055,VB-C1046,2024-11-18 20:58:00,2024-11-18,2024-11,paid,False,1,True,web,referral,,,Referral,,,1,1,32.0,0.0,0.0,32.0,6.95,9.5,5.5,1.43,22.52
+1056,VB-C1009,2024-11-20 18:13:00,2024-11-20,2024-11,paid,False,2,False,web,facebook,paid_social,bfcm_2024,Meta Ads,C03,VIP15,2,2,142.0,21.3,0.0,120.7,0.0,43.5,6.0,3.8,67.4
+1057,VB-C1047,2024-11-20 10:00:00,2024-11-20,2024-11,paid,False,1,True,web,instagram,paid_social,bfcm_2024,Meta Ads,C03,,1,1,38.0,0.0,0.0,38.0,6.95,11.0,5.5,1.6,26.85
+1058,VB-C1048,2024-11-20 12:04:00,2024-11-20,2024-11,paid,False,1,True,web,instagram_organic,,,Instagram Organic,,,2,2,110.0,0.0,0.0,110.0,0.0,33.5,6.0,3.49,67.01
+1059,VB-C1049,2024-11-20 22:18:00,2024-11-20,2024-11,paid,False,1,True,web,facebook,paid_social,bfcm_2024,Meta Ads,C03,,1,1,32.0,0.0,0.0,32.0,6.95,9.5,5.5,1.43,22.52
+1060,VB-C1023,2024-11-21 09:17:00,2024-11-21,2024-11,paid,False,2,False,web,email,email,,Email,,,2,2,88.0,0.0,0.0,88.0,0.0,26.0,6.0,2.85,53.15
+1061,VB-C1050,2024-11-21 21:19:00,2024-11-21,2024-11,paid,False,1,True,web,instagram,paid_social,bfcm_2024,Meta Ads,C03,,1,1,62.0,0.0,0.0,62.0,6.95,19.0,5.5,2.3,42.15
+1062,VB-C1051,2024-11-21 18:50:00,2024-11-21,2024-11,paid,False,1,True,web,facebook,paid_social,interest_streetwear,Meta Ads,C02,,3,2,100.0,0.0,0.0,100.0,0.0,28.5,6.5,3.2,61.8
+1063,VB-C1052,2024-11-21 12:27:00,2024-11-21,2024-11,paid,False,1,True,web,ig,paid_social,bfcm_2024,Meta Ads,C03,,2,2,156.0,0.0,0.0,156.0,0.0,48.0,6.0,4.82,97.18
+1064,VB-C1053,2024-11-22 08:24:00,2024-11-22,2024-11,paid,False,1,True,web,referral,,,Referral,,BFCM25,1,1,64.0,16.0,0.0,48.0,6.95,19.5,5.5,1.89,28.06
+1065,VB-C1054,2024-11-23 09:17:00,2024-11-23,2024-11,paid,False,1,True,web,ig,paid_social,bfcm_2024,Meta Ads,C03,BFCM25,1,1,62.0,15.5,0.0,46.5,6.95,19.0,5.5,1.85,27.1
+1066,VB-C1055,2024-11-24 12:01:00,2024-11-24,2024-11,refunded,True,1,True,web,ig,paid_social,bfcm_2024,Meta Ads,C03,BFCM25,3,2,202.0,50.5,151.5,0.0,0.0,0.0,6.5,4.69,-11.19
+1067,VB-C1056,2024-11-24 18:59:00,2024-11-24,2024-11,paid,False,1,True,web,facebook,paid_social,bfcm_2024,Meta Ads,C03,,2,2,126.0,0.0,0.0,126.0,0.0,38.5,6.0,3.95,77.55
+1068,VB-C1057,2024-11-24 12:31:00,2024-11-24,2024-11,paid,False,1,True,web,facebook,paid_social,bfcm_2024,Meta Ads,C03,BFCM25,2,2,64.0,16.0,0.0,48.0,6.95,19.0,6.0,1.89,28.06
+1069,VB-C1058,2024-11-24 13:25:00,2024-11-24,2024-11,paid,False,1,True,web,facebook,paid_social,bfcm_2024,Meta Ads,C03,BFCM25,1,1,32.0,8.0,0.0,24.0,6.95,9.5,5.5,1.2,14.75
+1070,VB-C1059,2024-11-24 18:13:00,2024-11-24,2024-11,paid,False,1,True,web,instagram,paid_social,bfcm_2024,Meta Ads,C03,BFCM25,1,1,64.0,16.0,0.0,48.0,6.95,19.5,5.5,1.89,28.06
+1071,VB-C1060,2024-11-25 16:12:00,2024-11-25,2024-11,paid,False,1,True,web,instagram,paid_social,retargeting_always_on,Meta Ads,C05,BFCM25,2,2,96.0,24.0,0.0,72.0,6.95,29.0,6.0,2.59,41.36
+1072,VB-C1061,2024-11-25 15:45:00,2024-11-25,2024-11,paid,False,1,True,web,tiktok,,,TikTok Organic,,BFCM25,1,1,32.0,8.0,0.0,24.0,6.95,9.5,5.5,1.2,14.75
+1073,VB-C1062,2024-11-25 20:46:00,2024-11-25,2024-11,paid,False,1,True,web,facebook,paid_social,bfcm_2024,Meta Ads,C03,BFCM25,2,2,142.0,35.5,0.0,106.5,0.0,43.5,6.0,3.39,53.61
+1074,VB-C1063,2024-11-27 22:44:00,2024-11-27,2024-11,paid,False,1,True,web,instagram_organic,,,Instagram Organic,,BFCM25,1,1,32.0,8.0,0.0,24.0,6.95,9.5,5.5,1.2,14.75
+1075,VB-C1064,2024-11-27 14:11:00,2024-11-27,2024-11,paid,False,1,True,web,fb,paid_social,bfcm_2024,Meta Ads,C03,BFCM25,4,3,180.0,45.0,0.0,135.0,0.0,54.0,7.0,4.22,69.78
+1076,VB-C1065,2024-11-28 10:18:00,2024-11-28,2024-11,paid,False,1,True,web,facebook,paid_social,bfcm_2024,Meta Ads,C03,BFCM25,1,1,28.0,7.0,0.0,21.0,6.95,7.0,5.5,1.11,14.34
+1077,VB-C1066,2024-11-28 23:38:00,2024-11-28,2024-11,paid,False,1,True,web,fb,paid_social,interest_streetwear,Meta Ads,C02,BFCM25,2,1,64.0,16.0,0.0,48.0,6.95,19.0,6.0,1.89,28.06
+1078,VB-C1067,2024-11-28 18:14:00,2024-11-28,2024-11,paid,False,1,True,web,ig,paid_social,bfcm_2024,Meta Ads,C03,BFCM25,1,1,78.0,19.5,0.0,58.5,6.95,24.0,5.5,2.2,33.75
+1079,VB-C1068,2024-11-29 12:17:00,2024-11-29,2024-11,paid,False,1,True,web,instagram_organic,,,Instagram Organic,,BFCM25,1,1,78.0,19.5,0.0,58.5,6.95,24.0,5.5,2.2,33.75
+1080,VB-C1069,2024-11-29 12:22:00,2024-11-29,2024-11,paid,False,1,True,web,instagram,paid_social,bfcm_2024,Meta Ads,C03,WELCOME10,1,1,28.0,2.8,0.0,25.2,6.95,7.0,5.5,1.23,18.42
+1081,VB-C1070,2024-11-29 11:35:00,2024-11-29,2024-11,paid,False,1,True,web,instagram,paid_social,bfcm_2024,Meta Ads,C03,BFCM25,3,3,172.0,43.0,0.0,129.0,0.0,52.5,6.5,4.04,65.96
+1082,VB-C1013,2024-11-30 18:47:00,2024-11-30,2024-11,paid,False,2,False,web,facebook,paid_social,bfcm_2024,Meta Ads,C03,BFCM25,1,1,38.0,9.5,0.0,28.5,6.95,11.0,5.5,1.33,17.62
+1083,VB-C1071,2024-11-30 20:03:00,2024-11-30,2024-11,paid,False,1,True,web,instagram,paid_social,bfcm_2024,Meta Ads,C03,BFCM25,1,1,78.0,19.5,0.0,58.5,6.95,24.0,5.5,2.2,33.75
+1084,VB-C1072,2024-11-30 23:30:00,2024-11-30,2024-11,paid,False,1,True,web,referral,,,Referral,,BFCM25,2,2,70.0,17.5,0.0,52.5,6.95,20.5,6.0,2.02,30.93
+1085,VB-C1073,2024-11-30 11:42:00,2024-11-30,2024-11,paid,False,1,True,web,instagram,paid_social,bfcm_2024,Meta Ads,C03,BFCM25,2,1,128.0,32.0,0.0,96.0,0.0,39.0,6.0,3.08,47.92
+1086,VB-C1074,2024-12-01 10:46:00,2024-12-01,2024-12,paid,False,1,True,web,instagram,paid_social,interest_streetwear,Meta Ads,C02,BFCM25,3,3,174.0,43.5,0.0,130.5,0.0,53.0,6.5,4.08,66.92
+1087,VB-C1075,2024-12-01 14:44:00,2024-12-01,2024-12,paid,False,1,True,web,referral,,,Referral,,,2,2,70.0,0.0,0.0,70.0,6.95,20.5,6.0,2.53,47.92
+1088,VB-C1076,2024-12-02 09:36:00,2024-12-02,2024-12,paid,False,1,True,web,instagram,paid_social,interest_streetwear,Meta Ads,C02,BFCM25,2,2,102.0,25.5,0.0,76.5,0.0,30.5,6.0,2.52,37.48
+1089,VB-C1077,2024-12-02 10:44:00,2024-12-02,2024-12,paid,False,1,True,web,facebook,paid_social,bfcm_2024,Meta Ads,C03,BFCM25,1,1,78.0,19.5,0.0,58.5,6.95,24.0,5.5,2.2,33.75
+1090,VB-C1078,2024-12-02 17:49:00,2024-12-02,2024-12,paid,False,1,True,web,instagram,paid_social,bfcm_2024,Meta Ads,C03,BFCM25,3,3,148.0,37.0,0.0,111.0,0.0,44.5,6.5,3.52,56.48
+1091,VB-C1079,2024-12-02 15:57:00,2024-12-02,2024-12,paid,False,1,True,web,facebook,paid_social,bfcm_2024,Meta Ads,C03,BFCM25,1,1,32.0,8.0,0.0,24.0,6.95,9.5,5.5,1.2,14.75
+1092,VB-C1080,2024-12-02 23:00:00,2024-12-02,2024-12,paid,False,1,True,web,instagram,paid_social,bfcm_2024,Meta Ads,C03,BFCM25,1,1,32.0,8.0,0.0,24.0,6.95,9.5,5.5,1.2,14.75
+1093,VB-C1081,2024-12-05 12:29:00,2024-12-05,2024-12,paid,False,1,True,web,facebook,paid_social,interest_streetwear,Meta Ads,C02,,1,1,38.0,0.0,0.0,38.0,6.95,11.0,5.5,1.6,26.85
+1094,VB-C1082,2024-12-05 13:16:00,2024-12-05,2024-12,paid,False,1,True,web,referral,,,Referral,,WELCOME10,4,3,202.0,20.2,0.0,181.8,0.0,60.5,7.0,5.57,108.73
+1095,VB-C1037,2024-12-06 23:18:00,2024-12-06,2024-12,paid,False,2,False,web,instagram,paid_social,retargeting_always_on,Meta Ads,C05,,3,3,180.0,0.0,0.0,180.0,0.0,54.5,6.5,5.52,113.48
+1096,VB-C1083,2024-12-06 21:53:00,2024-12-06,2024-12,paid,False,1,True,web,instagram_organic,,,Instagram Organic,,,1,1,38.0,0.0,0.0,38.0,6.95,11.0,5.5,1.6,26.85
+1097,VB-C1084,2024-12-06 13:39:00,2024-12-06,2024-12,paid,False,1,True,web,referral,,,Referral,,WELCOME10,1,1,78.0,7.8,0.0,70.2,6.95,24.0,5.5,2.54,45.11
+1098,VB-C1085,2024-12-07 16:00:00,2024-12-07,2024-12,paid,False,1,True,web,instagram_organic,,,Instagram Organic,,,2,2,140.0,0.0,0.0,140.0,0.0,43.0,6.0,4.36,86.64
+1099,VB-C1086,2024-12-09 10:06:00,2024-12-09,2024-12,paid,False,1,True,web,tiktok,,,TikTok Organic,,WELCOME10,2,2,60.0,6.0,0.0,54.0,6.95,16.5,6.0,2.07,36.38
+1100,VB-C1087,2024-12-09 10:21:00,2024-12-09,2024-12,paid,False,1,True,web,facebook,paid_social,holiday_gifting,Meta Ads,C04,,1,1,38.0,0.0,0.0,38.0,6.95,11.0,5.5,1.6,26.85
+1101,VB-C1088,2024-12-10 13:03:00,2024-12-10,2024-12,paid,False,1,True,web,instagram,paid_social,interest_streetwear,Meta Ads,C02,,3,3,120.0,0.0,0.0,120.0,0.0,35.5,6.5,3.78,74.22
+1102,VB-C1089,2024-12-11 18:03:00,2024-12-11,2024-12,paid,False,1,True,web,facebook,paid_social,holiday_gifting,Meta Ads,C04,,1,1,28.0,0.0,0.0,28.0,6.95,7.0,5.5,1.31,21.14
+1103,VB-C1090,2024-12-11 19:15:00,2024-12-11,2024-12,paid,False,1,True,web,instagram,paid_social,holiday_gifting,Meta Ads,C04,,1,1,32.0,0.0,0.0,32.0,6.95,9.5,5.5,1.43,22.52
+1104,VB-C1041,2024-12-12 07:09:00,2024-12-12,2024-12,paid,False,2,False,web,instagram,paid_social,retargeting_always_on,Meta Ads,C05,,1,1,78.0,0.0,0.0,78.0,0.0,24.0,5.5,2.56,45.94
+1105,VB-C1091,2024-12-12 08:42:00,2024-12-12,2024-12,paid,False,1,True,web,instagram,paid_social,interest_streetwear,Meta Ads,C02,,1,1,78.0,0.0,0.0,78.0,0.0,24.0,5.5,2.56,45.94
+1106,VB-C1092,2024-12-12 12:11:00,2024-12-12,2024-12,paid,False,1,True,web,facebook,paid_social,interest_streetwear,Meta Ads,C02,,2,2,102.0,0.0,0.0,102.0,0.0,30.5,6.0,3.26,62.24
+1107,VB-C1093,2024-12-12 20:10:00,2024-12-12,2024-12,paid,False,1,True,web,ig,paid_social,holiday_gifting,Meta Ads,C04,,1,1,24.0,0.0,0.0,24.0,6.95,6.5,5.5,1.2,17.75
+1108,VB-C1094,2024-12-13 20:38:00,2024-12-13,2024-12,paid,False,1,True,web,instagram,paid_social,holiday_gifting,Meta Ads,C04,,1,1,78.0,0.0,0.0,78.0,0.0,24.0,5.5,2.56,45.94
+1109,VB-C1095,2024-12-13 20:39:00,2024-12-13,2024-12,paid,False,1,True,web,referral,,,Referral,,,1,1,28.0,0.0,0.0,28.0,6.95,7.0,5.5,1.31,21.14
+1110,VB-C1096,2024-12-13 19:56:00,2024-12-13,2024-12,paid,False,1,True,web,referral,,,Referral,,WELCOME10,3,3,188.0,18.8,0.0,169.2,0.0,57.5,6.5,5.21,99.99
+1111,VB-C1097,2024-12-13 08:59:00,2024-12-13,2024-12,paid,False,1,True,web,instagram,paid_social,holiday_gifting,Meta Ads,C04,,1,1,78.0,0.0,0.0,78.0,0.0,24.0,5.5,2.56,45.94
+1112,VB-C1098,2024-12-13 12:40:00,2024-12-13,2024-12,paid,False,1,True,web,facebook,paid_social,holiday_gifting,Meta Ads,C04,,2,2,102.0,0.0,0.0,102.0,0.0,30.5,6.0,3.26,62.24
+1113,VB-C1099,2024-12-14 19:20:00,2024-12-14,2024-12,paid,False,1,True,web,facebook,paid_social,holiday_gifting,Meta Ads,C04,,1,1,78.0,0.0,0.0,78.0,0.0,24.0,5.5,2.56,45.94
+1114,VB-C1100,2024-12-14 13:12:00,2024-12-14,2024-12,paid,False,1,True,pos,,,,Pop-up Event,,,1,1,38.0,0.0,0.0,38.0,0.0,11.0,0.0,1.09,25.91
+1115,VB-C1101,2024-12-14 19:05:00,2024-12-14,2024-12,paid,False,1,True,pos,,,,Pop-up Event,,,1,1,32.0,0.0,0.0,32.0,0.0,9.5,0.0,0.93,21.57
+1116,VB-C1102,2024-12-14 07:11:00,2024-12-14,2024-12,refunded,True,1,True,pos,,,,Pop-up Event,,,1,1,32.0,0.0,32.0,0.0,0.0,0.0,0.0,0.93,-0.93
+1117,VB-C1103,2024-12-14 22:29:00,2024-12-14,2024-12,paid,False,1,True,pos,,,,Pop-up Event,,,1,1,78.0,0.0,0.0,78.0,0.0,24.0,0.0,2.13,51.87
+1118,VB-C1104,2024-12-14 14:59:00,2024-12-14,2024-12,paid,False,1,True,web,tiktok,,,TikTok Organic,,,2,2,94.0,0.0,0.0,94.0,0.0,28.5,6.0,3.03,56.47
+1119,VB-C1105,2024-12-14 09:12:00,2024-12-14,2024-12,paid,False,1,True,pos,,,,Pop-up Event,,,1,1,32.0,0.0,0.0,32.0,0.0,9.5,0.0,0.93,21.57
+1120,VB-C1106,2024-12-14 11:17:00,2024-12-14,2024-12,paid,False,1,True,pos,,,,Pop-up Event,,,1,1,28.0,0.0,0.0,28.0,0.0,7.0,0.0,0.83,20.17
+1121,VB-C1107,2024-12-15 08:46:00,2024-12-15,2024-12,refunded,True,1,True,web,facebook,paid_social,retargeting_always_on,Meta Ads,C05,WELCOME10,2,2,64.0,6.4,57.6,0.0,0.0,0.0,6.0,2.17,-8.17
+1122,VB-C1108,2024-12-15 15:08:00,2024-12-15,2024-12,paid,False,1,True,web,facebook,paid_social,holiday_gifting,Meta Ads,C04,WELCOME10,2,2,116.0,11.6,0.0,104.4,0.0,35.0,6.0,3.33,60.07
+1123,VB-C1109,2024-12-16 10:07:00,2024-12-16,2024-12,refunded,True,1,True,web,instagram,paid_social,interest_streetwear,Meta Ads,C02,,1,1,78.0,0.0,78.0,0.0,0.0,0.0,5.5,2.56,-8.06
+1124,VB-C1040,2024-12-18 11:41:00,2024-12-18,2024-12,paid,False,2,False,web,email,email,,Email,,VIP15,1,1,78.0,11.7,0.0,66.3,6.95,24.0,5.5,2.42,41.33
+1125,VB-C1110,2024-12-19 14:48:00,2024-12-19,2024-12,paid,False,1,True,web,instagram,paid_social,holiday_gifting,Meta Ads,C04,WELCOME10,1,1,28.0,2.8,0.0,25.2,6.95,7.0,5.5,1.23,18.42
+1126,VB-C1111,2024-12-19 23:19:00,2024-12-19,2024-12,paid,False,1,True,web,instagram,paid_social,retargeting_always_on,Meta Ads,C05,,3,3,170.0,0.0,0.0,170.0,0.0,50.5,6.5,5.23,107.77
+1127,VB-C1112,2024-12-20 15:36:00,2024-12-20,2024-12,paid,False,1,True,web,facebook,paid_social,holiday_gifting,Meta Ads,C04,,3,3,88.0,0.0,0.0,88.0,0.0,25.5,6.5,2.85,53.15
+1128,VB-C1113,2024-12-20 13:57:00,2024-12-20,2024-12,paid,False,1,True,web,instagram,paid_social,holiday_gifting,Meta Ads,C04,,2,2,96.0,0.0,0.0,96.0,0.0,29.0,6.0,3.08,57.92
+1129,VB-C1114,2024-12-21 12:06:00,2024-12-21,2024-12,paid,False,1,True,web,instagram,paid_social,interest_streetwear,Meta Ads,C02,,2,2,106.0,0.0,0.0,106.0,0.0,31.0,6.0,3.37,65.63
+1130,VB-C1067,2024-12-23 08:34:00,2024-12-23,2024-12,paid,False,2,False,web,email,email,,Email,,VIP15,2,2,126.0,18.9,0.0,107.1,0.0,38.5,6.0,3.41,59.19
+1131,VB-C1000,2024-12-24 12:42:00,2024-12-24,2024-12,paid,False,2,False,web,email,email,,Email,,,3,3,122.0,0.0,0.0,122.0,0.0,35.5,6.5,3.84,76.16
+1132,VB-C1035,2024-12-26 18:45:00,2024-12-26,2024-12,paid,False,2,False,web,,,,Direct,,,2,1,128.0,0.0,0.0,128.0,0.0,39.0,6.0,4.01,78.99
+1133,VB-C1115,2024-12-28 21:17:00,2024-12-28,2024-12,paid,False,1,True,web,facebook,paid_social,interest_streetwear,Meta Ads,C02,,1,1,78.0,0.0,0.0,78.0,0.0,24.0,5.5,2.56,45.94
+1134,VB-C1116,2024-12-31 13:26:00,2024-12-31,2024-12,paid,False,1,True,web,facebook,paid_social,interest_streetwear,Meta Ads,C02,,3,3,140.0,0.0,0.0,140.0,0.0,41.5,6.5,4.36,87.64
+1135,VB-C1044,2025-01-01 19:28:00,2025-01-01,2025-01,paid,False,2,False,web,,,,Direct,,,1,1,62.0,0.0,0.0,62.0,6.95,19.0,5.5,2.3,42.15
+1136,VB-C1117,2025-01-03 19:22:00,2025-01-03,2025-01,paid,False,1,True,web,instagram_organic,,,Instagram Organic,,WELCOME10,3,3,204.0,20.4,0.0,183.6,0.0,62.5,6.5,5.62,108.98
+1137,VB-C1118,2025-01-03 21:06:00,2025-01-03,2025-01,paid,False,1,True,web,ig,paid_social,interest_streetwear,Meta Ads,C02,,2,2,116.0,0.0,0.0,116.0,0.0,35.0,6.0,3.66,71.34
+1138,VB-C1040,2025-01-05 14:23:00,2025-01-05,2025-01,paid,False,3,False,web,instagram,paid_social,retargeting_always_on,Meta Ads,C05,,1,1,28.0,0.0,0.0,28.0,6.95,7.0,5.5,1.31,21.14
+1139,VB-C1048,2025-01-06 21:49:00,2025-01-06,2025-01,paid,False,2,False,web,instagram,paid_social,retargeting_always_on,Meta Ads,C05,,1,1,38.0,0.0,0.0,38.0,6.95,11.0,5.5,1.6,26.85
+1140,VB-C1006,2025-01-08 09:31:00,2025-01-08,2025-01,paid,False,3,False,web,instagram,paid_social,retargeting_always_on,Meta Ads,C05,VIP15,3,3,142.0,21.3,0.0,120.7,0.0,43.0,6.5,3.8,67.4
+1141,VB-C1056,2025-01-12 08:07:00,2025-01-12,2025-01,refunded,True,2,False,web,,,,Direct,,VIP15,1,1,78.0,11.7,66.3,0.0,0.0,0.0,5.5,2.42,-7.92
+1142,VB-C1083,2025-01-12 13:20:00,2025-01-12,2025-01,paid,False,2,False,web,instagram_organic,,,Instagram Organic,,,1,1,32.0,0.0,0.0,32.0,6.95,9.5,5.5,1.43,22.52
+1143,VB-C1119,2025-01-12 11:41:00,2025-01-12,2025-01,refunded,True,1,True,web,referral,,,Referral,,,1,1,28.0,0.0,28.0,0.0,0.0,0.0,5.5,1.31,-6.81
+1144,VB-C1055,2025-01-13 10:13:00,2025-01-13,2025-01,paid,False,2,False,web,instagram,paid_social,retargeting_always_on,Meta Ads,C05,,2,1,124.0,0.0,0.0,124.0,0.0,38.0,6.0,3.9,76.1
+1145,VB-C1120,2025-01-15 20:40:00,2025-01-15,2025-01,paid,False,1,True,web,facebook,paid_social,interest_streetwear,Meta Ads,C02,,1,1,78.0,0.0,0.0,78.0,0.0,24.0,5.5,2.56,45.94
+1146,VB-C1019,2025-01-16 07:52:00,2025-01-16,2025-01,paid,False,3,False,web,instagram,paid_social,retargeting_always_on,Meta Ads,C05,,1,1,62.0,0.0,0.0,62.0,6.95,19.0,5.5,2.3,42.15
+1147,VB-C1020,2025-01-16 17:38:00,2025-01-16,2025-01,paid,False,2,False,web,instagram,paid_social,retargeting_always_on,Meta Ads,C05,,3,2,142.0,0.0,0.0,142.0,0.0,43.0,6.5,4.42,88.08
+1148,VB-C1095,2025-01-20 10:24:00,2025-01-20,2025-01,paid,False,2,False,web,email,email,,Email,,,2,2,60.0,0.0,0.0,60.0,6.95,16.5,6.0,2.24,42.21
+1149,VB-C1121,2025-01-22 08:15:00,2025-01-22,2025-01,paid,False,1,True,web,referral,,,Referral,,,1,1,32.0,0.0,0.0,32.0,6.95,9.5,5.5,1.43,22.52
+1150,VB-C1074,2025-01-24 09:23:00,2025-01-24,2025-01,paid,False,2,False,web,instagram,paid_social,retargeting_always_on,Meta Ads,C05,VIP15,3,2,188.0,28.2,0.0,159.8,0.0,57.5,6.5,4.93,90.87
+1151,VB-C1122,2025-01-25 17:59:00,2025-01-25,2025-01,paid,False,1,True,web,instagram,paid_social,interest_streetwear,Meta Ads,C02,,1,1,78.0,0.0,0.0,78.0,0.0,24.0,5.5,2.56,45.94
+1152,VB-C1111,2025-01-27 15:56:00,2025-01-27,2025-01,paid,False,2,False,web,,,,Direct,,VIP15,1,1,64.0,9.6,0.0,54.4,6.95,19.5,5.5,2.08,34.27
+1153,VB-C1046,2025-01-29 22:05:00,2025-01-29,2025-01,paid,False,2,False,web,sms,sms,,SMS,,VIP15,2,2,56.0,8.4,0.0,47.6,6.95,16.0,6.0,1.88,30.67
+1154,VB-C1109,2025-01-29 17:10:00,2025-01-29,2025-01,paid,False,2,False,web,instagram,paid_social,retargeting_always_on,Meta Ads,C05,,2,1,64.0,0.0,0.0,64.0,6.95,19.0,6.0,2.36,43.59
+1155,VB-C1123,2025-01-30 21:09:00,2025-01-30,2025-01,paid,False,1,True,web,instagram,paid_social,interest_streetwear,Meta Ads,C02,,1,1,62.0,0.0,0.0,62.0,6.95,19.0,5.5,2.3,42.15
+1156,VB-C1025,2025-02-04 16:06:00,2025-02-04,2025-02,paid,False,3,False,web,instagram_organic,,,Instagram Organic,,,1,1,28.0,0.0,0.0,28.0,6.95,7.0,5.5,1.31,21.14
+1157,VB-C1124,2025-02-04 14:48:00,2025-02-04,2025-02,paid,False,1,True,web,instagram,paid_social,retargeting_always_on,Meta Ads,C05,,1,1,64.0,0.0,0.0,64.0,6.95,19.5,5.5,2.36,43.59
+1158,VB-C1067,2025-02-05 21:56:00,2025-02-05,2025-02,paid,False,3,False,web,instagram,paid_social,retargeting_always_on,Meta Ads,C05,,2,2,110.0,0.0,0.0,110.0,0.0,33.5,6.0,3.49,67.01
+1159,VB-C1094,2025-02-06 07:12:00,2025-02-06,2025-02,paid,False,2,False,web,email,email,,Email,,,1,1,62.0,0.0,0.0,62.0,6.95,19.0,5.5,2.3,42.15
+1160,VB-C1075,2025-02-13 23:00:00,2025-02-13,2025-02,refunded,True,2,False,web,instagram_organic,,,Instagram Organic,,,3,3,122.0,0.0,122.0,0.0,0.0,0.0,6.5,3.84,-10.34
+1161,VB-C1118,2025-02-14 12:38:00,2025-02-14,2025-02,paid,False,2,False,web,,,,Direct,,VIP15,3,3,172.0,25.8,0.0,146.2,0.0,52.5,6.5,4.54,82.66
+1162,VB-C1125,2025-02-16 20:01:00,2025-02-16,2025-02,paid,False,1,True,web,facebook,paid_social,retargeting_always_on,Meta Ads,C05,,1,1,32.0,0.0,0.0,32.0,6.95,9.5,5.5,1.43,22.52
+1163,VB-C1126,2025-02-17 23:08:00,2025-02-17,2025-02,paid,False,1,True,web,instagram,paid_social,interest_streetwear,Meta Ads,C02,,1,1,24.0,0.0,0.0,24.0,6.95,6.5,5.5,1.2,17.75
+1164,VB-C1127,2025-02-17 07:45:00,2025-02-17,2025-02,paid,False,1,True,web,instagram_organic,,,Instagram Organic,,,1,1,78.0,0.0,0.0,78.0,0.0,24.0,5.5,2.56,45.94
+1165,VB-C1019,2025-02-19 19:51:00,2025-02-19,2025-02,paid,False,4,False,web,instagram,paid_social,retargeting_always_on,Meta Ads,C05,,3,3,144.0,0.0,0.0,144.0,0.0,42.0,6.5,4.48,91.02
+1166,VB-C1044,2025-02-19 16:54:00,2025-02-19,2025-02,paid,False,3,False,web,sms,sms,,SMS,,,1,1,64.0,0.0,0.0,64.0,6.95,19.5,5.5,2.36,43.59
+1167,VB-C1105,2025-02-19 23:03:00,2025-02-19,2025-02,paid,False,2,False,web,email,email,,Email,,VIP15,1,1,24.0,3.6,0.0,20.4,6.95,6.5,5.5,1.09,14.26
+1168,VB-C1037,2025-02-21 23:00:00,2025-02-21,2025-02,paid,False,3,False,web,email,email,,Email,,VIP15,2,2,96.0,14.4,0.0,81.6,0.0,29.0,6.0,2.67,43.93
+1169,VB-C1101,2025-02-28 13:38:00,2025-02-28,2025-02,paid,False,2,False,web,instagram,paid_social,retargeting_always_on,Meta Ads,C05,,1,1,38.0,0.0,0.0,38.0,6.95,11.0,5.5,1.6,26.85
+1170,VB-C1116,2025-03-04 17:58:00,2025-03-04,2025-03,paid,False,2,False,web,,,,Direct,,,1,1,78.0,0.0,0.0,78.0,0.0,24.0,5.5,2.56,45.94
+1171,VB-C1069,2025-03-05 14:31:00,2025-03-05,2025-03,paid,False,2,False,web,email,email,,Email,,,1,1,78.0,0.0,0.0,78.0,0.0,24.0,5.5,2.56,45.94
+1172,VB-C1021,2025-03-06 11:16:00,2025-03-06,2025-03,paid,False,3,False,web,instagram,paid_social,retargeting_always_on,Meta Ads,C05,,4,2,172.0,0.0,0.0,172.0,0.0,51.0,7.0,5.29,108.71
+1173,VB-C1128,2025-03-09 20:59:00,2025-03-09,2025-03,paid,False,1,True,web,instagram,paid_social,spring_drop_video,Meta Ads,C07,,1,1,32.0,0.0,0.0,32.0,6.95,9.5,5.5,1.43,22.52
+1174,VB-C1129,2025-03-09 10:03:00,2025-03-09,2025-03,paid,False,1,True,web,referral,,,Referral,,,1,1,32.0,0.0,0.0,32.0,6.95,9.5,5.5,1.43,22.52
+1175,VB-C1130,2025-03-11 12:00:00,2025-03-11,2025-03,paid,False,1,True,web,instagram_organic,,,Instagram Organic,,,1,1,38.0,0.0,0.0,38.0,6.95,11.0,5.5,1.6,26.85
+1176,VB-C1000,2025-03-12 18:16:00,2025-03-12,2025-03,paid,False,3,False,web,sms,sms,,SMS,,,1,1,32.0,0.0,0.0,32.0,6.95,9.5,5.5,1.43,22.52
+1177,VB-C1131,2025-03-17 12:11:00,2025-03-17,2025-03,paid,False,1,True,web,facebook,paid_social,lal_1pct_purchasers,Meta Ads,C06,,1,1,36.0,0.0,0.0,36.0,6.95,11.5,5.5,1.55,24.4
+1178,VB-C1132,2025-03-18 13:38:00,2025-03-18,2025-03,paid,False,1,True,web,instagram_organic,,,Instagram Organic,,WELCOME10,2,2,64.0,6.4,0.0,57.6,6.95,19.0,6.0,2.17,37.38
+1179,VB-C1133,2025-03-18 07:56:00,2025-03-18,2025-03,paid,False,1,True,web,referral,,,Referral,,WELCOME10,1,1,32.0,3.2,0.0,28.8,6.95,9.5,5.5,1.34,19.41
+1180,VB-C1134,2025-03-21 16:32:00,2025-03-21,2025-03,paid,False,1,True,web,instagram,paid_social,lal_1pct_purchasers,Meta Ads,C06,WELCOME10,1,1,32.0,3.2,0.0,28.8,6.95,9.5,5.5,1.34,19.41
+1181,VB-C1135,2025-03-21 20:44:00,2025-03-21,2025-03,paid,False,1,True,web,instagram_organic,,,Instagram Organic,,,1,1,78.0,0.0,0.0,78.0,0.0,24.0,5.5,2.56,45.94
+1182,VB-C1094,2025-03-22 19:51:00,2025-03-22,2025-03,paid,False,3,False,web,instagram,paid_social,retargeting_always_on,Meta Ads,C05,,1,1,32.0,0.0,0.0,32.0,6.95,9.5,5.5,1.43,22.52
+1183,VB-C1136,2025-03-23 20:12:00,2025-03-23,2025-03,paid,False,1,True,web,fb,paid_social,spring_drop_video,Meta Ads,C07,,1,1,24.0,0.0,0.0,24.0,6.95,6.5,5.5,1.2,17.75
+1184,VB-C1137,2025-03-24 11:11:00,2025-03-24,2025-03,paid,False,1,True,web,facebook,paid_social,interest_streetwear,Meta Ads,C02,,2,2,60.0,0.0,0.0,60.0,6.95,18.0,6.0,2.24,40.71
+1185,VB-C1013,2025-03-26 09:25:00,2025-03-26,2025-03,paid,False,3,False,web,instagram,paid_social,retargeting_always_on,Meta Ads,C05,,3,3,186.0,0.0,0.0,186.0,0.0,73.5,6.5,5.69,100.31
+1186,VB-C1054,2025-03-26 08:13:00,2025-03-26,2025-03,paid,False,2,False,web,,,,Direct,,VIP15,1,1,32.0,4.8,0.0,27.2,6.95,9.5,5.5,1.29,17.86
+1187,VB-C1138,2025-03-26 07:30:00,2025-03-26,2025-03,paid,False,1,True,web,facebook,paid_social,interest_streetwear,Meta Ads,C02,,3,3,138.0,0.0,0.0,138.0,0.0,40.5,6.5,4.3,86.7
+1188,VB-C1139,2025-03-28 15:38:00,2025-03-28,2025-03,paid,False,1,True,web,facebook,paid_social,lal_1pct_purchasers,Meta Ads,C06,,1,1,32.0,0.0,0.0,32.0,6.95,9.5,5.5,1.43,22.52
+1189,VB-C1020,2025-03-29 22:45:00,2025-03-29,2025-03,paid,False,3,False,web,email,email,,Email,,,1,1,62.0,0.0,0.0,62.0,6.95,19.0,5.5,2.3,42.15
+1190,VB-C1140,2025-03-30 21:21:00,2025-03-30,2025-03,paid,False,1,True,web,instagram_organic,,,Instagram Organic,,,1,1,28.0,0.0,0.0,28.0,6.95,7.0,5.5,1.31,21.14
+1191,VB-C1141,2025-03-30 07:22:00,2025-03-30,2025-03,paid,False,1,True,web,facebook,paid_social,spring_drop_video,Meta Ads,C07,WELCOME10,1,1,78.0,7.8,0.0,70.2,6.95,24.0,5.5,2.54,45.11
+1192,VB-C1050,2025-03-31 14:29:00,2025-03-31,2025-03,paid,False,2,False,web,email,email,,Email,,,1,1,32.0,0.0,0.0,32.0,6.95,9.5,5.5,1.43,22.52
+1193,VB-C1142,2025-03-31 19:42:00,2025-03-31,2025-03,paid,False,1,True,web,referral,,,Referral,,,1,1,36.0,0.0,0.0,36.0,6.95,11.5,5.5,1.55,24.4
+1194,VB-C1143,2025-03-31 22:19:00,2025-03-31,2025-03,paid,False,1,True,web,ig,paid_social,retargeting_always_on,Meta Ads,C05,,3,3,148.0,0.0,0.0,148.0,0.0,44.5,6.5,4.59,92.41
+1195,VB-C1144,2025-03-31 10:05:00,2025-03-31,2025-03,paid,False,1,True,web,facebook,paid_social,spring_drop_video,Meta Ads,C07,,1,1,36.0,0.0,0.0,36.0,6.95,11.5,5.5,1.55,24.4
+1196,VB-C1025,2025-04-01 23:51:00,2025-04-01,2025-04,paid,False,4,False,web,,,,Direct,,,1,1,38.0,0.0,0.0,38.0,6.95,11.0,5.5,1.6,26.85
+1197,VB-C1133,2025-04-02 20:42:00,2025-04-02,2025-04,paid,False,2,False,web,,,,Direct,,,3,3,124.0,0.0,0.0,124.0,0.0,36.0,6.5,3.9,77.6
+1198,VB-C1145,2025-04-04 20:55:00,2025-04-04,2025-04,paid,False,1,True,web,instagram,paid_social,spring_drop_video,Meta Ads,C07,WELCOME10,1,1,88.0,8.8,0.0,79.2,0.0,43.0,5.5,2.6,28.1
+1199,VB-C1101,2025-04-05 11:56:00,2025-04-05,2025-04,paid,False,3,False,web,,,,Direct,,VIP15,1,1,78.0,11.7,0.0,66.3,6.95,24.0,5.5,2.42,41.33
+1200,VB-C1146,2025-04-05 17:44:00,2025-04-05,2025-04,paid,False,1,True,web,tiktok,,,TikTok Organic,,,2,2,96.0,0.0,0.0,96.0,0.0,29.0,6.0,3.08,57.92
+1201,VB-C1147,2025-04-06 17:00:00,2025-04-06,2025-04,paid,False,1,True,web,instagram,paid_social,spring_drop_video,Meta Ads,C07,,1,1,36.0,0.0,0.0,36.0,6.95,11.5,5.5,1.55,24.4
+1202,VB-C1148,2025-04-11 15:16:00,2025-04-11,2025-04,paid,False,1,True,web,instagram,paid_social,spring_drop_video,Meta Ads,C07,,1,1,78.0,0.0,0.0,78.0,0.0,24.0,5.5,2.56,45.94
+1203,VB-C1149,2025-04-11 08:38:00,2025-04-11,2025-04,paid,False,1,True,web,facebook,paid_social,lal_1pct_purchasers,Meta Ads,C06,,2,2,114.0,0.0,0.0,114.0,0.0,35.5,6.0,3.61,68.89
+1204,VB-C1150,2025-04-12 19:42:00,2025-04-12,2025-04,paid,False,1,True,web,instagram_organic,,,Instagram Organic,,,1,1,38.0,0.0,0.0,38.0,6.95,11.0,5.5,1.6,26.85
+1205,VB-C1151,2025-04-14 15:37:00,2025-04-14,2025-04,paid,False,1,True,web,instagram,paid_social,spring_drop_video,Meta Ads,C07,WELCOME10,1,1,22.0,2.2,0.0,19.8,6.95,9.0,5.5,1.08,11.17
+1206,VB-C1152,2025-04-18 07:49:00,2025-04-18,2025-04,paid,False,1,True,web,facebook,paid_social,spring_drop_video,Meta Ads,C07,,2,2,98.0,0.0,0.0,98.0,0.0,30.5,6.0,3.14,58.36
+1207,VB-C1153,2025-04-20 12:34:00,2025-04-20,2025-04,paid,False,1,True,web,instagram,paid_social,lal_1pct_purchasers,Meta Ads,C06,WELCOME10,3,3,142.0,14.2,0.0,127.8,0.0,43.0,6.5,4.01,74.29
+1208,VB-C1123,2025-04-21 22:38:00,2025-04-21,2025-04,paid,False,2,False,web,,,,Direct,,VIP15,1,1,62.0,9.3,0.0,52.7,6.95,19.0,5.5,2.03,33.12
+1209,VB-C1025,2025-04-22 20:17:00,2025-04-22,2025-04,paid,False,5,False,web,instagram_organic,,,Instagram Organic,,,2,2,70.0,0.0,0.0,70.0,6.95,20.5,6.0,2.53,47.92
+1210,VB-C1154,2025-04-22 11:19:00,2025-04-22,2025-04,paid,False,1,True,web,facebook,paid_social,spring_drop_video,Meta Ads,C07,,1,1,36.0,0.0,0.0,36.0,6.95,11.5,5.5,1.55,24.4
+1211,VB-C1155,2025-04-25 08:51:00,2025-04-25,2025-04,paid,False,1,True,web,instagram,paid_social,awareness_reach,Meta Ads,C09,,2,2,94.0,0.0,0.0,94.0,0.0,28.5,6.0,3.03,56.47
+1212,VB-C1127,2025-04-26 16:26:00,2025-04-26,2025-04,paid,False,2,False,web,,,,Direct,,VIP15,3,3,134.0,20.1,0.0,113.9,0.0,40.0,6.5,3.6,63.8
+1213,VB-C1156,2025-04-27 08:26:00,2025-04-27,2025-04,paid,False,1,True,web,referral,,,Referral,,WELCOME10,1,1,38.0,3.8,0.0,34.2,6.95,11.0,5.5,1.49,23.16
+1214,VB-C1157,2025-04-28 19:47:00,2025-04-28,2025-04,paid,False,1,True,web,facebook,paid_social,lal_1pct_purchasers,Meta Ads,C06,,1,1,78.0,0.0,0.0,78.0,0.0,24.0,5.5,2.56,45.94
+1215,VB-C1067,2025-04-30 17:09:00,2025-04-30,2025-04,paid,False,4,False,web,instagram,paid_social,retargeting_always_on,Meta Ads,C05,VIP15,4,3,134.0,20.1,0.0,113.9,0.0,39.5,7.0,3.6,63.8
+1216,VB-C1158,2025-04-30 12:29:00,2025-04-30,2025-04,paid,False,1,True,web,fb,paid_social,awareness_reach,Meta Ads,C09,,1,1,78.0,0.0,0.0,78.0,0.0,24.0,5.5,2.56,45.94
+1217,VB-C1135,2025-05-03 22:30:00,2025-05-03,2025-05,paid,False,2,False,web,,,,Direct,,,1,1,32.0,0.0,0.0,32.0,6.95,9.5,5.5,1.43,22.52
+1218,VB-C1013,2025-05-04 07:18:00,2025-05-04,2025-05,paid,False,4,False,web,instagram,paid_social,retargeting_always_on,Meta Ads,C05,,1,1,28.0,0.0,0.0,28.0,6.95,7.0,5.5,1.31,21.14
+1219,VB-C1159,2025-05-04 07:04:00,2025-05-04,2025-05,paid,False,1,True,web,facebook,paid_social,awareness_reach,Meta Ads,C09,,3,3,122.0,0.0,0.0,122.0,0.0,39.0,6.5,3.84,72.66
+1220,VB-C1147,2025-05-06 15:35:00,2025-05-06,2025-05,paid,False,2,False,web,instagram,paid_social,retargeting_always_on,Meta Ads,C05,,2,2,94.0,0.0,0.0,94.0,0.0,28.5,6.0,3.03,56.47
+1221,VB-C1160,2025-05-06 07:12:00,2025-05-06,2025-05,paid,False,1,True,web,instagram_organic,,,Instagram Organic,,,1,1,36.0,0.0,0.0,36.0,6.95,11.5,5.5,1.55,24.4
+1222,VB-C1161,2025-05-09 08:17:00,2025-05-09,2025-05,paid,False,1,True,web,referral,,,Referral,,,1,1,32.0,0.0,0.0,32.0,6.95,9.5,5.5,1.43,22.52
+1223,VB-C1162,2025-05-10 10:35:00,2025-05-10,2025-05,paid,False,1,True,web,facebook,paid_social,lal_1pct_purchasers,Meta Ads,C06,,2,2,116.0,0.0,0.0,116.0,0.0,35.0,6.0,3.66,71.34
+1224,VB-C1163,2025-05-12 19:58:00,2025-05-12,2025-05,paid,False,1,True,web,tiktok,,,TikTok Organic,,,2,2,62.0,0.0,0.0,62.0,6.95,17.5,6.0,2.3,43.15
+1225,VB-C1053,2025-05-17 23:10:00,2025-05-17,2025-05,paid,False,2,False,web,instagram,paid_social,retargeting_always_on,Meta Ads,C05,,2,2,114.0,0.0,0.0,114.0,0.0,35.5,6.0,3.61,68.89
+1226,VB-C1152,2025-05-17 09:20:00,2025-05-17,2025-05,paid,False,2,False,web,,,,Direct,,,2,2,140.0,0.0,0.0,140.0,0.0,43.0,6.0,4.36,86.64
+1227,VB-C1164,2025-05-19 09:27:00,2025-05-19,2025-05,paid,False,1,True,web,referral,,,Referral,,WELCOME10,1,1,38.0,3.8,0.0,34.2,6.95,11.0,5.5,1.49,23.16
+1228,VB-C1165,2025-05-20 17:35:00,2025-05-20,2025-05,paid,False,1,True,web,instagram,paid_social,lal_1pct_purchasers,Meta Ads,C06,,1,1,32.0,0.0,0.0,32.0,6.95,9.5,5.5,1.43,22.52
+1229,VB-C1166,2025-05-26 16:27:00,2025-05-26,2025-05,paid,False,1,True,web,ig,paid_social,lal_1pct_purchasers,Meta Ads,C06,,2,2,54.0,0.0,0.0,54.0,6.95,18.5,6.0,2.07,34.38
+1230,VB-C1101,2025-05-27 15:14:00,2025-05-27,2025-05,paid,False,4,False,web,sms,sms,,SMS,,VIP15,1,1,22.0,3.3,0.0,18.7,6.95,9.0,5.5,1.04,10.11
+1231,VB-C1025,2025-06-01 15:44:00,2025-06-01,2025-06,paid,False,6,False,web,instagram,paid_social,retargeting_always_on,Meta Ads,C05,,2,2,66.0,0.0,0.0,66.0,6.95,18.0,6.0,2.42,46.53
+1232,VB-C1167,2025-06-03 20:00:00,2025-06-03,2025-06,paid,False,1,True,web,instagram,paid_social,summer_reels_ugc,Meta Ads,C08,WELCOME10,3,3,152.0,15.2,0.0,136.8,0.0,46.5,6.5,4.27,79.53
+1233,VB-C1129,2025-06-06 18:48:00,2025-06-06,2025-06,paid,False,2,False,web,instagram,paid_social,retargeting_always_on,Meta Ads,C05,VIP15,1,1,32.0,4.8,0.0,27.2,6.95,9.5,5.5,1.29,17.86
+1234,VB-C1140,2025-06-08 23:36:00,2025-06-08,2025-06,paid,False,2,False,web,email,email,,Email,,,1,1,34.0,0.0,0.0,34.0,6.95,10.0,5.5,1.49,23.96
+1235,VB-C1168,2025-06-11 22:43:00,2025-06-11,2025-06,paid,False,1,True,web,instagram,paid_social,summer_reels_ugc,Meta Ads,C08,,1,1,34.0,0.0,0.0,34.0,6.95,10.0,5.5,1.49,23.96
+1236,VB-C1156,2025-06-14 09:09:00,2025-06-14,2025-06,paid,False,2,False,web,instagram_organic,,,Instagram Organic,,,1,1,28.0,0.0,0.0,28.0,6.95,7.0,5.5,1.31,21.14
+1237,VB-C1147,2025-06-16 13:45:00,2025-06-16,2025-06,paid,False,3,False,web,sms,sms,,SMS,,,3,3,106.0,0.0,0.0,106.0,0.0,32.0,6.5,3.37,64.13
+1238,VB-C1169,2025-06-17 15:54:00,2025-06-17,2025-06,paid,False,1,True,web,instagram_organic,,,Instagram Organic,,,1,1,62.0,0.0,0.0,62.0,6.95,19.0,5.5,2.3,42.15
+1239,VB-C1069,2025-06-18 17:02:00,2025-06-18,2025-06,paid,False,3,False,web,email,email,,Email,,,3,3,84.0,0.0,0.0,84.0,0.0,23.0,6.5,2.74,51.76
+1240,VB-C1161,2025-06-18 21:54:00,2025-06-18,2025-06,paid,False,2,False,web,email,email,,Email,,VIP15,1,1,38.0,5.7,0.0,32.3,6.95,11.0,5.5,1.44,21.31
+1241,VB-C1170,2025-06-20 07:11:00,2025-06-20,2025-06,paid,False,1,True,web,facebook,paid_social,lal_1pct_purchasers,Meta Ads,C06,,1,1,32.0,0.0,0.0,32.0,6.95,9.5,5.5,1.43,22.52
+1242,VB-C1138,2025-06-21 19:25:00,2025-06-21,2025-06,paid,False,2,False,web,instagram,paid_social,retargeting_always_on,Meta Ads,C05,,1,1,34.0,0.0,0.0,34.0,6.95,10.0,5.5,1.49,23.96
+1243,VB-C1053,2025-06-22 17:54:00,2025-06-22,2025-06,paid,False,3,False,web,instagram,paid_social,retargeting_always_on,Meta Ads,C05,,2,2,102.0,0.0,0.0,102.0,0.0,30.5,6.0,3.26,62.24
+1244,VB-C1171,2025-06-23 10:50:00,2025-06-23,2025-06,paid,False,1,True,web,referral,,,Referral,,WELCOME10,1,1,40.0,4.0,0.0,36.0,6.95,12.5,5.5,1.55,23.4
+1245,VB-C1172,2025-06-25 11:05:00,2025-06-25,2025-06,paid,False,1,True,web,facebook,paid_social,lal_1pct_purchasers,Meta Ads,C06,,1,1,40.0,0.0,0.0,40.0,6.95,12.5,5.5,1.66,27.29
+1246,VB-C1164,2025-06-26 20:36:00,2025-06-26,2025-06,paid,False,2,False,web,instagram_organic,,,Instagram Organic,,,1,1,34.0,0.0,0.0,34.0,6.95,10.0,5.5,1.49,23.96
+1247,VB-C1173,2025-06-26 07:26:00,2025-06-26,2025-06,paid,False,1,True,web,instagram_organic,,,Instagram Organic,,WELCOME10,1,1,40.0,4.0,0.0,36.0,6.95,12.5,5.5,1.55,23.4
+1248,VB-C1174,2025-06-27 21:39:00,2025-06-27,2025-06,paid,False,1,True,web,instagram_organic,,,Instagram Organic,,,1,1,40.0,0.0,0.0,40.0,6.95,12.5,5.5,1.66,27.29
+1249,VB-C1175,2025-06-27 14:45:00,2025-06-27,2025-06,paid,False,1,True,web,instagram_organic,,,Instagram Organic,,,1,1,38.0,0.0,0.0,38.0,6.95,11.0,5.5,1.6,26.85
+1250,VB-C1176,2025-07-03 16:24:00,2025-07-03,2025-07,paid,False,1,True,web,instagram,paid_social,lal_1pct_purchasers,Meta Ads,C06,,1,1,32.0,0.0,0.0,32.0,6.95,9.5,5.5,1.43,22.52
+1251,VB-C1177,2025-07-04 12:12:00,2025-07-04,2025-07,paid,False,1,True,web,instagram,paid_social,retargeting_always_on,Meta Ads,C05,,2,2,72.0,0.0,0.0,72.0,6.95,21.0,6.0,2.59,49.36
+1252,VB-C1178,2025-07-04 16:45:00,2025-07-04,2025-07,paid,False,1,True,web,instagram,paid_social,summer_reels_ugc,Meta Ads,C08,,1,1,78.0,0.0,0.0,78.0,0.0,24.0,5.5,2.56,45.94
+1253,VB-C1179,2025-07-04 13:48:00,2025-07-04,2025-07,paid,False,1,True,web,tiktok,,,TikTok Organic,,WELCOME10,1,1,40.0,4.0,0.0,36.0,6.95,12.5,5.5,1.55,23.4
+1254,VB-C1127,2025-07-05 18:45:00,2025-07-05,2025-07,paid,False,3,False,web,instagram,paid_social,retargeting_always_on,Meta Ads,C05,,2,2,72.0,0.0,0.0,72.0,6.95,22.0,6.0,2.59,48.36
+1255,VB-C1180,2025-07-05 09:07:00,2025-07-05,2025-07,paid,False,1,True,web,ig,paid_social,retargeting_always_on,Meta Ads,C05,WELCOME10,3,3,132.0,13.2,0.0,118.8,0.0,39.0,6.5,3.75,69.55
+1256,VB-C1181,2025-07-06 10:48:00,2025-07-06,2025-07,paid,False,1,True,web,instagram_organic,,,Instagram Organic,,,2,2,96.0,0.0,0.0,96.0,0.0,29.0,6.0,3.08,57.92
+1257,VB-C1182,2025-07-06 22:27:00,2025-07-06,2025-07,paid,False,1,True,web,instagram,paid_social,lal_1pct_purchasers,Meta Ads,C06,,1,1,78.0,0.0,0.0,78.0,0.0,24.0,5.5,2.56,45.94
+1258,VB-C1183,2025-07-08 12:19:00,2025-07-08,2025-07,paid,False,1,True,web,instagram_organic,,,Instagram Organic,,,1,1,34.0,0.0,0.0,34.0,6.95,10.0,5.5,1.49,23.96
+1259,VB-C1184,2025-07-11 15:30:00,2025-07-11,2025-07,paid,False,1,True,web,instagram,paid_social,summer_reels_ugc,Meta Ads,C08,,2,2,52.0,0.0,0.0,52.0,6.95,13.5,6.0,2.01,37.44
+1260,VB-C1129,2025-07-14 18:55:00,2025-07-14,2025-07,paid,False,3,False,web,email,email,,Email,,,3,3,178.0,0.0,0.0,178.0,0.0,54.0,6.5,5.46,112.04
+1261,VB-C1185,2025-07-14 12:33:00,2025-07-14,2025-07,paid,False,1,True,web,instagram,paid_social,retargeting_always_on,Meta Ads,C05,,1,1,32.0,0.0,0.0,32.0,6.95,9.5,5.5,1.43,22.52
+1262,VB-C1186,2025-07-14 16:55:00,2025-07-14,2025-07,paid,False,1,True,web,instagram_organic,,,Instagram Organic,,WELCOME10,2,1,156.0,15.6,0.0,140.4,0.0,48.0,6.0,4.37,82.03
+1263,VB-C1187,2025-07-19 15:12:00,2025-07-19,2025-07,paid,False,1,True,pos,,,,Pop-up Event,,,1,1,24.0,0.0,0.0,24.0,0.0,6.5,0.0,0.72,16.78
+1264,VB-C1188,2025-07-19 16:19:00,2025-07-19,2025-07,refunded,True,1,True,pos,,,,Pop-up Event,,,1,1,32.0,0.0,32.0,0.0,0.0,0.0,0.0,0.93,-0.93
+1265,VB-C1189,2025-07-19 19:12:00,2025-07-19,2025-07,paid,False,1,True,pos,,,,Pop-up Event,,WELCOME10,1,1,32.0,3.2,0.0,28.8,0.0,9.5,0.0,0.85,18.45
+1266,VB-C1190,2025-07-19 21:12:00,2025-07-19,2025-07,paid,False,1,True,pos,,,,Pop-up Event,,,1,1,64.0,0.0,0.0,64.0,0.0,19.5,0.0,1.76,42.74
+1267,VB-C1191,2025-07-19 13:43:00,2025-07-19,2025-07,paid,False,1,True,pos,,,,Pop-up Event,,,1,1,78.0,0.0,0.0,78.0,0.0,24.0,0.0,2.13,51.87
+1268,VB-C1192,2025-07-19 08:01:00,2025-07-19,2025-07,paid,False,1,True,web,facebook,paid_social,summer_reels_ugc,Meta Ads,C08,,2,2,86.0,0.0,0.0,86.0,0.0,25.5,6.0,2.79,51.71
+1269,VB-C1193,2025-07-20 20:03:00,2025-07-20,2025-07,refunded,True,1,True,web,facebook,paid_social,lal_1pct_purchasers,Meta Ads,C06,,1,1,24.0,0.0,24.0,0.0,0.0,0.0,5.5,1.2,-6.7
+1270,VB-C1194,2025-07-21 09:47:00,2025-07-21,2025-07,paid,False,1,True,web,instagram,paid_social,lal_1pct_purchasers,Meta Ads,C06,,1,1,36.0,0.0,0.0,36.0,6.95,11.5,5.5,1.55,24.4
+1271,VB-C1195,2025-07-21 15:08:00,2025-07-21,2025-07,paid,False,1,True,web,ig,paid_social,summer_reels_ugc,Meta Ads,C08,,3,3,100.0,0.0,0.0,100.0,0.0,30.5,6.5,3.2,59.8
+1272,VB-C1196,2025-07-22 07:35:00,2025-07-22,2025-07,paid,False,1,True,web,facebook,paid_social,lal_1pct_purchasers,Meta Ads,C06,,1,1,40.0,0.0,0.0,40.0,6.95,12.5,5.5,1.66,27.29
+1273,VB-C1197,2025-07-22 19:06:00,2025-07-22,2025-07,paid,False,1,True,web,instagram_organic,,,Instagram Organic,,,1,1,32.0,0.0,0.0,32.0,6.95,9.5,5.5,1.43,22.52
+1274,VB-C1152,2025-07-24 20:39:00,2025-07-24,2025-07,paid,False,3,False,web,sms,sms,,SMS,,,2,2,72.0,0.0,0.0,72.0,6.95,22.0,6.0,2.59,48.36
+1275,VB-C1176,2025-07-24 12:57:00,2025-07-24,2025-07,paid,False,2,False,web,,,,Direct,,,2,1,80.0,0.0,0.0,80.0,0.0,25.0,6.0,2.62,46.38
+1276,VB-C1198,2025-07-26 16:44:00,2025-07-26,2025-07,paid,False,1,True,web,instagram_organic,,,Instagram Organic,,,3,3,110.0,0.0,0.0,110.0,0.0,34.0,6.5,3.49,66.01
+1277,VB-C1199,2025-07-27 16:13:00,2025-07-27,2025-07,paid,False,1,True,web,referral,,,Referral,,,2,2,78.0,0.0,0.0,78.0,0.0,23.5,6.0,2.56,45.94
+1278,VB-C1200,2025-07-28 14:13:00,2025-07-28,2025-07,paid,False,1,True,web,facebook,paid_social,summer_reels_ugc,Meta Ads,C08,,1,1,78.0,0.0,0.0,78.0,0.0,24.0,5.5,2.56,45.94
+1279,VB-C1201,2025-07-31 17:31:00,2025-07-31,2025-07,paid,False,1,True,web,facebook,paid_social,lal_1pct_purchasers,Meta Ads,C06,,1,1,24.0,0.0,0.0,24.0,6.95,6.5,5.5,1.2,17.75
+1280,VB-C1202,2025-07-31 08:06:00,2025-07-31,2025-07,paid,False,1,True,web,referral,,,Referral,,,1,1,34.0,0.0,0.0,34.0,6.95,10.0,5.5,1.49,23.96
+1281,VB-C1203,2025-08-03 15:53:00,2025-08-03,2025-08,refunded,True,1,True,web,instagram,paid_social,summer_reels_ugc,Meta Ads,C08,,1,1,40.0,0.0,40.0,0.0,0.0,0.0,5.5,1.66,-7.16
+1282,VB-C1204,2025-08-05 23:19:00,2025-08-05,2025-08,paid,False,1,True,web,tiktok,,,TikTok Organic,,,2,2,124.0,0.0,0.0,124.0,0.0,54.5,6.0,3.9,59.6
+1283,VB-C1205,2025-08-07 19:11:00,2025-08-07,2025-08,paid,False,1,True,web,instagram,paid_social,lal_1pct_purchasers,Meta Ads,C06,,1,1,64.0,0.0,0.0,64.0,6.95,19.5,5.5,2.36,43.59
+1284,VB-C1206,2025-08-07 16:13:00,2025-08-07,2025-08,paid,False,1,True,web,instagram,paid_social,summer_reels_ugc,Meta Ads,C08,,2,1,68.0,0.0,0.0,68.0,6.95,20.0,6.0,2.47,46.48
+1285,VB-C1207,2025-08-09 16:35:00,2025-08-09,2025-08,paid,False,1,True,web,instagram,paid_social,summer_reels_ugc,Meta Ads,C08,,2,2,66.0,0.0,0.0,66.0,6.95,19.5,6.0,2.42,45.03
+1286,VB-C1208,2025-08-09 14:27:00,2025-08-09,2025-08,paid,False,1,True,web,facebook,paid_social,summer_reels_ugc,Meta Ads,C08,WELCOME10,1,1,34.0,3.4,0.0,30.6,6.95,10.0,5.5,1.39,20.66
+1287,VB-C1209,2025-08-10 09:39:00,2025-08-10,2025-08,paid,False,1,True,web,instagram_organic,,,Instagram Organic,,,1,1,38.0,0.0,0.0,38.0,6.95,11.0,5.5,1.6,26.85
+1288,VB-C1210,2025-08-11 08:19:00,2025-08-11,2025-08,paid,False,1,True,web,referral,,,Referral,,,1,1,40.0,0.0,0.0,40.0,6.95,12.5,5.5,1.66,27.29
+1289,VB-C1138,2025-08-13 17:55:00,2025-08-13,2025-08,paid,False,3,False,web,instagram_organic,,,Instagram Organic,,,1,1,38.0,0.0,0.0,38.0,6.95,11.0,5.5,1.6,26.85
+1290,VB-C1185,2025-08-14 09:22:00,2025-08-14,2025-08,paid,False,2,False,web,email,email,,Email,,,1,1,38.0,0.0,0.0,38.0,6.95,11.0,5.5,1.6,26.85
+1291,VB-C1211,2025-08-15 11:06:00,2025-08-15,2025-08,paid,False,1,True,web,instagram,paid_social,summer_reels_ugc,Meta Ads,C08,,3,2,146.0,0.0,0.0,146.0,0.0,44.0,6.5,4.53,90.97
+1292,VB-C1212,2025-08-16 19:40:00,2025-08-16,2025-08,paid,False,1,True,web,instagram,paid_social,retargeting_always_on,Meta Ads,C05,,3,3,126.0,0.0,0.0,126.0,0.0,38.0,6.5,3.95,77.55
+1293,VB-C1189,2025-08-19 12:39:00,2025-08-19,2025-08,paid,False,2,False,web,email,email,,Email,,SUMMER20,2,2,100.0,20.0,0.0,80.0,0.0,30.0,6.0,2.62,41.38
+1294,VB-C1213,2025-08-19 21:03:00,2025-08-19,2025-08,paid,False,1,True,web,instagram,paid_social,summer_reels_ugc,Meta Ads,C08,,1,1,38.0,0.0,0.0,38.0,6.95,11.0,5.5,1.6,26.85
+1295,VB-C1214,2025-08-20 12:17:00,2025-08-20,2025-08,paid,False,1,True,web,instagram,paid_social,lal_1pct_purchasers,Meta Ads,C06,,1,1,38.0,0.0,0.0,38.0,6.95,11.0,5.5,1.6,26.85
+1296,VB-C1215,2025-08-21 17:57:00,2025-08-21,2025-08,paid,False,1,True,web,facebook,paid_social,lal_1pct_purchasers,Meta Ads,C06,WELCOME10,1,1,78.0,7.8,0.0,70.2,6.95,24.0,5.5,2.54,45.11
+1297,VB-C1216,2025-08-22 09:36:00,2025-08-22,2025-08,paid,False,1,True,web,instagram,paid_social,summer_reels_ugc,Meta Ads,C08,,1,1,88.0,0.0,0.0,88.0,0.0,43.0,5.5,2.85,36.65
+1298,VB-C1188,2025-08-23 20:52:00,2025-08-23,2025-08,paid,False,2,False,web,email,email,,Email,,SUMMER20,1,1,32.0,6.4,0.0,25.6,6.95,9.5,5.5,1.24,16.31
+1299,VB-C1217,2025-08-24 21:55:00,2025-08-24,2025-08,paid,False,1,True,web,referral,,,Referral,,SUMMER20,1,1,32.0,6.4,0.0,25.6,6.95,9.5,5.5,1.24,16.31
+1300,VB-C1203,2025-08-25 15:00:00,2025-08-25,2025-08,paid,False,2,False,web,instagram,paid_social,retargeting_always_on,Meta Ads,C05,,3,3,122.0,0.0,0.0,122.0,0.0,35.5,6.5,3.84,76.16
+1301,VB-C1218,2025-08-25 15:00:00,2025-08-25,2025-08,paid,False,1,True,web,instagram,paid_social,summer_reels_ugc,Meta Ads,C08,SUMMER20,1,1,32.0,6.4,0.0,25.6,6.95,9.5,5.5,1.24,16.31
+1302,VB-C1219,2025-08-26 12:35:00,2025-08-26,2025-08,paid,False,1,True,web,instagram,paid_social,lal_1pct_purchasers,Meta Ads,C06,,1,1,78.0,0.0,0.0,78.0,0.0,24.0,5.5,2.56,45.94
+1303,VB-C1220,2025-08-28 07:15:00,2025-08-28,2025-08,paid,False,1,True,web,facebook,paid_social,summer_reels_ugc,Meta Ads,C08,WELCOME10,1,1,38.0,3.8,0.0,34.2,6.95,11.0,5.5,1.49,23.16
+1304,VB-C1124,2025-08-29 22:22:00,2025-08-29,2025-08,paid,False,2,False,web,,,,Direct,,,2,1,176.0,0.0,0.0,176.0,0.0,86.0,6.0,5.4,78.6
+1305,VB-C1221,2025-09-01 14:29:00,2025-09-01,2025-09,paid,False,1,True,web,instagram_organic,,,Instagram Organic,,,2,2,70.0,0.0,0.0,70.0,6.95,20.5,6.0,2.53,47.92
+1306,VB-C1209,2025-09-02 12:46:00,2025-09-02,2025-09,paid,False,2,False,web,,,,Direct,,,2,2,74.0,0.0,0.0,74.0,6.95,22.5,6.0,2.65,49.8
+1307,VB-C1222,2025-09-03 21:40:00,2025-09-03,2025-09,paid,False,1,True,web,instagram,paid_social,lal_1pct_purchasers,Meta Ads,C06,,1,1,62.0,0.0,0.0,62.0,6.95,19.0,5.5,2.3,42.15
+1308,VB-C1223,2025-09-03 18:59:00,2025-09-03,2025-09,paid,False,1,True,web,facebook,paid_social,lal_1pct_purchasers,Meta Ads,C06,,3,3,132.0,0.0,0.0,132.0,0.0,39.5,6.5,4.13,81.87
+1309,VB-C1224,2025-09-04 17:54:00,2025-09-04,2025-09,paid,False,1,True,web,instagram_organic,,,Instagram Organic,,,1,1,24.0,0.0,0.0,24.0,6.95,6.5,5.5,1.2,17.75
+1310,VB-C1225,2025-09-05 15:15:00,2025-09-05,2025-09,paid,False,1,True,web,facebook,paid_social,retargeting_always_on,Meta Ads,C05,,2,2,92.0,0.0,0.0,92.0,0.0,26.5,6.0,2.97,56.53
+1311,VB-C1226,2025-09-10 15:52:00,2025-09-10,2025-09,paid,False,1,True,web,instagram,paid_social,lal_1pct_purchasers,Meta Ads,C06,,1,1,28.0,0.0,0.0,28.0,6.95,7.0,5.5,1.31,21.14
+1312,VB-C1227,2025-09-16 13:11:00,2025-09-16,2025-09,paid,False,1,True,web,facebook,paid_social,lal_1pct_purchasers,Meta Ads,C06,,1,1,34.0,0.0,0.0,34.0,6.95,10.0,5.5,1.49,23.96
+1313,VB-C1147,2025-09-17 12:45:00,2025-09-17,2025-09,paid,False,4,False,web,email,email,,Email,,,2,2,112.0,0.0,0.0,112.0,0.0,49.5,6.0,3.55,52.95
+1314,VB-C1176,2025-09-17 19:50:00,2025-09-17,2025-09,paid,False,3,False,web,sms,sms,,SMS,,,3,3,106.0,0.0,0.0,106.0,0.0,32.0,6.5,3.37,64.13
+1315,VB-C1228,2025-09-17 13:48:00,2025-09-17,2025-09,paid,False,1,True,web,instagram,paid_social,retargeting_always_on,Meta Ads,C05,,1,1,38.0,0.0,0.0,38.0,6.95,11.0,5.5,1.6,26.85
+1316,VB-C1210,2025-09-20 16:48:00,2025-09-20,2025-09,paid,False,2,False,web,,,,Direct,,,2,2,106.0,0.0,0.0,106.0,0.0,36.0,6.0,3.37,60.63
+1317,VB-C1229,2025-09-20 10:46:00,2025-09-20,2025-09,paid,False,1,True,web,facebook,paid_social,fall_drop_carousel,Meta Ads,C10,,1,1,84.0,0.0,0.0,84.0,0.0,27.0,5.5,2.74,48.76
+1318,VB-C1230,2025-09-21 15:04:00,2025-09-21,2025-09,paid,False,1,True,web,facebook,paid_social,fall_drop_carousel,Meta Ads,C10,,1,1,84.0,0.0,0.0,84.0,0.0,27.0,5.5,2.74,48.76
+1319,VB-C1231,2025-09-21 22:14:00,2025-09-21,2025-09,paid,False,1,True,web,instagram,paid_social,fall_drop_carousel,Meta Ads,C10,,1,1,84.0,0.0,0.0,84.0,0.0,27.0,5.5,2.74,48.76
+1320,VB-C1166,2025-09-22 18:30:00,2025-09-22,2025-09,paid,False,2,False,web,instagram_organic,,,Instagram Organic,,,2,2,114.0,0.0,0.0,114.0,0.0,35.5,6.0,3.61,68.89
+1321,VB-C1232,2025-09-22 12:20:00,2025-09-22,2025-09,paid,False,1,True,web,tiktok,,,TikTok Organic,,,3,3,120.0,0.0,0.0,120.0,0.0,35.5,6.5,3.78,74.22
+1322,VB-C1233,2025-09-23 08:48:00,2025-09-23,2025-09,paid,False,1,True,web,facebook,paid_social,lal_1pct_purchasers,Meta Ads,C06,,1,1,32.0,0.0,0.0,32.0,6.95,9.5,5.5,1.43,22.52
+1323,VB-C1234,2025-09-26 15:48:00,2025-09-26,2025-09,paid,False,1,True,web,referral,,,Referral,,,1,1,32.0,0.0,0.0,32.0,6.95,9.5,5.5,1.43,22.52
+1324,VB-C1235,2025-09-29 22:49:00,2025-09-29,2025-09,paid,False,1,True,web,instagram,paid_social,fall_drop_carousel,Meta Ads,C10,,2,2,162.0,0.0,0.0,162.0,0.0,51.0,6.0,5.0,100.0
+1325,VB-C1236,2025-09-29 14:47:00,2025-09-29,2025-09,paid,False,1,True,web,instagram_organic,,,Instagram Organic,,,4,3,176.0,0.0,0.0,176.0,0.0,53.0,7.0,5.4,110.6
+1326,VB-C1237,2025-09-30 13:44:00,2025-09-30,2025-09,paid,False,1,True,web,referral,,,Referral,,,1,1,32.0,0.0,0.0,32.0,6.95,9.5,5.5,1.43,22.52
+1327,VB-C1138,2025-10-02 18:32:00,2025-10-02,2025-10,paid,False,4,False,web,instagram,paid_social,retargeting_always_on,Meta Ads,C05,,1,1,34.0,0.0,0.0,34.0,6.95,10.0,5.5,1.49,23.96
+1328,VB-C1220,2025-10-02 18:42:00,2025-10-02,2025-10,paid,False,2,False,web,instagram,paid_social,retargeting_always_on,Meta Ads,C05,,1,1,36.0,0.0,0.0,36.0,6.95,11.5,5.5,1.55,24.4
+1329,VB-C1238,2025-10-04 11:59:00,2025-10-04,2025-10,paid,False,1,True,web,referral,,,Referral,,,1,1,78.0,0.0,0.0,78.0,0.0,24.0,5.5,2.56,45.94
+1330,VB-C1239,2025-10-04 20:51:00,2025-10-04,2025-10,paid,False,1,True,web,facebook,paid_social,fall_drop_carousel,Meta Ads,C10,,1,1,78.0,0.0,0.0,78.0,0.0,24.0,5.5,2.56,45.94
+1331,VB-C1240,2025-10-05 16:28:00,2025-10-05,2025-10,paid,False,1,True,web,ig,paid_social,lal_1pct_purchasers,Meta Ads,C06,,1,1,78.0,0.0,0.0,78.0,0.0,24.0,5.5,2.56,45.94
+1332,VB-C1241,2025-10-05 12:10:00,2025-10-05,2025-10,paid,False,1,True,web,instagram,paid_social,fall_drop_carousel,Meta Ads,C10,,1,1,84.0,0.0,0.0,84.0,0.0,27.0,5.5,2.74,48.76
+1333,VB-C1242,2025-10-07 07:03:00,2025-10-07,2025-10,paid,False,1,True,web,instagram_organic,,,Instagram Organic,,,2,2,162.0,0.0,0.0,162.0,0.0,51.0,6.0,5.0,100.0
+1334,VB-C1243,2025-10-08 09:45:00,2025-10-08,2025-10,paid,False,1,True,web,facebook,paid_social,fall_drop_carousel,Meta Ads,C10,,2,2,122.0,0.0,0.0,122.0,0.0,38.0,6.0,3.84,74.16
+1335,VB-C1244,2025-10-09 15:25:00,2025-10-09,2025-10,paid,False,1,True,web,ig,paid_social,fall_drop_carousel,Meta Ads,C10,,1,1,32.0,0.0,0.0,32.0,6.95,9.5,5.5,1.43,22.52
+1336,VB-C1211,2025-10-12 20:09:00,2025-10-12,2025-10,paid,False,2,False,web,instagram,paid_social,retargeting_always_on,Meta Ads,C05,,1,1,78.0,0.0,0.0,78.0,0.0,24.0,5.5,2.56,45.94
+1337,VB-C1245,2025-10-18 22:22:00,2025-10-18,2025-10,paid,False,1,True,web,instagram_organic,,,Instagram Organic,,,1,1,32.0,0.0,0.0,32.0,6.95,9.5,5.5,1.43,22.52
+1338,VB-C1246,2025-10-19 16:45:00,2025-10-19,2025-10,paid,False,1,True,web,referral,,,Referral,,,1,1,78.0,0.0,0.0,78.0,0.0,24.0,5.5,2.56,45.94
+1339,VB-C1247,2025-10-22 17:09:00,2025-10-22,2025-10,paid,False,1,True,web,ig,paid_social,fall_drop_carousel,Meta Ads,C10,,1,1,24.0,0.0,0.0,24.0,6.95,6.5,5.5,1.2,17.75
+1340,VB-C1248,2025-10-22 16:53:00,2025-10-22,2025-10,paid,False,1,True,web,instagram,paid_social,fall_drop_carousel,Meta Ads,C10,,1,1,24.0,0.0,0.0,24.0,6.95,6.5,5.5,1.2,17.75
+1341,VB-C1164,2025-10-23 07:04:00,2025-10-23,2025-10,paid,False,3,False,web,email,email,,Email,,,2,2,118.0,0.0,0.0,118.0,0.0,36.5,6.0,3.72,71.78
+1342,VB-C1249,2025-10-23 13:08:00,2025-10-23,2025-10,paid,False,1,True,web,instagram,paid_social,fall_drop_carousel,Meta Ads,C10,,3,3,194.0,0.0,0.0,194.0,0.0,60.5,6.5,5.93,121.07
+1343,VB-C1250,2025-10-25 11:35:00,2025-10-25,2025-10,paid,False,1,True,web,instagram_organic,,,Instagram Organic,,,1,1,22.0,0.0,0.0,22.0,6.95,9.0,5.5,1.14,13.31
+1344,VB-C1169,2025-10-27 14:09:00,2025-10-27,2025-10,paid,False,2,False,web,instagram,paid_social,retargeting_always_on,Meta Ads,C05,VIP15,2,2,146.0,21.9,0.0,124.1,0.0,46.0,6.0,3.9,68.2
+1345,VB-C1224,2025-10-27 20:30:00,2025-10-27,2025-10,paid,False,2,False,web,instagram,paid_social,retargeting_always_on,Meta Ads,C05,,2,1,124.0,0.0,0.0,124.0,0.0,38.0,6.0,3.9,76.1
+1346,VB-C1251,2025-10-27 16:44:00,2025-10-27,2025-10,paid,False,1,True,web,ig,paid_social,fall_drop_carousel,Meta Ads,C10,,4,3,136.0,0.0,0.0,136.0,0.0,40.0,7.0,4.24,84.76
+1347,VB-C1252,2025-10-28 08:07:00,2025-10-28,2025-10,paid,False,1,True,web,ig,paid_social,lal_1pct_purchasers,Meta Ads,C06,WELCOME10,1,1,64.0,6.4,0.0,57.6,6.95,19.5,5.5,2.17,37.38
+1348,VB-C1253,2025-10-28 07:28:00,2025-10-28,2025-10,paid,False,1,True,web,referral,,,Referral,,,1,1,88.0,0.0,0.0,88.0,0.0,43.0,5.5,2.85,36.65
+1349,VB-C1216,2025-10-29 22:56:00,2025-10-29,2025-10,paid,False,2,False,web,email,email,,Email,,,1,1,62.0,0.0,0.0,62.0,6.95,19.0,5.5,2.3,42.15
+1350,VB-C1227,2025-10-30 11:40:00,2025-10-30,2025-10,paid,False,2,False,web,email,email,,Email,,,1,1,28.0,0.0,0.0,28.0,6.95,7.0,5.5,1.31,21.14
+1351,VB-C1254,2025-10-30 10:19:00,2025-10-30,2025-10,paid,False,1,True,web,ig,paid_social,fall_drop_carousel,Meta Ads,C10,,1,1,84.0,0.0,0.0,84.0,0.0,27.0,5.5,2.74,48.76
+1352,VB-C1180,2025-10-31 08:41:00,2025-10-31,2025-10,paid,False,2,False,web,instagram_organic,,,Instagram Organic,,,1,1,32.0,0.0,0.0,32.0,6.95,9.5,5.5,1.43,22.52

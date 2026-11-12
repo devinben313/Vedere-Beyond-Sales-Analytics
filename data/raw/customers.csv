@@ -1,0 +1,261 @@
+customer_id,first_name,last_name,email,city,state,created_at,accepts_marketing,how_did_you_hear
+VB-C1052,Aaron,Martinez,aaron_m9@yahoo.com,Miami,FL,2024-11-21 00:53:00,yes,instagram ad
+VB-C1128,Stephanie,Bailey,sbailey@gmail.com,San Diego,CA,2025-03-09 00:26:00,yes,Facebook Ad
+VB-C1045,Brandon,Ramirez,brandon_r95@yahoo.com,Detroit,mi,2024-11-16 00:29:00,no,Instagram Ad
+VB-C1020,Alexander,Rivera,alexanderrivera61@hotmail.com,Washington,DC,2024-10-04 00:45:00,no,instagram ad
+VB-C1160,Steven,Lee,slee@hotmail.com,Nashville,TN,2025-05-06 00:25:00,yes,Instagram
+VB-C1019,Ashley,Phillips,ashley.phillips@outlook.com,Orlando,FL,2024-10-01 00:25:00,yes,Saw an ad on Instagram
+VB-C1146,Trey,Coleman,trey.coleman@yahoo.com,Austin,TX,2025-04-05 00:45:00,yes,tiktok
+VB-C1216,Benjamin,Baker,bbaker@icloud.com,Atlanta,GA,2025-08-22 00:59:00,yes,Saw an ad on Instagram
+VB-C1254,George,Richardson,george.richardson@outlook.com,Dallas,TX,2025-10-30 00:09:00,no,Facebook Ad
+VB-C1135,Carol,Kelly,carolkelly77@outlook.com,Philadelphia,pa,2025-03-21 00:10:00,yes,IG page
+VB-C1144,Benjamin,Martin,benjaminmartin69@gmail.com,Los Angeles,CA,2025-03-31 00:56:00,no,Instagram Ad
+VB-C1049,Tyler,Ortiz,tyler.ortiz@hotmail.com,Atlanta,GA,2024-11-20 00:51:00,yes,instagram ad
+VB-C1173,Marcus,Cook,marcus_c21@hotmail.com,Austin,TX,2025-06-26 00:37:00,yes,IG page
+VB-C1207,Jack,Collins,jackcollins5@outlook.com,Houston,Texas,2025-08-09 00:33:00,yes,instagram ad
+VB-C1238,Megan,Watson,megan.watson@outlook.com,Nashville,TN,2025-10-04 00:50:00,yes,Friend/Family
+VB-C1188,Rebecca,Jimenez,REBECCAJIMENEZ63@GMAIL.COM,Dallas,tx,2025-07-19 00:03:00,yes,Pop-up Event
+VB-C1068,Tyler,Campbell,TCAMPBELL@HOTMAIL.COM,,PA,2024-11-29 00:30:00,no,Instagram
+VB-C1143,Jalen,Reyes, jalen_r18@yahoo.com ,Philadelphia,PA,2025-03-31 00:47:00,no,instagram ad
+VB-C1140,Mary,Wilson,mwilson@gmail.com,Houston,TX,2025-03-30 00:02:00,yes,IG page
+VB-C1206,Heather,Sanders,heather_s92@yahoo.com,Los Angeles,California,2025-08-07 00:55:00,yes,instagram ad
+VB-C1130,Zachary,Turner,zacharyturner38@icloud.com,Orlando,fl,2025-03-11 00:25:00,no,Instagram
+VB-C1162,Justin,Taylor,justin.taylor@icloud.com,Houston,TX,2025-05-10 00:21:00,no,Saw an ad on Instagram
+VB-C1222,Mary,Perry,mary_p30@gmail.com,Orlando,FL,2025-09-03 00:06:00,yes,Saw an ad on Instagram
+VB-C1125,Valeria,Morales,valeria_m5@icloud.com,Baltimore,MD,2025-02-16 00:12:00,yes,Instagram Ad
+VB-C1180,Joshua,Perez,joshua_p19@gmail.com,Austin,TX,2025-07-05 00:35:00,no,
+VB-C1149,Ronald,Jones,ronald.jones@gmail.com,Nashville,TN,2025-04-11 00:19:00,no,
+VB-C1093,Marcus,Gray,marcusgray81@hotmail.com,Houston,texas,2024-12-12 00:24:00,yes,Saw an ad on Instagram
+VB-C1168,Michelle,Smith,michelle.smith@outlook.com,Atlanta,GA,2025-06-11 00:31:00,yes,instagram ad
+VB-C1248,Jason,Anderson,JASONANDERSON75@ICLOUD.COM,,IL,2025-10-22 00:19:00,no,Facebook Ad
+VB-C1009,Kyle,Patel,kyle_p93@yahoo.com,Raleigh,NC,2024-09-19 00:55:00,yes,Word of mouth
+VB-C1054,Dennis,Cox,denniscox55@icloud.com,Los Angeles,CA,2024-11-23 00:34:00,no,instagram ad
+VB-C1041,Patricia,Rogers,patricia.rogers@hotmail.com,Austin,TX,2024-11-13 00:59:00,yes,Instagram Ad
+VB-C1235,Nancy,Lewis,nancy.lewis@gmail.com,Washington,DC,2025-09-29 00:59:00,no,Facebook Ad
+VB-C1004,Emma,Ruiz,eruiz@gmail.com,Baltimore,MD,2024-09-10 00:31:00,yes,Facebook Ad
+VB-C1175,Zoe,Roberts,zoeroberts48@gmail.com,Washington,DC,2025-06-27 00:19:00,yes,
+VB-C1212,Jack,Anderson,jack_a8@gmail.com,Dallas,TX,2025-08-16 00:54:00,yes,instagram ad
+VB-C1010,Sofia,Mendoza,sofiamendoza98@outlook.com,Baltimore,MD,2024-09-20 00:05:00,yes,Friend/Family
+VB-C1223,Matthew,Parker,matthew.parker@gmail.com,Los Angeles,California,2025-09-03 00:31:00,yes,Instagram Ad
+VB-C1014,Nicole,Turner,nicole.turner@yahoo.com,Orlando,FL,2024-09-28 00:20:00,no,Instagram
+VB-C1192,Dennis,Rivera,dennis_r79@yahoo.com,Los Angeles,CA,2025-07-19 00:04:00,no,
+VB-C1134,Samantha,Howard,samantha_h12@outlook.com,Baltimore,MD,2025-03-21 00:24:00,no,Instagram Ad
+VB-C1105,Mark,Mitchell,MARK_M60@GMAIL.COM,Raleigh,NC,2024-12-14 00:05:00,yes,Pop-up Event
+VB-C1243,Emily,Martinez,emily_m94@gmail.com,Baltimore,MD,2025-10-08 00:39:00,yes,instagram ad
+VB-C1064,Patrick,King,patrick_k59@gmail.com,New York,NY,2024-11-27 00:43:00,no,
+VB-C1237,Anna,Murphy,anna.murphy@yahoo.com,Baltimore,MD,2025-09-30 00:03:00,yes,Friend/Family
+VB-C1095,Robert,Butler,robertbutler87@gmail.com,Houston,TX,2024-12-13 00:17:00,yes,Friend/Family
+VB-C1036,Darius,Garcia,DARIUSGARCIA89@GMAIL.COM,Brooklyn,New York,2024-11-05 00:49:00,yes,
+VB-C1138,Samantha,White,samantha_w11@icloud.com,Boston,MA,2025-03-26 00:11:00,no,Instagram Ad
+VB-C1177,Matthew,Wilson,matthew.wilson@yahoo.com,Atlanta,GA,2025-07-04 00:33:00,yes,Saw an ad on Instagram
+VB-C1085,Katherine,Chavez,katherine.chavez@gmail.com,San Diego,CA,2024-12-07 00:37:00,no,Instagram
+VB-C1204,Timothy,Mitchell,timothy.mitchell@gmail.com,Chicago,IL,2025-08-05 00:21:00,no,TikTok
+VB-C1069,Jalen,Morgan,JMORGAN@YAHOO.COM,Columbus,OH,2024-11-29 00:49:00,yes,Saw an ad on Instagram
+VB-C1136,Layla,Rodriguez, layla.rodriguez@hotmail.com ,Orlando,FL,2025-03-23 00:37:00,yes,Saw an ad on Instagram
+VB-C1100,Andrew,Walker,awalker@outlook.com,Atlanta,Georgia,2024-12-14 00:27:00,no,Pop-up Event
+VB-C1106,Samuel,Coleman,scoleman@gmail.com,Austin,TX,2024-12-14 00:31:00,yes,Pop up shop
+VB-C1055,Angela,Hill,ahill@outlook.com,Denver,CO,2024-11-24 00:58:00,no,Instagram Ad
+VB-C1159,Rachel,Coleman,rachelcoleman73@hotmail.com,Brooklyn,NY,2025-05-04 00:44:00,yes,Saw an ad on Instagram
+VB-C1107,Sharon,Ward,sharonward86@hotmail.com,Columbus,OH,2024-12-15 00:26:00,yes,Facebook Ad
+VB-C1194,Lisa,Sanders,LISA_S19@YAHOO.COM,Charlotte,NC,2025-07-21 00:20:00,yes,Instagram Ad
+VB-C1131,William,Nelson,william_n30@outlook.com,Miami,Florida,2025-03-17 00:26:00,yes,Saw an ad on Instagram
+VB-C1179,Amanda,Scott,amanda_s75@icloud.com,Los Angeles,California,2025-07-04 00:37:00,yes,tiktok
+VB-C1011,Mateo,Ruiz,mateo_r5@gmail.com,Austin,TX,2024-09-21 00:05:00,yes,Facebook Ad
+VB-C1099,Jacob,Thompson,jacob.thompson@icloud.com,Houston,Texas,2024-12-14 00:45:00,yes,Facebook Ad
+VB-C1096,Donna,Washington,donna_w28@icloud.com,,MA,2024-12-13 00:33:00,yes,Word of mouth
+VB-C1075,Carol,Davis,carol.davis@outlook.com,Austin,Texas,2024-12-01 00:25:00,no,friend
+VB-C1063,Diane,Parker,diane.parker@yahoo.com,Miami,FL,2024-11-27 00:45:00,yes,Instagram (organic)
+VB-C1110,Mateo,Johnson,mateojohnson58@yahoo.com,Detroit,MI,2024-12-19 00:31:00,yes,Facebook Ad
+VB-C1104,Elizabeth,Sullivan,elizabethsullivan68@gmail.com,Charlotte,NC,2024-12-14 00:47:00,no,tiktok
+VB-C1029,Anthony,Cruz,acruz@yahoo.com,Orlando,FL,2024-10-15 00:22:00,no,Saw an ad on Instagram
+VB-C1215,Devin,Wood,devinwood17@outlook.com,Austin,TX,2025-08-21 00:11:00,yes,instagram ad
+VB-C1024,Jalen,Gray,JALEN.GRAY@GMAIL.COM,Washington,DC,2024-10-09 00:22:00,yes,Friend/Family
+VB-C1025,Kimberly,James,kimberly.james@gmail.com,Phoenix,AZ,2024-10-10 00:44:00,no,Instagram Ad
+VB-C1164,Kathleen,Davis, kdavis@gmail.com ,Columbus,OH,2025-05-19 00:35:00,yes,Friend/Family
+VB-C1210,Isabella,Gray,isabella.gray@outlook.com,Houston,TX,2025-08-11 00:06:00,no,friend
+VB-C1080,Sharon,Turner,sharonturner92@icloud.com,Atlanta,GA,2024-12-02 00:17:00,yes,Saw an ad on Instagram
+VB-C1097,Camila,Turner,camila.turner@outlook.com,Chicago,IL,2024-12-13 00:53:00,yes,Saw an ad on Instagram
+VB-C1145,Mia,Cooper,mcooper@gmail.com,New York,NY,2025-04-04 00:22:00,yes,Saw an ad on Instagram
+VB-C1163,Kenneth,Jackson,kjackson@hotmail.com,New Orleans,LA,2025-05-12 00:38:00,yes,TikTok
+VB-C1089,Aaron,Sanders,aaron_s6@gmail.com,Houston,TX,2024-12-11 00:23:00,no,instagram ad
+VB-C1133,Kiara,Walker,kiara.walker@yahoo.com,San Diego,CA,2025-03-18 00:12:00,yes,Word of mouth
+VB-C1247,Diane,Morales,dianemorales94@gmail.com,Chicago,IL,2025-10-22 00:41:00,no,Facebook Ad
+VB-C1002,James,Ross,jamesross25@hotmail.com,Atlanta,GA,2024-09-06 00:54:00,yes,
+VB-C1115,Diego,Moore,diego_m43@gmail.com,Philadelphia,PA,2024-12-28 00:52:00,yes,Instagram Ad
+VB-C1252,Stephanie,Murphy,stephanie_m1@gmail.com,Charlotte,NC,2025-10-28 00:44:00,yes,Saw an ad on Instagram
+VB-C1185,Christopher,Harris,christopher_h20@icloud.com,Los Angeles,CA,2025-07-14 00:30:00,no,Instagram Ad
+VB-C1213,Betty,Jenkins,bettyjenkins39@hotmail.com,Brooklyn,NY,2025-08-19 00:19:00,yes,Facebook Ad
+VB-C1087,Patrick,Flores,pflores@yahoo.com,Nashville,TN,2024-12-09 00:13:00,yes,Instagram Ad
+VB-C1242,Elijah,Cox,elijah_c91@yahoo.com,Nashville,TN,2025-10-07 00:34:00,no,Instagram
+VB-C1094,Matthew,Russell,matthewrussell14@hotmail.com,Nashville,tn,2024-12-13 00:01:00,no,instagram ad
+VB-C1013,Mary,Flores,mflores@gmail.com,Raleigh,NC,2024-09-25 00:55:00,yes,Instagram Ad
+VB-C1005,Jennifer,Diaz,jennifer_d9@outlook.com,Houston,TX,2024-09-14 00:37:00,yes,instagram ad
+VB-C1234,Jennifer,Lewis,jenniferlewis73@gmail.com,Columbus,OH,2025-09-26 00:18:00,yes,Word of mouth
+VB-C1065,Deborah,Scott, deborah_s26@outlook.com ,Philadelphia,PA,2024-11-28 00:07:00,no,Facebook Ad
+VB-C1195,Karen,Moore,karen.moore@icloud.com,Atlanta,GA,2025-07-21 00:40:00,no,instagram ad
+VB-C1191,Donna,Cox,donna_c22@gmail.com,Columbus,OH,2025-07-19 00:24:00,yes,Pop-up Event
+VB-C1231,Destiny,Johnson,destiny.johnson@gmail.com,New Orleans,LA,2025-09-21 00:32:00,yes,Saw an ad on Instagram
+VB-C1217,Andrea,Baker,abaker@gmail.com,Houston,TX,2025-08-24 00:55:00,yes,Word of mouth
+VB-C1111,Donna,Rivera,drivera@yahoo.com,San Diego,CA,2024-12-19 00:35:00,yes,Instagram Ad
+VB-C1079,Sofia,Ortiz,sofia.ortiz@outlook.com,Brooklyn,NY,2024-12-02 00:35:00,no,Facebook Ad
+VB-C1201,Mark,Evans,mevans@gmail.com,Philadelphia,PA,2025-07-31 00:24:00,yes,instagram ad
+VB-C1076,Thomas,Garcia,thomas_g66@icloud.com,Columbus,OH,2024-12-02 00:35:00,yes,Instagram Ad
+VB-C1153,Imani,Cruz,imani.cruz@gmail.com,New York,New York,2025-04-20 00:31:00,yes,Saw an ad on Instagram
+VB-C1187,Nathan,Foster,nfoster@gmail.com,Washington,DC,2025-07-19 00:57:00,no,Pop-up Event
+VB-C1251,Linda,Diaz,linda_d45@outlook.com,Boston,MA,2025-10-27 00:06:00,yes,Instagram Ad
+VB-C1098,Eric,Powell,ericpowell95@gmail.com,Nashville,TN,2024-12-13 00:02:00,yes,instagram ad
+VB-C1225,Camila,Lopez,camilalopez33@outlook.com,Miami,FL,2025-09-05 00:47:00,yes,Saw an ad on Instagram
+VB-C1071,James,King,jking@hotmail.com,Miami,FL,2024-11-30 00:49:00,yes,Instagram Ad
+VB-C1120,Nicholas,Campbell,NCAMPBELL@OUTLOOK.COM,,NC,2025-01-15 00:55:00,yes,Saw an ad on Instagram
+VB-C1041,Patricia,Rogers,patricia.rogers@hotmail.com,Austin,TX,2024-11-13 00:59:00,yes,Instagram Ad
+VB-C1232,Susan,King,susan_k85@icloud.com,Philadelphia,PA,2025-09-22 00:56:00,yes,tiktok
+VB-C1172,Rebecca,Thompson,rebecca.thompson@hotmail.com,New York,NY,2025-06-25 00:58:00,yes,Saw an ad on Instagram
+VB-C1200,James,Sanders,JSANDERS@ICLOUD.COM,Dallas,TX,2025-07-28 00:18:00,yes,Facebook Ad
+VB-C1038,Kiara,Brooks,kiarabrooks89@gmail.com,Brooklyn,NY,2024-11-10 00:40:00,yes,Saw an ad on Instagram
+VB-C1118,Diane,Gutierrez,dgutierrez@gmail.com,Dallas,TX,2025-01-03 00:11:00,yes,instagram ad
+VB-C1167,Jennifer,Stewart,jenniferstewart40@outlook.com,Houston,TX,2025-06-03 00:27:00,no,Facebook Ad
+VB-C1113,Ronald,Brooks,ronald_b19@gmail.com,Los Angeles,CA,2024-12-20 00:28:00,yes,Saw an ad on Instagram
+VB-C1233,Lauren,Mitchell,lauren.mitchell@gmail.com,Atlanta,GA,2025-09-23 00:58:00,yes,Saw an ad on Instagram
+VB-C1081,Nia,Brown,niabrown63@hotmail.com,Los Angeles,CA,2024-12-05 00:06:00,no,Saw an ad on Instagram
+VB-C1205,Aaron,Russell,aaron.russell@hotmail.com,Charlotte,NC,2025-08-07 00:34:00,yes,Facebook Ad
+VB-C1032,Amanda,Howard,AHOWARD@HOTMAIL.COM,,CO,2024-10-22 00:53:00,yes,Instagram (organic)
+VB-C1211,Donald,Cruz,donald_c84@gmail.com,Atlanta,Georgia,2025-08-15 00:52:00,yes,Instagram Ad
+VB-C1186,Patrick,Green, pgreen@icloud.com ,New York,NY,2025-07-14 00:06:00,yes,IG page
+VB-C1059,Jasmine,Howard,jhoward@icloud.com,Nashville,TN,2024-11-24 00:59:00,yes,instagram ad
+VB-C1061,Jacob,Mitchell,jacobmitchell8@hotmail.com,Philadelphia,PA,2024-11-25 00:23:00,yes,tiktok
+VB-C1224,Darius,Reyes,dreyes@icloud.com,Seattle,WA,2025-09-04 00:22:00,no,Instagram (organic)
+VB-C1048,Julie,Gutierrez,JGUTIERREZ@HOTMAIL.COM,Philadelphia,PA,2024-11-20 00:50:00,no,Instagram (organic)
+VB-C1117,Melissa,Ortiz,melissaortiz50@gmail.com,Houston,TX,2025-01-03 00:46:00,yes,IG page
+VB-C1250,Christopher,Reed,christopherreed28@yahoo.com,Washington,DC,2025-10-25 00:52:00,yes,Instagram (organic)
+VB-C1119,Jacob,Young,jacobyoung10@gmail.com,Los Angeles,CA,2025-01-12 00:06:00,yes,Word of mouth
+VB-C1152,Mateo,Kim,mateokim83@outlook.com,Raleigh,NC,2025-04-18 00:21:00,yes,Facebook Ad
+VB-C1227,Zachary,Mendoza,zachary.mendoza@yahoo.com,Miami,FL,2025-09-16 00:01:00,yes,
+VB-C1062,Aaliyah,Jimenez,aaliyahjimenez81@hotmail.com,Los Angeles,CA,2024-11-25 00:46:00,yes,instagram ad
+VB-C1127,Ryan,Rivera,ryan.rivera@icloud.com,New York,New York,2025-02-17 00:14:00,no,Instagram
+VB-C1196,Dennis,Ortiz,dennisortiz27@gmail.com,Miami,FL,2025-07-22 00:43:00,yes,Facebook Ad
+VB-C1030,Christine,Price,cprice@gmail.com,Charlotte,NC,2024-10-17 00:52:00,no,Facebook Ad
+VB-C1137,Richard,Baker,RBAKER@HOTMAIL.COM,Detroit,MI,2025-03-24 00:35:00,yes,instagram ad
+VB-C1022,Steven,Ortiz,stevenortiz64@yahoo.com,Los Angeles,CA,2024-10-07 00:10:00,yes,instagram ad
+VB-C1148,Adam,Reyes,adam_r75@outlook.com,New York,NY,2025-04-11 00:20:00,no,Instagram Ad
+VB-C1129,Amy,Foster,amy_f59@icloud.com,Detroit,MI,2025-03-09 00:19:00,no,friend
+VB-C1176,Isabella,Lopez,ilopez@gmail.com,Philadelphia,pa,2025-07-03 00:15:00,yes,instagram ad
+VB-C1124,Dennis,Foster,dennisfoster3@outlook.com,Los Angeles,CA,2025-02-04 00:20:00,no,Saw an ad on Instagram
+VB-C1083,Rebecca,Harris,rharris@yahoo.com,Boston,MA,2024-12-06 00:54:00,yes,Instagram
+VB-C1132,Jack,Thomas,jack_t66@gmail.com,Raleigh,NC,2025-03-18 00:42:00,yes,IG page
+VB-C1077,Jonathan,Patel,jonathan.patel@gmail.com,New York,NY,2024-12-02 00:13:00,yes,Instagram Ad
+VB-C1012,Ava,Gutierrez,avagutierrez57@hotmail.com,Chicago,IL,2024-09-22 00:21:00,yes,Facebook Ad
+VB-C1043,Thomas,Lopez,thomas_l73@hotmail.com,Miami,FL,2024-11-16 00:56:00,yes,Facebook Ad
+VB-C1169,Megan,Stewart,mstewart@hotmail.com,Houston,TX,2025-06-17 00:09:00,yes,Instagram (organic)
+VB-C1057,Justin,Cox, justin_c11@icloud.com ,Atlanta,Georgia,2024-11-24 00:41:00,yes,Facebook Ad
+VB-C1070,Mateo,Hill,mateohill2@gmail.com,Dallas,TX,2024-11-29 00:15:00,yes,Facebook Ad
+VB-C1102,Jacob,Ramirez,JRAMIREZ@GMAIL.COM,Atlanta,Georgia,2024-12-14 00:11:00,no,
+VB-C1178,Jeffrey,Green, jeffrey.green@yahoo.com ,Baltimore,MD,2025-07-04 00:29:00,yes,Instagram Ad
+VB-C1016,John,Bennett,john_b23@outlook.com,Boston,MA,2024-09-30 00:19:00,no,Instagram Ad
+VB-C1241,Stephanie,Alvarez,salvarez@gmail.com,Philadelphia,PA,2025-10-05 00:24:00,yes,instagram ad
+VB-C1245,Donald,Sullivan,DONALDSULLIVAN51@ICLOUD.COM,Miami,FL,2025-10-18 00:44:00,yes,IG page
+VB-C1182,Deborah,Ramirez,DEBORAHRAMIREZ40@HOTMAIL.COM,Seattle,WA,2025-07-06 00:45:00,no,Instagram Ad
+VB-C1116,Darius,Cruz,dcruz@gmail.com,Chicago,IL,2024-12-31 00:00:00,yes,
+VB-C1018,Isabella,Gutierrez,IGUTIERREZ@GMAIL.COM,Houston,TX,2024-10-01 00:15:00,no,Instagram Ad
+VB-C1206,Heather,Sanders,heather_s92@yahoo.com,Los Angeles,California,2025-08-07 00:55:00,yes,instagram ad
+VB-C1122,Layla,Morales,layla.morales@yahoo.com,Denver,CO,2025-01-25 00:35:00,no,Instagram Ad
+VB-C1142,Timothy,Martin,timothy_m52@hotmail.com,New Orleans,LA,2025-03-31 00:06:00,yes,Word of mouth
+VB-C1166,George,Baker,georgebaker42@gmail.com,Los Angeles,CA,2025-05-26 00:54:00,yes,instagram ad
+VB-C1109,Deborah,Reed,dreed@hotmail.com,Atlanta,GA,2024-12-16 00:41:00,yes,Facebook Ad
+VB-C1239,Kimberly,Nguyen,kimberly_n53@gmail.com,Philadelphia,PA,2025-10-04 00:37:00,yes,instagram ad
+VB-C1033,Shirley,Edwards,sedwards@hotmail.com,Boston,MA,2024-10-22 00:23:00,yes,Facebook Ad
+VB-C1066,Nicholas,Flores,nicholas_f82@outlook.com,Philadelphia,PA,2024-11-28 00:14:00,yes,instagram ad
+VB-C1246,Andre,Phillips,andrephillips32@hotmail.com,Boston,MA,2025-10-19 00:48:00,yes,
+VB-C1214,John,Kim,jkim@gmail.com,Nashville,TN,2025-08-20 00:22:00,yes,Saw an ad on Instagram
+VB-C1103,Ronald,Butler,rbutler@icloud.com,Dallas,TX,2024-12-14 00:55:00,yes,Pop up shop
+VB-C1249,Melissa,Thomas,melissathomas5@gmail.com,Houston,TX,2025-10-23 00:38:00,no,Instagram Ad
+VB-C1244,Elizabeth,Ward,elizabeth_w65@yahoo.com,San Diego,CA,2025-10-09 00:57:00,yes,Saw an ad on Instagram
+VB-C1126,Luis,Taylor,ltaylor@hotmail.com,Seattle,WA,2025-02-17 00:32:00,yes,instagram ad
+VB-C1001,Diane,Lopez,dlopez@outlook.com,Brooklyn,NY,2024-09-03 00:10:00,no,
+VB-C1086,Nathan,Diaz, nathandiaz43@yahoo.com ,Dallas,TX,2024-12-09 00:54:00,yes,TikTok
+VB-C1154,Amanda,Thompson,athompson@gmail.com,Seattle,WA,2025-04-22 00:40:00,yes,instagram ad
+VB-C1151,Noah,Edwards,noah_e51@gmail.com,Denver,CO,2025-04-14 00:28:00,no,instagram ad
+VB-C1183,Mary,Nelson,mnelson@hotmail.com,Philadelphia,PA,2025-07-08 00:34:00,yes,IG page
+VB-C1112,George,Ramirez,george_r28@yahoo.com,Nashville,TN,2024-12-20 00:45:00,yes,Facebook Ad
+VB-C1091,Xavier,Russell,xrussell@icloud.com,Houston,TX,2024-12-12 00:38:00,yes,Instagram Ad
+VB-C1034,Christine,Ward,christineward85@gmail.com,Houston,TX,2024-10-29 00:37:00,yes,IG page
+VB-C1114,Karen,Campbell,kcampbell@hotmail.com,Boston,MA,2024-12-21 00:17:00,no,
+VB-C1028,Ashley,Jackson,ajackson@gmail.com,Philadelphia,PA,2024-10-14 00:49:00,yes,TikTok
+VB-C1060,Julie,Cox,julie_c37@hotmail.com,Brooklyn,NY,2024-11-25 00:25:00,no,Facebook Ad
+VB-C1171,Jason,Thomas,jasonthomas84@outlook.com,New York,NY,2025-06-23 00:45:00,no,friend
+VB-C1236,Tyler,Clark,tclark@hotmail.com,Atlanta,GA,2025-09-29 00:35:00,yes,Instagram (organic)
+VB-C1108,Michelle,King,michelle.king@hotmail.com,New York,NY,2024-12-15 00:52:00,yes,instagram ad
+VB-C1229,Jacob,Lewis,jacob_l88@yahoo.com,Miami,FL,2025-09-20 00:34:00,yes,Instagram Ad
+VB-C1147,Jack,Wright,jack_w82@outlook.com,Dallas,TX,2025-04-06 00:06:00,no,Saw an ad on Instagram
+VB-C1170,Donna,Mendoza,donnamendoza10@yahoo.com,,PA,2025-06-20 00:32:00,yes,Facebook Ad
+VB-C1003,Joseph,Lopez,joseph.lopez@gmail.com,Columbus,OH,2024-09-09 00:18:00,yes,Instagram (organic)
+VB-C1092,Isaiah,Anderson,isaiah_a42@icloud.com,New York,NY,2024-12-12 00:28:00,no,Facebook Ad
+VB-C1156,Devin,Parker,devin.parker@gmail.com,Los Angeles,CA,2025-04-27 00:44:00,yes,Word of mouth
+VB-C1051,Daniel,Coleman, dcoleman@outlook.com ,Boston,MA,2024-11-21 00:50:00,yes,instagram ad
+VB-C1042,Jasmine,Ramirez,jasmineramirez96@yahoo.com,Orlando,FL,2024-11-16 00:33:00,no,TikTok
+VB-C1226,Kimberly,Perry,kimberly_p23@outlook.com,Seattle,WA,2025-09-10 00:20:00,yes,
+VB-C1253,Aaron,Henderson,aaron.henderson@gmail.com,Denver,CO,2025-10-28 00:52:00,no,Word of mouth
+VB-C1245,Donald,Sullivan,DONALDSULLIVAN51@ICLOUD.COM,Miami,FL,2025-10-18 00:44:00,yes,IG page
+VB-C1088,Jasmine,Scott,jasmine_s70@icloud.com,Columbus,OH,2024-12-10 00:47:00,yes,Facebook Ad
+VB-C1155,Michael,Gutierrez,michael.gutierrez@gmail.com,Miami,FL,2025-04-25 00:02:00,yes,
+VB-C1198,Jessica,Myers, jessica_m83@gmail.com ,Philadelphia,PA,2025-07-26 00:17:00,yes,Instagram
+VB-C1209,Steven,Flores,steven_f75@yahoo.com,Brooklyn,NY,2025-08-10 00:30:00,no,IG page
+VB-C1219,Steven,Barnes,steven_b94@outlook.com,Houston,TX,2025-08-26 00:16:00,yes,Instagram Ad
+VB-C1084,Darius,Young,DYOUNG@ICLOUD.COM,Boston,MA,2024-12-06 00:15:00,no,friend
+VB-C1053,John,Lewis,john.lewis@gmail.com,Charlotte,NC,2024-11-22 00:19:00,yes,friend
+VB-C1078,Kenneth,Mendoza,kenneth_m37@icloud.com,Raleigh,NC,2024-12-02 00:41:00,yes,Instagram Ad
+VB-C1121,Jose,Kelly,jkelly@icloud.com,Dallas,TX,2025-01-22 00:30:00,yes,Word of mouth
+VB-C1035,Justin,Hill,JUSTIN_H34@GMAIL.COM,Dallas,TX,2024-11-02 00:10:00,yes,Instagram
+VB-C1027,Ava,Campbell,acampbell@gmail.com,Los Angeles,CA,2024-10-11 00:28:00,no,Saw an ad on Instagram
+VB-C1190,Lisa,Thompson,lisa.thompson@gmail.com,Phoenix,AZ,2025-07-19 00:28:00,yes,Pop-up Event
+VB-C1208,Jasmine,Perez,jasmine_p52@hotmail.com,Philadelphia,PA,2025-08-09 00:14:00,yes,
+VB-C1150,Jeffrey,Kelly,jeffrey.kelly@outlook.com,Charlotte,NC,2025-04-12 00:45:00,yes,Instagram
+VB-C1230,Brian,Carter,bcarter@outlook.com,New York,New York,2025-09-21 00:59:00,no,
+VB-C1139,Jason,Robinson,jason.robinson@gmail.com,Philadelphia,PA,2025-03-28 00:16:00,yes,Instagram Ad
+VB-C1181,Jason,Taylor,jtaylor@yahoo.com,Houston,TX,2025-07-06 00:22:00,yes,Instagram
+VB-C1189,Samuel,Jenkins,samuel_j5@gmail.com,Atlanta,GA,2025-07-19 00:15:00,yes,Pop up shop
+VB-C1202,Sharon,Richardson,sharon.richardson@yahoo.com,New Orleans,LA,2025-07-31 00:24:00,yes,Word of mouth
+VB-C1157,Jonathan,Wood,jwood@hotmail.com,Houston,TX,2025-04-28 00:20:00,yes,Facebook Ad
+VB-C1090,James,Lewis,jameslewis19@gmail.com,Atlanta,GA,2024-12-11 00:12:00,yes,
+VB-C1203,Eric,Carter,ericcarter73@gmail.com,New York,NY,2025-08-03 00:16:00,yes,instagram ad
+VB-C1074,Kelly,Campbell,KELLY.CAMPBELL@GMAIL.COM,New York,NY,2024-12-01 00:31:00,yes,Saw an ad on Instagram
+VB-C1037,Christina,Moore,christina_m31@outlook.com,Washington,DC,2024-11-06 00:18:00,no,
+VB-C1158,Patricia,Cruz,patriciacruz77@yahoo.com,Seattle,WA,2025-04-30 00:46:00,yes,Instagram Ad
+VB-C1161,Destiny,Anderson,destinyanderson2@gmail.com,Dallas,TX,2025-05-09 00:26:00,no,Word of mouth
+VB-C1017,Andre,Hill,andrehill12@gmail.com,Atlanta,GA,2024-10-01 00:31:00,no,Friend/Family
+VB-C1218,Emily,Turner,eturner@outlook.com,Houston,TX,2025-08-25 00:18:00,yes,Saw an ad on Instagram
+VB-C1221,Ava,Rogers, arogers@outlook.com ,Austin,TX,2025-09-01 00:21:00,no,Instagram
+VB-C1199,James,Chavez, jameschavez31@outlook.com ,Houston,TX,2025-07-27 00:32:00,yes,friend
+VB-C1006,Sharon,Campbell, sharon_c71@gmail.com ,Brooklyn,New York,2024-09-15 00:30:00,yes,Saw an ad on Instagram
+VB-C1101,Mark,Wright,mark.wright@yahoo.com,Dallas,Texas,2024-12-14 00:10:00,yes,Pop up shop
+VB-C1220,Barbara,Watson,bwatson@yahoo.com,Brooklyn,NY,2025-08-28 00:56:00,yes,Saw an ad on Instagram
+VB-C1056,Karen,Jones,karen_j69@gmail.com,Chicago,IL,2024-11-24 00:33:00,no,Saw an ad on Instagram
+VB-C1067,Amanda,Smith,amandasmith48@gmail.com,Brooklyn,NY,2024-11-28 00:15:00,no,Instagram Ad
+VB-C1228,Emily,Mendoza,emilymendoza47@gmail.com,Seattle,WA,2025-09-17 00:39:00,yes,Facebook Ad
+VB-C1040,Zachary,Cooper,zacharycooper7@gmail.com,Atlanta,GA,2024-11-10 00:04:00,yes,Instagram (organic)
+VB-C1047,Jacob,Phillips, jacobphillips82@gmail.com ,,MD,2024-11-20 00:33:00,yes,Saw an ad on Instagram
+VB-C1193,Thomas,Diaz,thomas.diaz@outlook.com,Charlotte,nc,2025-07-20 00:07:00,yes,Saw an ad on Instagram
+VB-C1165,Jeffrey,Gray,jgray@gmail.com,New York,NY,2025-05-20 00:00:00,yes,Saw an ad on Instagram
+VB-C1044,Sharon,Wilson,sharon.wilson@icloud.com,Charlotte,NC,2024-11-16 00:57:00,yes,Instagram (organic)
+VB-C1015,Valeria,Harris,valeriaharris32@gmail.com,Houston,TX,2024-09-29 00:45:00,yes,Facebook Ad
+VB-C1021,Joshua,Young,joshua_y42@gmail.com,Austin,TX,2024-10-05 00:55:00,yes,instagram ad
+VB-C1046,Jalen,Foster,jalen.foster@gmail.com,Phoenix,AZ,2024-11-18 00:45:00,no,Friend/Family
+VB-C1007,Edward,Harris,edward.harris@icloud.com,Atlanta,GA,2024-09-16 00:24:00,no,Facebook Ad
+VB-C1174,Cynthia,King,cynthia.king@icloud.com,Washington,DC,2025-06-27 00:55:00,yes,
+VB-C1023,Victoria,Evans,VICTORIAEVANS8@ICLOUD.COM,Houston,TX,2024-10-09 00:10:00,yes,Saw an ad on Instagram
+VB-C1073,Layla,Reyes,layla_r59@yahoo.com,Denver,CO,2024-11-30 00:20:00,yes,Instagram Ad
+VB-C1141,Luis,Ramirez,lramirez@gmail.com,Orlando,FL,2025-03-30 00:57:00,yes,Saw an ad on Instagram
+VB-C1123,Jennifer,Jimenez,jennifer_j35@yahoo.com,Philadelphia,PA,2025-01-30 00:55:00,yes,
+VB-C1184,Melissa,Jones,melissa.jones@gmail.com,Houston,Texas,2025-07-11 00:53:00,yes,Saw an ad on Instagram
+VB-C1197,Ryan,Morris,ryan_m40@icloud.com,San Diego,CA,2025-07-22 00:30:00,yes,Instagram
+VB-C1058,Megan,Roberts,mroberts@outlook.com,Chicago,IL,2024-11-24 00:00:00,yes,Instagram Ad
+VB-C1248,Jason,Anderson,JASONANDERSON75@ICLOUD.COM,,IL,2025-10-22 00:19:00,no,Facebook Ad
+VB-C1240,Jacob,Cruz,jacob_c34@yahoo.com,Atlanta,GA,2025-10-05 00:31:00,yes,Saw an ad on Instagram
+VB-C1172,Rebecca,Thompson,rebecca.thompson@hotmail.com,New York,NY,2025-06-25 00:58:00,yes,Saw an ad on Instagram
+VB-C1026,Samuel,Wood,samuel_w12@outlook.com,Orlando,FL,2024-10-11 00:48:00,yes,IG page
+VB-C1082,Victoria,Anderson,VICTORIA.ANDERSON@HOTMAIL.COM,Seattle,WA,2024-12-05 00:32:00,yes,Friend/Family
+VB-C1050,Nancy,Ramos,nancy_r95@gmail.com,,TX,2024-11-21 00:05:00,yes,Facebook Ad
+VB-C1000,Gregory,Richardson,gregory.richardson@gmail.com,Philadelphia,PA,2024-09-02 00:15:00,yes,Facebook Ad
+VB-C1072,Aaron,Clark,aclark@gmail.com,Brooklyn,New York,2024-11-30 00:25:00,yes,Word of mouth
+VB-C1039,Anna,Edwards,annaedwards84@gmail.com,Dallas,TX,2024-11-10 00:04:00,yes,TikTok
+VB-C1031,Richard,Harris,richard.harris@outlook.com,Nashville,TN,2024-10-17 00:29:00,no,IG page
+VB-C1008,Jessica,Ward,JESSICA_W19@HOTMAIL.COM,Brooklyn,NY,2024-09-18 00:59:00,no,instagram ad

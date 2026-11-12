@@ -1,0 +1,11 @@
+campaign_id,meta_campaign_id,campaign_name,utm_campaign,objective,strategy,audience,creative_type,start_date,end_date
+C01,23851010447007,VB | Launch | Broad Prospecting,launch_broad,Sales,Broad Prospecting,"Broad 18-34, US",Static Image,2024-09-01,2024-10-20
+C02,23851020447014,VB | Interest | Streetwear Enthusiasts,interest_streetwear,Sales,Interest Prospecting,"Interests: streetwear, sneakers, hypebeast",Carousel,2024-10-01,2025-03-31
+C03,23851030447021,VB | BFCM 2024 | 25% Off,bfcm_2024,Sales,Seasonal Promotion,Broad + warm audiences,Static Image,2024-11-20,2024-12-02
+C04,23851040447028,VB | Holiday Gifting 2024,holiday_gifting,Sales,Seasonal Promotion,Gift-givers 25-44,Carousel,2024-12-03,2024-12-20
+C05,23851050447035,VB | Retargeting | Site Visitors + ATC,retargeting_always_on,Sales,Retargeting,"Site visitors 30d, add-to-cart 14d, IG engagers",Dynamic Product Ads,2024-09-15,2025-10-31
+C06,23851060447042,VB | Lookalike 1% | Purchasers,lal_1pct_purchasers,Sales,Lookalike Prospecting,1% lookalike of purchasers,UGC Video,2025-02-01,2025-10-31
+C07,23851070447049,VB | Spring Drop 2025 | Video,spring_drop_video,Sales,Product Drop,Broad 18-34 + interests,Studio Video,2025-03-08,2025-04-30
+C08,23851080447056,VB | Summer Collection | Reels UGC,summer_reels_ugc,Sales,UGC / Reels,"Broad 18-34, Reels placements",UGC Reels,2025-06-01,2025-08-31
+C09,23851090447063,VB | Brand Awareness | Reach,awareness_reach,Awareness,Brand Awareness,"Broad 18-44, US",Studio Video,2025-04-15,2025-06-30
+C10,23851100447070,VB | Fall Drop 2025 | Carousel,fall_drop_carousel,Sales,Product Drop,Advantage+ audience,Carousel,2025-09-01,2025-10-31
